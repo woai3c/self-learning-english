@@ -1,0 +1,29 @@
+name: GitHub Actions Build and Deploy
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2.3.1
+        with:
+          persist-credentials: false
+      - name: Install pnpm
+        run: |
+          npm install -g pnpm
+      - name: Install and Build
+        run: |
+          pnpm install --lockfiley
+          pnpm build
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.SELF_LEARNING_ENGLISH }}
+          BRANCH: master
+          FOLDER: docs/.vitepress/dist
+          CLEAN: true
+          REPOSITORY_NAME: woai3c/woai3c.github.io
+          TARGET_FOLDER: self-learning-english
