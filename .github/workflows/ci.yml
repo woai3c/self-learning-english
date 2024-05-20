@@ -16,7 +16,7 @@ jobs:
           npm install -g pnpm
       - name: Install and Build
         run: |
-          pnpm install --lockfiley
+          pnpm install --lockfile
           pnpm build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.7.1
