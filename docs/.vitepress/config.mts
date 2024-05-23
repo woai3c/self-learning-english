@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/self-learning-english/',
   title: '自学英语',
-  description: '记录我自学英语的旅程',
+  description: '分享一下自学英语的过程',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
