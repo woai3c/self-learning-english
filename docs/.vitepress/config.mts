@@ -8,9 +8,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '首页', link: '/' },
+      { text: '简介', link: '/introduce' },
       { text: '对话', link: '/dialogue' },
-      { text: '时态', link: '/tense' },
+      { text: '时态', link: '/tense/intro' },
       { text: '句型', link: '/sentence-pattern' },
       { text: '语法', link: '/grammar' },
       { text: '术语', link: '/terminology' }
@@ -21,8 +21,12 @@ export default defineConfig({
         {
           text: '时态',
           items: [
-            { text: '简介', link: '/tense/' },
-            { text: '现在进行时', link: '/tense/present-continuous' }
+            { text: '简介', link: '/tense/intro' },
+            { text: '过去进行时', link: '/tense/past-continuous' },
+            { text: '一般过去时', link: '/tense/past-simple' },
+            { text: '现在进行时', link: '/tense/present-continuous' },
+            { text: '现在完成时', link: '/tense/present-perfect' },
+            { text: '一般现在时', link: '/tense/present-simple' }
           ]
         }
       ]

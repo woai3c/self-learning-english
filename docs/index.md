@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 查看我的学习笔记
-      link: /dialogue
+      link: /introduce
     - theme: alt
       text: 《人人都能用英语》
       link: https://github.com/xiaolai/everyone-can-use-english
