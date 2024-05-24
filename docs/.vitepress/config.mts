@@ -12,8 +12,8 @@ export default defineConfig({
       { text: '对话', link: '/dialogue/intro' },
       { text: '时态', link: '/tense/intro' },
       { text: '句型', link: '/sentence-pattern' },
-      { text: '语法', link: '/grammar' },
-      { text: '术语', link: '/terminology' }
+      { text: '语法', link: '/grammar/intro' },
+      { text: '术语', link: '/terminology' },
     ],
 
     sidebar: {
@@ -23,12 +23,12 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/tense/intro' },
             { text: '过去进行时', link: '/tense/past-continuous' },
+            { text: '一般现在时', link: '/tense/present-simple' },
             { text: '一般过去时', link: '/tense/past-simple' },
             { text: '现在进行时', link: '/tense/present-continuous' },
             { text: '现在完成时', link: '/tense/present-perfect' },
-            { text: '一般现在时', link: '/tense/present-simple' }
-          ]
-        }
+          ],
+        },
       ],
       '/dialogue/': [
         {
@@ -36,12 +36,21 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/dialogue/intro' },
             { text: '面试', link: '/dialogue/interview' },
-            { text: '前端', link: '/dialogue/fe' }
-          ]
-        }
-      ]
+            { text: '前端', link: '/dialogue/fe' },
+          ],
+        },
+      ],
+      '/grammar/': [
+        {
+          text: '语法',
+          items: [
+            { text: '简介', link: '/grammar/intro' },
+            { text: 'for since ago', link: '/grammar/for-since-ago' },
+          ],
+        },
+      ],
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/woai3c/self-learning-english' }]
-  }
+    socialLinks: [{ icon: 'github', link: 'https://github.com/woai3c/self-learning-english' }],
+  },
 })
