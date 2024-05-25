@@ -15,8 +15,8 @@ hero:
       link: https://github.com/xiaolai/everyone-can-use-english
 
 features:
-  - title: 对话
-    details: 面试、工作中比较常见英语对话
+  - title: 问答
+    details: 面试、工作中比较常见英语问答
   - title: 时态
     details: 关于时态的知识
   - title: 句型

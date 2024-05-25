@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '简介', link: '/introduce' },
-      { text: '对话', link: '/dialogue/intro' },
+      { text: '问答', link: '/qa/intro' },
       { text: '时态', link: '/tense/intro' },
       { text: '句型', link: '/sentence-pattern' },
       { text: '语法', link: '/grammar/intro' },
@@ -30,13 +30,23 @@ export default defineConfig({
           ],
         },
       ],
-      '/dialogue/': [
+      '/qa/': [
         {
-          text: '对话',
+          text: '问答',
           items: [
-            { text: '简介', link: '/dialogue/intro' },
-            { text: '面试', link: '/dialogue/interview' },
-            { text: '前端', link: '/dialogue/fe' },
+            { text: '简介', link: '/qa/intro' },
+            { text: '面试', link: '/qa/interview' },
+            {
+              text: '前端',
+              items: [
+                { text: '基础', link: '/qa/fe/basic' },
+                { text: '脚手架', link: '/qa/fe/cli' },
+                { text: '低代码', link: '/qa/fe/lowcode' },
+                { text: '监控', link: '/qa/fe/monitor' },
+                { text: '性能优化', link: '/qa/fe/performance-optimization' },
+                { text: '其他', link: '/qa/fe/other' },
+              ],
+            },
           ],
         },
       ],

@@ -1,8 +1,6 @@
 ---
-title: 前端
+title: 基础
 ---
-
-这里的对话一般和前端开发相关，包括一些前端开发的基础知识、面试问题等。
 
 ## Why do we need to initialize CSS styles
 
