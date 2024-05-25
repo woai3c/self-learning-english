@@ -2,6 +2,9 @@
 title: 脚手架
 ---
 
+1. [You mentioned that you have experience developing a scaffold. Can you explain why you developed the scaffold and what problems it solved?](#you-mentioned-that-you-have-experience-developing-a-scaffold-can-you-explain-why-you-developed-the-scaffold-and-what-problems-it-solved)
+1. [What challenges did you encounter during the development of the scaffold, and how did you solve them?](#what-challenges-did-you-encounter-during-the-development-of-the-scaffold-and-how-did-you-solve-them)
+
 ## You mentioned that you have experience developing a scaffold. Can you explain why you developed the scaffold and what problems it solved?
 
 Developing a scaffold is mainly for quickly creating projects. This scaffold has many project templates built in according to our company's business needs, such as PC backend management systems, mobile projects, and mini-program project templates. With the scaffold, we no longer need to create projects from scratch or manually configure eslint and ci/cd, because the project templates are already pre-configured. Now, creating a project with a scaffold only requires a single command, which is very convenient and greatly improves development efficiency.

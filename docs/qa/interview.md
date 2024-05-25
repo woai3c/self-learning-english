@@ -2,17 +2,21 @@
 title: 面试
 ---
 
-这里的问答一般和面试相关，其中大部分的面试问题是根据我自身的经历和面试经验整理的，希望对你有所帮助。
-
-- [greetings](#greetings)
-- [endding](#endding)
-- [Please introduce yourself briefly](#please-introduce-yourself-briefly)
-- [Why did you switch careers to become a programmer?](#why-did-you-switch-careers-to-become-a-programmer)
-- [Talk about your career planning.](#talk-about-your-career-planning)
-- [What kind of working environment do you like?](#what-kind-of-working-environment-do-you-like)
-- [How do you handle pressure or stressful situations?](#how-do-you-handle-pressure-or-stressful-situations)
-- [Do you prefer individual action or teamwork?](#do-you-prefer-individual-action-or-teamwork)
-- [How do you handle multiple tasks at the same time?](#how-do-you-handle-multiple-tasks-at-the-same-time)
+1. [greetings](#greetings)
+1. [endding](#endding)
+1. [Please introduce yourself briefly](#please-introduce-yourself-briefly)
+1. [Why did you switch careers to become a programmer?](#why-did-you-switch-careers-to-become-a-programmer)
+1. [Talk about your career planning.](#talk-about-your-career-planning)
+1. [What kind of working environment do you like?](#what-kind-of-working-environment-do-you-like)
+1. [How do you handle pressure or stressful situations?](#how-do-you-handle-pressure-or-stressful-situations)
+1. [Do you prefer individual action or teamwork?](#do-you-prefer-individual-action-or-teamwork)
+1. [How do you handle multiple tasks at the same time?](#how-do-you-handle-multiple-tasks-at-the-same-time)
+1. [Talk about a moment or specific contribution in a project that you take particular pride in. What impact did it have, and how did you overcome the challenges involved?](#talk-about-a-moment-or-specific-contribution-in-a-project-that-you-take-particular-pride-in-what-impact-did-it-have-and-how-did-you-overcome-the-challenges-involved)
+1. [Your English is not very good.](#your-english-is-not-very-good)
+1. [What are your weaknesses?](#what-are-your-weaknesses)
+1. [What are your strengths?](#what-are-your-strengths)
+1. [What did you do last year to improve your knowledge?](#what-did-you-do-last-year-to-improve-your-knowledge)
+1. [Do you have any questions you'd like to ask?](#do-you-have-any-questions-youd-like-to-ask)
 
 ## Greetings
 
@@ -56,7 +60,7 @@ Due to dissatisfaction with my previous jobs, I've done a variety of work, like 
 
 <details>
 <summary>查看中文</summary>
-为什么要转行成为程序员
+为什么要转行成为程序员？
 
 因为对之前的工作不满意，我之前做过销售、工人、搬运工等工作，但是一直觉得没意思，很迷惘，不知道自己应该做什么。后来无意中在知乎了解到编程和程序员这个职业，觉得这个职业很适合我，很有趣，也非常有挑战性。所以我决定辞职在家自学编程，并且经过三个月的努力，我也成功转行，成为了一名前端。
 
@@ -84,7 +88,7 @@ I enjoy a simple and straightforward, positive working environment where everyon
 
 <details>
 <summary>查看中文</summary>
-你喜欢什么样的工作环境
+你喜欢什么样的工作环境？
 
 我喜欢简单直接，积极向上的工作环境，大家能够相互合作，一起为公司的目标而努力。
 
@@ -96,7 +100,7 @@ No matter the situation, I believe staying calm is most important. Of course, pe
 
 <details>
 <summary>查看中文</summary>
-您如何应对压力或紧张的情况
+您如何应对压力或紧张的情况？
 
 我觉得无论发生情况，保持冷静是最重要的。当然，人不是机器，不可能没有情绪波动，但是我们要尽量控制好情绪保持冷静。在这种情况下我再去分析问题，然后找到解决问题的方法。如果遇到问题解决不了，我会领导请教。
 
@@ -110,7 +114,7 @@ I like both; I believe that whether individual action or teamwork, the goal is t
 
 <details>
 <summary>查看中文</summary>
-你喜欢个人行动还是团队合作
+你喜欢个人行动还是团队合作？
 
 这两种我都喜欢，我觉得个人行动还是团队合作都是为了把事做好。如果需要我单独行动，我会接受，然后去做，因为我单兵作战能力很强。如果需要团队合作，我也会积极配合，因为团队合作能够把事情做的更好。
 
@@ -125,5 +129,77 @@ I would confirm the priority and importance of each task with my leader, determi
 当你同时有多个任务时，如何处理
 
 我会和领导确认任务的优先级和重要性，确认每个任务的最小完成工作量、可交付目标是什么，然后根据任务的优先级和重要性来安排工作。
+
+</details>
+
+## Talk about a moment or specific contribution in a project that you take particular pride in. What impact did it have, and how did you overcome the challenges involved?
+
+A moment I take pride in is when I taught myself programming and became a developer. Becoming a developer was a turning point in my life. Without it, I might still be aimless, earning a small income. Learning to code gave me a passion and a goal to become a world-class programmer. When I faced problems in self-learning programming, I usually solved them by researching and asking questions in tech communities.
+
+<details>
+<summary>查看中文</summary>
+谈谈一个你引以为豪的时刻或者项目里的特定贡献。它带来了什么影响？您是如何克服挑战的？
+
+我觉得是我通过自学编程，成为程序员的那一刻。转行成为程序员是我人生的转折点，如果没有成为程序员，我现在可能还是无所事事，一个月挣两三千。学会编程让我有了热爱的事情，让人生有了追求，我的目标就是成为一名世界级的程序员。在自学编程遇到问题的时候，我一般会通过查资料、在技术社区提问的方式来解决。
+
+</details>
+
+## Your English is not very good.
+
+Yes, my English is not very good. However, this doesn't mean my English will always be this way. Recently, I have been spending more than 3 hours every day memorizing vocabulary and practicing speaking. Therefore, my English will continue to improve, and communication will no longer be a problem.
+
+<details>
+<summary>查看中文</summary>
+你的英语不是很好
+
+是的，我的英语不是很好。但是，这并不意味着我的英语会一直这样。最近，我每天都会花费超过3个小时来记忆词汇和练习口语。因此，我的英语会继续提高，沟通将不再是问题。
+
+</details>
+
+## What are your weaknesses?
+
+My English is not very good, but I have been continuously working on improving it, including memorizing vocabulary and practicing spoken English every day. I believe that through persistent effort, my English skills will continue to improve.
+
+<details>
+<summary>查看中文</summary>
+你的缺点是什么？
+
+英语不够好，但是我一直有在提升英语，包括每天背单词和练习口语。我相信通过不断的努力，我的英语会越来越好。
+
+</details>
+
+## What are your strengths?
+
+My strength lies in my solid technical level. I currently possess full-stack development capability and am also a seasoned front-end engineer. I have a strong passion for programming and excellent self-learning ability. Hence, my abilities will continue to advance over time, which is my greatest advantage.
+
+<details>
+<summary>查看中文</summary>
+你的优势是什么？
+
+我的优势是我扎实的技术水平，我目前拥有全栈的开发能力，同时也是一名资深的前端工程师。我对编程拥有极大的热情，自学能力也很强。所以未来我的能力是会持续提升的，这也是我最大的优势。
+
+</details>
+
+## What did you do last year to improve your knowledge?
+
+Last year, I primarily studied Nodejs, Docker, and K8s and applied these technologies in my work. I also created a GPT account to help me solve some development issues and write some documentation.
+
+<details>
+<summary>查看中文</summary>
+去年你做了什么来提高你的知识
+
+我去年主要学习了 Nodejs docker k8s，并且用到了工作中。然后开通了 GPT 的账号来帮助我解决一些开发问题或者写一些文档。
+
+</details>
+
+## Do you have any questions you'd like to ask?
+
+I've done much research online and have a general understanding of what our company does. However, I'm still not clear about the responsibilities of this position and hope you can give me an introduction.
+
+<details>
+<summary>查看中文</summary>
+你有什么问题想问的吗
+
+我在网上查了很多资料，已经大致了解了我们公司的业务是做什么的。但是我对这个岗位的职责还是不太清楚，希望您能给我介绍一下。
 
 </details>

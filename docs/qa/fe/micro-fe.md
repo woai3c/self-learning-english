@@ -2,6 +2,8 @@
 title: 微前端
 ---
 
+1. [What challenges and opportunities does micro-frontend architecture bring to front-end development, and how do you overcome these challenges?](#what-challenges-and-opportunities-does-micro-frontend-architecture-bring-to-front-end-development-and-how-do-you-overcome-these-challenges)
+
 ## What challenges and opportunities does micro-frontend architecture bring to front-end development, and how do you overcome these challenges?
 
 I think the main benefit of micro-frontends is that they can link different applications together. If you need to integrate some old applications into the current one, you can use micro-frontends instead of rewriting the old applications. However, micro-frontends have several issues to solve, such as communication between modules, data sharing, and style isolation. They can also be complicated to use. If it's a new application, there's no need to use micro-frontends to avoid potential problem. Currently, I mainly use some mature micro-frontend frameworks to solve these problems, such as qiankun and micro-app, which work quite well.

@@ -2,6 +2,8 @@
 title: 监控
 ---
 
+1. [Can you describe the main features of the front-end monitor SDK you developed and how you process and analyze monitor data to optimize performance?](#can-you-describe-the-main-features-of-the-front-end-monitor-sdk-you-developed-and-how-you-process-and-analyze-monitor-data-to-optimize-performance)
+
 ## Can you describe the main features of the front-end monitor SDK you developed and how you process and analyze monitor data to optimize performance?
 
 The SDK can gather performance data, error data, and user behavior data from webpages. Then, it sends this data to a server for storage in a database. Monitor data can be reviewed through a monitor platform. With this information, we can identify performance bottlenecks and optimize accordingly, such as by implementing caching and lazy loading of routes.

@@ -2,6 +2,9 @@
 title: 性能优化
 ---
 
+1. [Please describe a technology you implemented for performance optimization and specifically how the performance improvement was quantified.](#please-describe-a-technology-you-implemented-for-performance-optimization-and-specifically-how-the-performance-improvement-was-quantified)
+1. [When you encounter performance bottlenecks, what tools and methods do you typically use to identify and resolve the issues?](#when-you-encounter-performance-bottlenecks-what-tools-and-methods-do-you-typically-use-to-identify-and-resolve-the-issues)
+
 ## Please describe a technology you implemented for performance optimization and specifically how the performance improvement was quantified.
 
 In optimizing the initial loading time, I used techniques such as route lazy-loading, browser caching with nginx, code compression, file compression, and CDN. These techniques reduced the first screen load time from 4 seconds to 1.5 seconds, greatly enhancing user experience. Regarding quantification, we can collect performance data with monitoring tools and compare the data before and after optimization to see the extent of the performance improvement.
