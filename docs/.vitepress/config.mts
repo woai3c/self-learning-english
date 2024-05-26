@@ -39,7 +39,7 @@ export default defineConfig({
             {
               text: '前端',
               items: [
-                { text: '基础', link: '/qa/fe/basic' },
+                { text: 'CSS', link: '/qa/fe/css' },
                 { text: '监控', link: '/qa/fe/monitor' },
                 { text: '脚手架', link: '/qa/fe/cli' },
                 { text: '低代码', link: '/qa/fe/lowcode' },
@@ -58,6 +58,7 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/grammar/intro' },
             { text: 'for since ago', link: '/grammar/for-since-ago' },
+            { text: '被动语态', link: '/grammar/passive-voice' },
           ],
         },
       ],

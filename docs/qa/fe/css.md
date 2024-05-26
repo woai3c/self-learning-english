@@ -1,5 +1,5 @@
 ---
-title: 基础
+title: CSS
 ---
 
 1. [Why do we need to initialize CSS styles?](#why-do-we-need-to-initialize-css-styles)

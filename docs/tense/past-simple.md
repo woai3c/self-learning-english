@@ -41,3 +41,23 @@ did 后面加动词原形，例如：
 - What **did** you **do** yesterday evening?
 - How **did** the accident **happen** yesterday evening?
 - Where **did** your parents **go** for their holiday?
+
+## 一般过去时和现在完成时的区别
+
+在这之前先了解一下“finished time 结束时间”的概念：
+
+结束时间是指那些已经结束的时间，例如 "yesterday", "last week", "in 1990", "three days ago", "at 3 o'clock" 等。结束时间用于一般过去时，不能和现在完成时一起使用。
+
+一般过去时（Past Simple）和现在完成时（Present Perfect）在英语中都用于描述过去的事件，但它们的用法和含义有所不同。
+
+**一般过去时用于描述在过去某个具体时间发生的事件或状态**。这个时间通常会在句子中明确给出，例如 "yesterday", "last year", "in 1990" 等。例如：
+
+- "I visited Paris last year."（我去年访问了巴黎。）
+
+**现在完成时用于描述在过去发生的事件或状态，但这个事件或状态对现在仍有影响，或者这个事件或状态在过去的某个不确定的时间发生**。例如：
+
+- "I have visited Paris."（我去过巴黎。）
+
+在这个例子中，我们不知道访问巴黎的具体时间，只知道这个事件在过去的某个时间发生，并且这个事件对现在仍有影响（例如，现在的我知道巴黎是什么样的）。
+
+总的来说，如果你知道事件发生的具体时间，并且这个事件对现在没有影响，那么应该使用一般过去时。如果你不知道事件发生的具体时间，或者这个事件对现在仍有影响，那么应该使用现在完成时。
