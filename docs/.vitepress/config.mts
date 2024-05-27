@@ -48,6 +48,7 @@ export default defineConfig({
                 { text: '其他', link: '/qa/fe/other' },
               ],
             },
+            { text: '职场交流', link: '/qa/workplace-communication' },
             { text: '其他', link: '/qa/other' },
           ],
         },
