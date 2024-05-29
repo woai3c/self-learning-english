@@ -47,3 +47,27 @@ title: 被动语态
 - 将来时：The work will be finished tomorrow.（工作将在明天完成。）
 
 所以，"be" 动词并不总是在被动语态中使用过去式。它的形式取决于你想要表达的时态。
+
+## passive + 现在进行时
+
+被动语态的现在进行时是用来描述正在进行的被动动作。它的结构是：**主语 + be (am/is/are) + being + 过去分词**。
+
+例如：
+
+- The cake is being eaten.（蛋糕正在被吃。）
+- The letter is being written.（信正在被写。）
+- The house is being painted.（房子正在被粉刷。）
+
+在这些例子中，"is being painted", "is being eaten", 和 "is being written" 都是被动语态的现在进行时。
+
+## passive + 现在完成时
+
+被动语态的现在完成时用来描述已经完成的被动动作。它的结构是：**主语 + have/has + been + 过去分词**。
+
+例如：
+
+- The cake has been eaten.（蛋糕已经被吃掉了。）
+- The letter has been written.（信已经被写了。）
+- The house has been painted.（房子已经被粉刷了。）
+
+在这些例子中，"has been eaten", "has been written", 和 "has been painted" 都是被动语态的现在完成时。

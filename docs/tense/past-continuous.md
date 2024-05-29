@@ -8,8 +8,9 @@ title: 过去进行时
 
 过去进行时的构成是：主语 + was/were + 动词的现在分词（即动词+ing）。
 
-3.00 -----------------------> 4.00 --------------------> 4.30 ---------------> now 6.00
-began playing<------she was playing-------------->stopped playing
+3.00 ------------------------- > 4.00 --------------------- > 4.30 ----------- > now 6.00
+
+began playing< ---------she was playing---------- >stopped playing
 
 ## was/were + -ing
 
