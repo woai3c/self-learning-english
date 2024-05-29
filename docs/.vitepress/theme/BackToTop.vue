@@ -1,32 +1,35 @@
 <template>
-  <div class="back-to-top" @click="scrollToTop" v-show="visible">
-    ↑
-  </div>
+  <div class="back-to-top" @click="scrollToTop" v-show="visible">↑</div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      visible: false,
-    };
-  },
-  methods: {
-    scrollToTop() {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    },
-    handleScroll() {
-      this.visible = window.scrollY > 100;
-    },
-  },
-  mounted() {
-    window.addEventListener('scroll', this.handleScroll);
-  },
-  beforeUnmount() {
-    window.removeEventListener('scroll', this.handleScroll);
-  },
-};
-</script>
 
+<script setup lang="ts">
+import { ref, onMounted, onUnmounted } from 'vue'
+
+// 定义一个响应式变量来控制 BackToTop 按钮的可见性
+const visible = ref(false)
+
+const scrollToTop = () => {
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
+
+const handleScroll = () => {
+  visible.value = window.scrollY > 100
+}
+
+onMounted(() => {
+  if (typeof window !== 'undefined') {
+    // 确保只在客户端执行
+    window.addEventListener('scroll', handleScroll)
+  }
+})
+
+onUnmounted(() => {
+  if (typeof window !== 'undefined') {
+    // 确保只在客户端执行
+    window.removeEventListener('scroll', handleScroll)
+  }
+})
+</script>
 
 <style scoped>
 .back-to-top {

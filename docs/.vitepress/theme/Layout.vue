@@ -9,26 +9,36 @@
   </Layout>
 </template>
 
-<script setup>
-import { ref, onMounted, onUnmounted, computed } from 'vue'
+<script setup lang="ts">
+import { ref, onMounted, onUnmounted } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import BackToTop from './BackToTop.vue'
 
 const { Layout } = DefaultTheme
 
-const isMobile = ref(window.innerWidth <= 1279)
-const mediaQuery = window.matchMedia('(max-width: 1279px)')
+// 检查是否在浏览器环境中
+const isInWindow = typeof window !== 'undefined'
+const isMobile = ref(false)
 
+// 响应 media query 变更的回调函数
 const checkMediaQuery = (e) => {
   isMobile.value = e.matches
 }
 
+let mediaQuery
 onMounted(() => {
-  mediaQuery.addEventListener('change', checkMediaQuery)
-  checkMediaQuery(mediaQuery)
+  if (isInWindow) {
+    // 初始化媒体查询对象
+    mediaQuery = window.matchMedia('(max-width: 1279px)')
+    isMobile.value = mediaQuery.matches
+    mediaQuery.addEventListener('change', checkMediaQuery)
+  }
 })
 
 onUnmounted(() => {
-  mediaQuery.removeEventListener('change', checkMediaQuery)
+  if (isInWindow) {
+    // 删除媒体查询变化的事件监听器
+    mediaQuery.removeEventListener('change', checkMediaQuery)
+  }
 })
 </script>
