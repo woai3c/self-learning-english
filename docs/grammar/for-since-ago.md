@@ -1,8 +1,8 @@
 ---
-title: for-since-ago
+title: for since ago
 ---
 
-# for-since-ago
+# for since ago
 
 在英语中，"for", "since", 和 "ago" 都可以用来表示时间，但它们的用法和含义有所不同：
 

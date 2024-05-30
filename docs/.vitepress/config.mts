@@ -11,8 +11,8 @@ export default defineConfig({
       { text: '简介', link: '/introduce' },
       { text: '问答', link: '/qa/intro' },
       { text: '时态', link: '/tense/intro' },
-      { text: '句型', link: '/sentence-pattern' },
       { text: '语法', link: '/grammar/intro' },
+      { text: '句型', link: '/sentence-pattern' },
       { text: '术语', link: '/terminology' },
     ],
 
@@ -59,6 +59,7 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/grammar/intro' },
             { text: 'for since ago', link: '/grammar/for-since-ago' },
+            { text: 'be have do', link: '/grammar/be-have-do' },
             { text: '被动语态', link: '/grammar/passive-voice' },
           ],
         },
