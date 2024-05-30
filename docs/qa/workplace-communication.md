@@ -145,8 +145,6 @@ title: 职场交流
 
 ## Solving Production Issues
 
-解决生产问题
-
 **Team Lead**: Guys, we have a critical issue in production. The payment gateway is not processing transactions.
 
 **DevOps Engineer**: I'll check the logs and see if there’s any indication of what might be wrong.
@@ -163,6 +161,9 @@ title: 职场交流
 
 <details>
 <summary>查看中文</summary>
+
+解决生产问题
+
 **团队负责人**: 大家，我们的生产环境出现了一个关键问题。支付网关无法处理交易。
 
 **运维工程师**: 我去查看日志，看看有什么错误提示。
