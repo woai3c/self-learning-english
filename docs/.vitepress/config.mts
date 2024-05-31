@@ -12,6 +12,7 @@ export default defineConfig({
       { text: '问答', link: '/qa/intro' },
       { text: '时态', link: '/tense/intro' },
       { text: '语法', link: '/grammar/intro' },
+      { text: '短语', link: '/phrase/intro' },
       { text: '句型', link: '/sentence-pattern' },
       { text: '术语', link: '/terminology' },
     ],
@@ -61,6 +62,17 @@ export default defineConfig({
             { text: 'for since ago', link: '/grammar/for-since-ago' },
             { text: 'be have do', link: '/grammar/be-have-do' },
             { text: '被动语态', link: '/grammar/passive-voice' },
+            { text: 'will shall', link: '/grammar/will-shall' },
+          ],
+        },
+      ],
+      '/phrase/': [
+        {
+          text: '短语',
+          items: [
+            { text: '简介', link: '/phrase/intro' },
+            { text: 'used to', link: '/phrase/used-to' },
+            { text: 'be going to', link: '/phrase/be-going-to' },
           ],
         },
       ],
