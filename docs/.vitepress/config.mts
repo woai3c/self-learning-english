@@ -13,7 +13,7 @@ export default defineConfig({
       { text: '时态', link: '/tense/intro' },
       { text: '语法', link: '/grammar/intro' },
       { text: '短语', link: '/phrase/intro' },
-      { text: '句型', link: '/sentence-pattern' },
+      { text: '句型', link: '/sentence-pattern/intro' },
       { text: '术语', link: '/terminology' },
     ],
 
@@ -59,10 +59,15 @@ export default defineConfig({
           text: '语法',
           items: [
             { text: '简介', link: '/grammar/intro' },
+            { text: '被动语态', link: '/grammar/passive-voice' },
+            { text: '不定式和动名词', link: '/grammar/infinitive-gerund' },
             { text: 'for since ago', link: '/grammar/for-since-ago' },
             { text: 'be have do', link: '/grammar/be-have-do' },
-            { text: '被动语态', link: '/grammar/passive-voice' },
             { text: 'will shall', link: '/grammar/will-shall' },
+            { text: 'can could', link: '/grammar/can-could' },
+            { text: 'might may', link: '/grammar/might-may' },
+            { text: 'must should have-to', link: '/grammar/must-should-have-to' },
+            { text: 'too either neither', link: '/grammar/too-either-neither' },
           ],
         },
       ],
@@ -73,6 +78,15 @@ export default defineConfig({
             { text: '简介', link: '/phrase/intro' },
             { text: 'used to', link: '/phrase/used-to' },
             { text: 'be going to', link: '/phrase/be-going-to' },
+          ],
+        },
+      ],
+      '/sentence-pattern/': [
+        {
+          text: '句型',
+          items: [
+            { text: '简介', link: '/sentence-pattern/intro' },
+            { text: '句子成分', link: '/sentence-pattern/sentence-elements' },
           ],
         },
       ],
