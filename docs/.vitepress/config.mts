@@ -68,6 +68,7 @@ export default defineConfig({
             { text: 'might may', link: '/grammar/might-may' },
             { text: 'must should have-to', link: '/grammar/must-should-have-to' },
             { text: 'too either neither', link: '/grammar/too-either-neither' },
+            { text: 'go', link: '/grammar/go' },
           ],
         },
       ],
