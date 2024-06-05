@@ -69,6 +69,8 @@ export default defineConfig({
             { text: 'must should have-to', link: '/grammar/must-should-have-to' },
             { text: 'too either neither', link: '/grammar/too-either-neither' },
             { text: 'go', link: '/grammar/go' },
+            { text: 'get', link: '/grammar/get' },
+            { text: 'no none not-any', link: '/grammar/no-none-notany' },
           ],
         },
       ],
