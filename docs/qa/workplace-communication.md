@@ -14,6 +14,11 @@ title: 职场交流
 1. [Discussing New Features](#discussing-new-features)
 1. [Customer Support Discussion](#customer-support-discussion)
 1. [Project Acceptance Meeting](#project-acceptance-meeting)
+1. [Job Interview](#job-interview)
+1. [Team Meeting](#team-meeting)
+1. [Code Debugging Session](#code-debugging-session)
+1. [Performance Review](#performance-review)
+1. [Technical Discussion](#technical-discussion)
 
 ## Daily Standup Meeting
 
@@ -374,5 +379,181 @@ title: 职场交流
 **客户**: 没有，其他方面看起来都很好。期待下周的最终交付。
 
 **项目经理**: 太好了。我们会确保一切都准备就绪，准备交付。感谢您的反馈。
+
+</details>
+
+## Job Interview
+
+**Interviewer**: Can you tell me about a challenging project you've worked on?
+
+**Candidate**: Sure. I worked on a project where we had to migrate a legacy system to a new architecture. It involved rewriting a lot of the old code and ensuring that the new system was backward compatible.
+
+**Interviewer**: That sounds challenging. How did you ensure the new system was backward compatible?
+
+**Candidate**: We created a series of automated tests that mirrored the old system's functionality. This helped us identify any discrepancies early on and allowed us to make necessary adjustments before going live.
+
+**Interviewer**: Excellent. How did you manage the project timeline and ensure that the migration was completed on schedule?
+
+**Candidate**: We used agile methodologies, breaking down the project into smaller, manageable sprints. Regular stand-up meetings and progress reviews helped us stay on track and address any issues promptly.
+
+<details>
+<summary>查看中文</summary>
+工作面试
+
+**面试官**: 你能谈谈你参与过的一个具有挑战性的项目吗？
+
+**候选人**: 当然。我参与了一个项目，我们需要将一个遗留系统迁移到新的架构。这涉及到重写大量旧代码，并确保新系统与旧系统向后兼容。
+
+**面试官**: 听起来很有挑战性。你是如何确保新系统向后兼容的？
+
+**候选人**: 我们创建了一系列自动化测试，模拟旧系统的功能。这帮助我们及早发现任何差异，并在上线前做出必要的调整。
+
+**面试官**: 很好。你是如何管理项目时间表并确保迁移按时完成的？
+
+**候选人**: 我们使用了敏捷方法，将项目分解为较小的、可管理的冲刺。定期的站会和进度审查帮助我们保持进度，并及时解决任何问题。
+
+</details>
+
+## Team Meeting
+
+**Team Lead**: Alright team, let's discuss our progress on the current sprint. Jane, can you start?
+
+**Jane**: Sure. I've completed the front-end design for the new dashboard. Today, I'll start integrating the API endpoints.
+
+**Team Lead**: Great work, Jane. Any blockers?
+
+**Jane**: Not at the moment. Everything is on track.
+
+**Team Lead**: Excellent. Mike, how about your side?
+
+**Mike**: I've been working on the backend services. The user authentication module is almost done. I'll need to coordinate with Jane to test the integration.
+
+**Team Lead**: Sounds good. Make sure to sync up with Jane and test thoroughly. Any other updates or concerns from the team?
+
+**Team Member**: No concerns from my side. Everything is going smoothly.
+
+**Team Lead**: Perfect. Let's keep up the good work and aim to finish strong.
+
+<details>
+<summary>查看中文</summary>
+团队会议
+
+**团队负责人**: 好的团队，让我们讨论一下当前冲刺的进展。Jane，你先开始吧？
+
+**Jane**: 当然。我已经完成了新仪表板的前端设计。今天，我将开始集成 API 端点。
+
+**团队负责人**: 干得好，Jane。有任何阻碍吗？
+
+**Jane**: 目前没有。一切都在轨道上。
+
+**团队负责人**: 很好。Mike，你那边怎么样？
+
+**Mike**: 我一直在处理后端服务。用户认证模块几乎完成了。我需要与 Jane 协调测试集成。
+
+**团队负责人**: 听起来不错。确保与 Jane 同步并彻底测试。团队还有其他更新或问题吗？
+
+**团队成员**: 我这边没有问题。一切都很顺利。
+
+**团队负责人**: 完美。让我们继续保持良好的工作状态，争取圆满完成。
+
+</details>
+
+## Code Debugging Session
+
+**Developer 1**: I'm running into an issue with the new feature. The data isn't being saved correctly in the database.
+
+**Developer 2**: Let's take a look. Have you checked if the API call is returning the correct data?
+
+**Developer 1**: Yes, the API call seems fine. The issue appears to be on the server-side when processing the data.
+
+**Developer 2**: Alright, let's add some logging to the server-side code to see where it's failing.
+
+**Developer 1**: Good idea. I'll add some debug logs and run the tests again.
+
+**Developer 2**: Also, double-check the database schema to ensure there are no mismatches with the data being saved.
+
+**Developer 1**: Will do. Thanks for the help.
+
+<details>
+<summary>查看中文</summary>
+代码调试会话
+
+**开发者 1**: 我在新功能上遇到了问题。数据没有正确保存到数据库中。
+
+**开发者 2**: 我们来看一下。你检查过 API 调用是否返回正确的数据了吗？
+
+**开发者 1**: 是的，API 调用看起来没问题。问题似乎出在服务器端处理数据时。
+
+**开发者 2**: 好的，我们在服务器端代码中添加一些日志，看看它在哪里出错。
+
+**开发者 1**: 好主意。我会添加一些调试日志，然后重新运行测试。
+
+**开发者 2**: 另外，检查一下数据库模式，确保与保存的数据没有不匹配的地方。
+
+**开发者 1**: 会的。谢谢你的帮助。
+
+</details>
+
+## Performance Review
+
+**Manager**: Hi, Emily. Let's go over your performance review. Overall, you've done a fantastic job this quarter.
+
+**Emily**: Thank you. I'm glad to hear that.
+
+**Manager**: You've shown great initiative in leading the new project and your problem-solving skills have been impressive. However, there's one area for improvement: time management. Sometimes tasks take longer than expected.
+
+**Emily**: I understand. I'll work on better estimating my time and prioritizing tasks more effectively.
+
+**Manager**: Great. I believe in your ability to improve. Let's set some goals for the next quarter to help with this.
+
+**Emily**: Sounds good. I'm ready to set new goals and work on my time management.
+
+<details>
+<summary>查看中文</summary>
+绩效评估
+
+**经理**: 你好，Emily。让我们来看看你的绩效评估。总体来说，你这个季度做得非常好。
+
+**Emily**: 谢谢。听到这个消息我很高兴。
+
+**经理**: 你在领导新项目方面表现出了很大的主动性，你的解决问题的能力也令人印象深刻。不过，有一个需要改进的地方：时间管理。有时任务比预期的要花更长的时间。
+
+**Emily**: 我明白了。我会努力更好地估算时间，并更有效地优先处理任务。
+
+**经理**: 很好。我相信你有能力改进。让我们为下个季度设定一些目标来帮助你改善这一点。
+
+**Emily**: 听起来不错。我准备好设定新目标并改进我的时间管理。
+
+</details>
+
+## Technical Discussion
+
+**Engineer 1**: We need to decide on the database for our new project. Do you have any preferences?
+
+**Engineer 2**: I think PostgreSQL would be a good choice. It's reliable and has strong support for complex queries.
+
+**Engineer 1**: I agree. Plus, it has good community support and plenty of documentation. What about the ORM?
+
+**Engineer 2**: I suggest using SQLAlchemy. It's flexible and works well with PostgreSQL.
+
+**Engineer 1**: Sounds good. Let's go with PostgreSQL and SQLAlchemy then. We should also set up some initial configurations and start testing.
+
+**Engineer 2**: Absolutely. I'll start working on the database schema and initial setup.
+
+<details>
+<summary>查看中文</summary>
+技术讨论
+
+**工程师 1**: 我们需要为新项目决定数据库。你有任何偏好吗？
+
+**工程师 2**: 我认为 PostgreSQL 是一个不错的选择。它可靠并且对复杂查询有很强的支持。
+
+**工程师 1**: 我同意。而且，它有很好的社区支持和丰富的文档。ORM 呢？
+
+**工程师 2**: 我建议使用 SQLAlchemy。它灵活并且与 PostgreSQL 配合得很好。
+
+**工程师 1**: 听起来不错。那我们就选择 PostgreSQL 和 SQLAlchemy。我们还应该设置一些初始配置并开始测试。
+
+**工程师 2**: 当然。我会开始处理数据库模式和初始设置。
 
 </details>
