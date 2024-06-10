@@ -105,6 +105,20 @@ title: 句子成分
 - She is **happy**. （她很高兴。）——主语补语
 - They elected him **chairman**. （他们选他为主席。）——宾语补语
 
+## 8. 同位语（Appositive）
+
+**定义**：同位语是对名词或代词进行进一步解释或说明的成分，通常紧跟在其后。
+
+**用法**：
+
+- 由名词或名词短语担任。
+- 同位语和被解释的名词或代词通常在句子中紧挨在一起。
+
+**示例**：
+
+- My friend, **a doctor**, will visit us tomorrow. （我的朋友，一名医生，明天会来拜访我们。）——名词短语作同位语
+- The novel **'Pride and Prejudice'** is very popular. （小说《傲慢与偏见》非常受欢迎。）——名词作同位语
+
 ## 句子成分之间的关系
 
 1. **主谓结构**：

@@ -90,6 +90,8 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/sentence-pattern/intro' },
             { text: '句子成分', link: '/sentence-pattern/sentence-elements' },
+            { text: '句子类型', link: '/sentence-pattern/sentence-types' },
+            { text: '从句类型', link: '/sentence-pattern/subordinate-clause' },
           ],
         },
       ],
