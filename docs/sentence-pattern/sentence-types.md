@@ -6,7 +6,7 @@ title: 句子类型
 
 句子按类型来分可以分为四种。
 
-## 1. 简单句 (Simple Sentence)
+## 简单句 (Simple Sentence)
 
 ### 定义
 
@@ -30,7 +30,7 @@ title: 句子类型
   - **宾语**：a book
   - **解释**：这是一个完整的句子，包含一个主语、一个谓语和一个宾语，表达一个完整的思想。
 
-## 2. 并列句 (Compound Sentence)
+## 并列句 (Compound Sentence)
 
 ### 定义
 
@@ -54,7 +54,7 @@ title: 句子类型
   - **独立从句2**：she watched a movie
   - **解释**：两个独立从句通过并列连词连接，表达两个相关但独立的思想。
 
-## 3. 复合句 (Complex Sentence)
+## 复合句 (Complex Sentence)
 
 ### 定义
 
@@ -79,7 +79,7 @@ title: 句子类型
   - **从属从句**：it was interesting
   - **解释**：一个独立从句和一个从属从句，通过从属连词连接，表达一个主要思想和一个次要思想。
 
-## 4. 并列复合句 (Compound-Complex Sentence)
+## 并列复合句 (Compound-Complex Sentence)
 
 ### 定义
 

@@ -4,7 +4,7 @@ title: 句子成分
 
 # 句子成分
 
-## 1. 主语（Subject）
+## 主语（Subject）
 
 **定义**：主语是句子的核心，表示句子中行为的执行者或话题。
 
@@ -18,7 +18,7 @@ title: 句子成分
 - **The cat** is sleeping. （猫在睡觉。）
 - **She** loves reading. （她喜欢读书。）
 
-## 2. 谓语（Predicate）
+## 谓语（Predicate）
 
 **定义**：谓语是说明主语的行为或状态的部分，通常包括动词及相关成分。
 
@@ -32,7 +32,7 @@ title: 句子成分
 - The cat **is sleeping**. （猫在睡觉。）
 - She **loves reading**. （她喜欢读书。）
 
-## 3. 宾语（Object）
+## 宾语（Object）
 
 **定义**：宾语是动词的承受者，可以是直接宾语和间接宾语。
 
@@ -46,7 +46,7 @@ title: 句子成分
 - He reads **a book**. （他读一本书。）——直接宾语
 - She gave **him** **a gift**. （她给了他一件礼物。）——间接宾语（him）和直接宾语（a gift）
 
-## 4. 表语（Predicative/Complement）
+## 表语（Predicative/Complement）
 
 **定义**：表语是对主语的状态、特征或身份进行补充说明的成分，常见于连系动词之后。
 
@@ -61,7 +61,7 @@ title: 句子成分
 - The weather became **cold**. （天气变冷了。）——形容词作表语
 - Her goal is **to become a doctor**. （她的目标是成为一名医生。）——不定式作表语
 
-## 5. 状语（Adverbial）
+## 状语（Adverbial）
 
 **定义**：状语用来修饰动词、形容词、副词或整个句子，表示时间、地点、方式、程度、原因、目的等。
 
@@ -76,7 +76,7 @@ title: 句子成分
 - **In the morning**, she goes jogging. （早上，她去慢跑。）——介词短语作状语
 - They arrived **when the meeting started**. （他们到达时，会议开始了。）——从句作状语
 
-## 6. 定语（Attributive）
+## 定语（Attributive）
 
 **定义**：定语修饰名词或代词，表示其特征、性质或归属。
 
@@ -91,7 +91,7 @@ title: 句子成分
 - The **sports** car （这辆跑车）——名词作定语
 - Students **who are diligent** （勤奋的学生）——定语从句
 
-## 7. 补语（Complement）
+## 补语（Complement）
 
 **定义**：补语对主语或宾语进行进一步说明或补充，分为主语补语和宾语补语。
 
@@ -105,7 +105,7 @@ title: 句子成分
 - She is **happy**. （她很高兴。）——主语补语
 - They elected him **chairman**. （他们选他为主席。）——宾语补语
 
-## 8. 同位语（Appositive）
+## 同位语（Appositive）
 
 **定义**：同位语是对名词或代词进行进一步解释或说明的成分，通常紧跟在其后。
 
