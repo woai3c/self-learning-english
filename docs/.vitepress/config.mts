@@ -59,6 +59,7 @@ export default defineConfig({
           text: '语法',
           items: [
             { text: '简介', link: '/grammar/intro' },
+            { text: '词类', link: '/grammar/part-of-speech' },
             { text: '被动语态', link: '/grammar/passive-voice' },
             { text: '不定式和动名词', link: '/grammar/infinitive-gerund' },
             { text: 'for since ago', link: '/grammar/for-since-ago' },
@@ -71,6 +72,7 @@ export default defineConfig({
             { text: 'go', link: '/grammar/go' },
             { text: 'get', link: '/grammar/get' },
             { text: 'no none not-any', link: '/grammar/no-none-notany' },
+            { text: 'both either neither', link: '/grammar/both-either-neither' },
           ],
         },
       ],
