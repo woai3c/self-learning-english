@@ -73,6 +73,7 @@ export default defineConfig({
             { text: 'get', link: '/grammar/get' },
             { text: 'no none not-any', link: '/grammar/no-none-notany' },
             { text: 'both either neither', link: '/grammar/both-either-neither' },
+            { text: 'as...as and the same ... as', link: '/grammar/as-as-the-same-as' },
           ],
         },
       ],
