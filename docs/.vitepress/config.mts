@@ -14,6 +14,7 @@ export default defineConfig({
       { text: '语法', link: '/grammar/intro' },
       { text: '短语', link: '/phrase/intro' },
       { text: '句型', link: '/sentence-pattern/intro' },
+      { text: '口语', link: '/speech/intro' },
       { text: '术语', link: '/terminology' },
     ],
 
@@ -84,6 +85,15 @@ export default defineConfig({
             { text: '简介', link: '/phrase/intro' },
             { text: 'used to', link: '/phrase/used-to' },
             { text: 'be going to', link: '/phrase/be-going-to' },
+          ],
+        },
+      ],
+      '/speech/': [
+        {
+          text: '口语',
+          items: [
+            { text: '简介', link: '/speech/intro' },
+            { text: '连读', link: '/speech/liaison' },
           ],
         },
       ],
