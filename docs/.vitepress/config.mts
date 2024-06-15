@@ -94,6 +94,7 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/pronunciation/intro' },
             { text: '连读', link: '/pronunciation/liaison' },
+            { text: '音素', link: '/pronunciation/phoneme' },
             { text: '音标分类', link: '/pronunciation/phonetic-alphabet-classification' },
           ],
         },
