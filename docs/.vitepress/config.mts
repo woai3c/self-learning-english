@@ -14,7 +14,7 @@ export default defineConfig({
       { text: '语法', link: '/grammar/intro' },
       { text: '短语', link: '/phrase/intro' },
       { text: '句型', link: '/sentence-pattern/intro' },
-      { text: '口语', link: '/speech/intro' },
+      { text: '发音', link: '/pronunciation/intro' },
       { text: '术语', link: '/terminology' },
     ],
 
@@ -88,12 +88,13 @@ export default defineConfig({
           ],
         },
       ],
-      '/speech/': [
+      '/pronunciation/': [
         {
-          text: '口语',
+          text: '发音',
           items: [
-            { text: '简介', link: '/speech/intro' },
-            { text: '连读', link: '/speech/liaison' },
+            { text: '简介', link: '/pronunciation/intro' },
+            { text: '连读', link: '/pronunciation/liaison' },
+            { text: '音标分类', link: '/pronunciation/phonetic-alphabet-classification' },
           ],
         },
       ],
