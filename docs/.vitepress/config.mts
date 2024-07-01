@@ -29,6 +29,7 @@ export default defineConfig({
             { text: '一般过去时', link: '/tense/past-simple' },
             { text: '现在进行时', link: '/tense/present-continuous' },
             { text: '现在完成时', link: '/tense/present-perfect' },
+            { text: '现在完成进行时', link: '/tense/present-perfect-continuous' },
           ],
         },
       ],
@@ -102,8 +103,8 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/pronunciation/intro' },
             { text: '连读', link: '/pronunciation/liaison' },
-            { text: '重读', link: '/pronunciation/stress' },
             { text: '音素', link: '/pronunciation/phoneme' },
+            { text: '重读', link: '/pronunciation/stress' },
             { text: '意群', link: '/pronunciation/thought-group' },
             { text: '音标分类', link: '/pronunciation/phonetic-alphabet-classification' },
           ],
