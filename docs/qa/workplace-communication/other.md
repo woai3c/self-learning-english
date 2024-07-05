@@ -16,6 +16,9 @@ title: 职场交流
 1. [Performance Review](#performance-review)
 1. [Code Pairing Session](#code-pairing-session)
 1. [Performance Review2](#performance-review2)
+1. [Project Progress Report](#project-progress-report)
+1. [Team Collaboration](#team-collaboration)
+1. [Work Feedback](#work-feedback)
 
 ## Daily Standup Meeting
 
@@ -527,5 +530,89 @@ title: 职场交流
 **员工**: 这是个很好的建议。我会开始参加一些在线课程来提高我的前端技能。
 
 **经理**: 很好。继续保持良好的工作状态，我们三个月后再联系。
+
+</details>
+
+## Project Progress Report
+
+**Project Manager**: We’re currently on track with the project timeline. The frontend team has completed 70% of the UI components, and the backend team is finalizing the API integrations.
+
+**Team Member**: That’s great news. Are there any blockers we should be aware of?
+
+**Project Manager**: The only potential blocker is the delay in receiving the final requirements from the client. We’re following up with them to expedite the process.
+
+**Team Member**: Understood. We’ll continue with our current tasks and prepare for the next phase.
+
+**Project Manager**: Perfect. Let’s aim to complete the remaining tasks by the end of this week.
+
+<details>
+<summary>查看中文</summary>
+项目进度汇报
+
+**项目经理**: 我们目前按计划进行。前端团队已经完成了 70% 的 UI 组件，后端团队正在完成 API 集成。
+
+**团队成员**: 这是个好消息。有什么阻碍我们需要注意的吗？
+
+**项目经理**: 唯一的潜在阻碍是客户最终需求的延迟。我们正在跟进他们以加快进程。
+
+**团队成员**: 明白了。我们将继续当前任务并为下一阶段做准备。
+
+**项目经理**: 完美。让我们争取在本周末前完成剩余任务。
+
+</details>
+
+## Team Collaboration
+
+**Team Lead**: We need to improve our code review process to ensure higher code quality. Any suggestions?
+
+**Developer**: We could implement a mandatory peer review system where at least two team members review each pull request.
+
+**Team Lead**: That’s a good start. We should also establish a checklist of common issues to look out for during reviews.
+
+**Developer**: Agreed. We can also schedule regular knowledge-sharing sessions to discuss best practices and new techniques.
+
+**Team Lead**: Excellent idea. Let’s implement these changes and monitor the improvements.
+
+<details>
+<summary>查看中文</summary>
+团队合作
+
+**团队负责人**: 我们需要改进代码审查流程以确保更高的代码质量。有什么建议吗？
+
+**开发者**: 我们可以实施强制的同事审查系统，至少有两名团队成员审查每个拉取请求。
+
+**团队负责人**: 这是个好的开始。我们还应该建立一个常见问题的检查清单，以便在审查过程中注意。
+
+**开发者**: 同意。我们还可以定期安排知识分享会，讨论最佳实践和新技术。
+
+**团队负责人**: 很好的主意。让我们实施这些变化并监控改进情况。
+
+</details>
+
+## Work Feedback
+
+**Manager**: I’ve noticed significant improvement in your recent work. Keep up the good work!
+
+**Employee**: Thank you! I’ve been focusing on refining my coding practices and collaborating more with the team.
+
+**Manager**: It shows. Your code quality and teamwork have both improved. Is there any support you need from me?
+
+**Employee**: I appreciate the feedback. I could use some guidance on the new project requirements.
+
+**Manager**: Absolutely. Let’s schedule a meeting to go over the details.
+
+<details>
+<summary>查看中文</summary>
+工作反馈
+
+**经理**: 我注意到你最近的工作有了显著的改进。继续保持！
+
+**员工**: 谢谢！我一直在专注于改进我的编码实践并更多地与团队合作。
+
+**经理**: 看得出来。你的代码质量和团队合作都有所提高。你需要我提供什么支持吗？
+
+**员工**: 感谢反馈。我需要一些关于新项目需求的指导。
+
+**经理**: 当然。让我们安排一个会议来详细讨论。
 
 </details>

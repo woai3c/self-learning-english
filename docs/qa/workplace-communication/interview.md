@@ -5,6 +5,7 @@ title: 面试
 1. [Job Interview](#job-interview)
 1. [Technical Interview](#technical-interview)
 1. [Job Interview2](#job-interview2)
+1. [Job Interview3](#job-interview3)
 
 ## Job Interview
 
@@ -99,5 +100,29 @@ title: 面试
 **面试官**: 很好的方法。你如何保持自己的技能与最新技术同步？
 
 **候选人**: 我经常阅读技术博客，参加网络研讨会，并参与编程挑战。我还通过贡献开源项目来获得新技术的实际经验。
+
+</details>
+
+## Job Interview3
+
+**Interviewer**: Can you tell me about a challenging project you worked on and how you handled it?
+
+**Candidate**: Sure. In my previous job, I worked on a project with a tight deadline and limited resources. We faced several technical issues, but I collaborated closely with the team, prioritized tasks efficiently, and communicated regularly with stakeholders to ensure we met the deadline.
+
+**Interviewer**: That sounds impressive. How do you prioritize tasks when working under pressure?
+
+**Candidate**: I assess the urgency and impact of each task, then focus on the high-priority items first. I also break down larger tasks into smaller, manageable parts and set clear milestones to track progress.
+
+<details>
+<summary>查看中文</summary>
+面试
+
+**面试官**: 你能谈谈你处理过的一个具有挑战性的项目以及你是如何处理的吗？
+
+**候选人**: 当然。在我之前的工作中，我参与了一个时间紧迫、资源有限的项目。我们遇到了几个技术问题，但我与团队密切合作，高效地优先处理任务，并定期与利益相关者沟通，确保我们按时完成了项目。
+
+**面试官**: 听起来很令人印象深刻。你在压力下如何优先处理任务？
+
+**候选人**: 我会评估每个任务的紧迫性和影响，然后优先处理高优先级项目。我还将较大的任务分解为较小的、可管理的部分，并设定明确的里程碑来跟踪进展。
 
 </details>
