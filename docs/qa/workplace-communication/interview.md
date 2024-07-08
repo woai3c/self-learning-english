@@ -6,6 +6,7 @@ title: 面试
 1. [Technical Interview](#technical-interview)
 1. [Job Interview2](#job-interview2)
 1. [Job Interview3](#job-interview3)
+1. [Job Interview4](#job-interview4)
 
 ## Job Interview
 
@@ -124,5 +125,45 @@ title: 面试
 **面试官**: 听起来很令人印象深刻。你在压力下如何优先处理任务？
 
 **候选人**: 我会评估每个任务的紧迫性和影响，然后优先处理高优先级项目。我还将较大的任务分解为较小的、可管理的部分，并设定明确的里程碑来跟踪进展。
+
+</details>
+
+## Job Interview4
+
+**Interviewer**: Welcome, John. Could you start by telling us a bit about your background and experience in software development?
+
+**John**: Certainly. I have over five years of experience in software development, primarily focusing on full-stack web development. I hold a degree in Computer Science and have worked with various technologies, including JavaScript, Python, and Node.js.
+
+**Interviewer**: That's impressive. Can you give us an example of a challenging project you've worked on and how you handled it?
+
+**John**: Sure. In my previous role, I worked on a large-scale e-commerce platform. One of the biggest challenges was optimizing the performance for high traffic during peak sales events. I led a team to implement load balancing, caching strategies, and database optimizations which resulted in a 40% performance improvement.
+
+**Interviewer**: Great. How do you approach learning new technologies or frameworks?
+
+**John**: I believe in continuous learning. I regularly follow industry blogs, take online courses, and participate in coding challenges. When a new technology catches my interest, I start by building small projects to understand its fundamentals and then integrate it into more complex applications.
+
+**Interviewer**: Excellent approach. Lastly, why are you interested in joining our company?
+
+**John**: I've followed your company's growth and innovation in the tech industry. I admire your commitment to using cutting-edge technologies and your focus on employee development. I believe my skills and experience align well with your needs, and I'm excited about the opportunity to contribute to your team.
+
+<details>
+<summary>查看中文</summary>
+工作面试
+
+**面试官**: 欢迎，约翰。你能先介绍一下你的背景和软件开发方面的经验吗？
+
+**约翰**: 当然可以。我有五年以上的软件开发经验，主要集中在全栈web开发。我拥有计算机科学学位，并使用过各种技术，包括JavaScript、Python和Node.js。
+
+**面试官**: 这很令人印象深刻。你能给我们举一个你参与过的具有挑战性的项目，并说明你是如何处理的吗？
+
+**约翰**: 当然可以。在我之前的工作中，我参与了一个大型电子商务平台的开发。最大的挑战之一是优化在高流量的销售高峰期的性能。我带领团队实施了负载均衡、缓存策略和数据库优化，结果性能提升了40%。
+
+**面试官**: 很棒。你如何学习新的技术或框架？
+
+**约翰**: 我相信持续学习。我定期关注行业博客，参加在线课程，并参加编程挑战。当我对一种新技术感兴趣时，我会先通过构建小项目来了解其基础知识，然后将其集成到更复杂的应用程序中。
+
+**面试官**: 很好的方法。最后，为什么你对加入我们公司感兴趣？
+
+**约翰**: 我一直在关注贵公司在技术行业的增长和创新。我钦佩你们在使用前沿技术和重视员工发展的承诺。我相信我的技能和经验与贵公司的需求非常吻合，并且我对能够为你们的团队做出贡献感到非常兴奋。
 
 </details>
