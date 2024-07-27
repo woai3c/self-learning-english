@@ -16,6 +16,7 @@ export default defineConfig({
       { text: '句型', link: '/sentence-pattern/intro' },
       { text: '发音', link: '/pronunciation/intro' },
       { text: '术语', link: '/terminology' },
+      { text: '影视', link: '/movies-tv/intro' },
     ],
 
     sidebar: {
@@ -119,6 +120,18 @@ export default defineConfig({
             { text: '句子成分', link: '/sentence-pattern/sentence-elements' },
             { text: '句子类型', link: '/sentence-pattern/sentence-types' },
             { text: '从句类型', link: '/sentence-pattern/subordinate-clause' },
+          ],
+        },
+      ],
+      '/movies-tv/': [
+        {
+          text: '影视',
+          items: [
+            { text: '简介', link: '/movies-tv/intro' },
+            {
+              text: 'Family Album USA',
+              items: [{ text: '1. 46 Linden Street', link: '/movies-tv/family-album-usa/episode1' }],
+            },
           ],
         },
       ],
