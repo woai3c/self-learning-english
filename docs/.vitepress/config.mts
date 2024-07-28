@@ -130,7 +130,10 @@ export default defineConfig({
             { text: '简介', link: '/movies-tv/intro' },
             {
               text: 'Family Album USA',
-              items: [{ text: '1. 46 Linden Street', link: '/movies-tv/family-album-usa/episode1' }],
+              items: [
+                { text: '1. 46 Linden Street', link: '/movies-tv/family-album-usa/episode1' },
+                { text: '2. The Blind Date', link: '/movies-tv/family-album-usa/episode2' },
+              ],
             },
           ],
         },
