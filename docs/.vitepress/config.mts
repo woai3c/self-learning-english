@@ -133,6 +133,7 @@ export default defineConfig({
               items: [
                 { text: '1. 46 Linden Street', link: '/movies-tv/family-album-usa/episode1' },
                 { text: '2. The Blind Date', link: '/movies-tv/family-album-usa/episode2' },
+                { text: "3. Grandpa's Trunk", link: '/movies-tv/family-album-usa/episode3' },
               ],
             },
           ],

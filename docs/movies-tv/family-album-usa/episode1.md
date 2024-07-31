@@ -204,7 +204,7 @@ title: 46 Linden Street
 
 **Ellen**: Robbie, will you help me serve?
 
-**Richard**: I keep thinking about that bag of film. Eight rolls. a whole day’s work. And goodstuff, too.
+**Richard**: I keep thinking about that bag of film. Eight rolls. a whole day’s work. And good stuff, too.
 
 **Ellen**: I’ll get it. Hello.
 
