@@ -28,13 +28,13 @@ title: A Piece of Cake
 
 **Marilyn**: Listen, Richard, doing aerobics for an hour is a lot different than lifting weights.
 
-**Richard**: Yeah.Quite a bit different.I think aerobics. I could work out in your class with no problem.
+**Richard**: Yeah.Quite a bit different.I think aerobics is easy. I could work out in your class with no problem.
 
 **Marilyn**: You think so?
 
 **Richard**: Oh, without a doubt. When's the next class?
 
-**Marilyn**: Tomorrow morning at ten 0'clock. Try it.
+**Marilyn**: Tomorrow morning at ten o'clock. Try it.
 
 **Richard**: Tomorrow morning after lifting weights, I'll try aerobics. It's a snap. Tomorrow morning at ten o’clock.
 
@@ -54,7 +54,7 @@ title: A Piece of Cake
 
 **Richard**: It's a bet.
 
-**Marilyn**: OK. Call my instructor, Jack Davis, right now. His number is 555-8842.The advanced class starts at ten 0'clock advanced class starts at ten o’clock.
+**Marilyn**: OK. Call my instructor, Jack Davis, right now. His number is 555-8842.The advanced class starts at ten o'clock.
 
 **Richard**: Well, it's eight twenty now.
 
@@ -176,7 +176,7 @@ title: A Piece of Cake
 
 **Richard**: No.
 
-**Marilyn**: There's another advanced class today at four 0'clock. We'll go together.
+**Marilyn**: There's another advanced class today at four o'clock. We'll go together.
 
 **Richard**: What about the bet?
 
@@ -184,7 +184,7 @@ title: A Piece of Cake
 
 **Richard**: You win, and I cook dinner for the entire family.
 
-**Marilyn**: Including Susan. Four 0'clock at the advanced exercise class. With me.
+**Marilyn**: Including Susan. Four o'clock at the advanced exercise class. With me.
 
 **Jack**: Don't forget to breathe.
 
