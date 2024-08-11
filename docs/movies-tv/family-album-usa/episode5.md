@@ -106,11 +106,11 @@ title: The Right Magic
 
 **Robbie**: This is really neat! When do we eat?
 
-**Philip**: First, we have to catch some fish. In order to catch fish, you have to do this. Here we go. that's it. Then drop it into the water. All of this comes before eating. OK?
+**Philip**: First, we have to catch fish. In order to catch fish, you have to do this. Here we go. that's it. Then drop it into the water. All of this comes before eating. OK?
 
 **Robbie**: How do you know so much about fishing?
 
-**Philip**: Grandpa taught me. We spent a lot of time fishing together. Now, the important thing is to get the book close to the fish. All right? Like this.
+**Philip**: Grandpa taught me. We spent a lot of time fishing together. Now, the important thing is to get the hook close to the fish. All right? Like this.
 
 **Robbie**: I think I see some fish right under us, Dad.
 
