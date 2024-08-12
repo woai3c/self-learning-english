@@ -136,6 +136,7 @@ export default defineConfig({
                 { text: "3. Grandpa's Trunk", link: '/movies-tv/family-album-usa/episode3' },
                 { text: '4. A Piece of Cake', link: '/movies-tv/family-album-usa/episode4' },
                 { text: '5. The Right Magic', link: '/movies-tv/family-album-usa/episode5' },
+                { text: '6. Thanksgiving Day', link: '/movies-tv/family-album-usa/episode6' },
               ],
             },
           ],
