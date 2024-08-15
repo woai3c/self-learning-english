@@ -138,6 +138,7 @@ export default defineConfig({
                 { text: '5. The Right Magic', link: '/movies-tv/family-album-usa/episode5' },
                 { text: '6. Thanksgiving Day', link: '/movies-tv/family-album-usa/episode6' },
                 { text: "7. Man's Best Friend", link: '/movies-tv/family-album-usa/episode7' },
+                { text: "8. You're Going to Be Fine", link: '/movies-tv/family-album-usa/episode8' },
               ],
             },
           ],
