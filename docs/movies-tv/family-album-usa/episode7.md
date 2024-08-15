@@ -112,7 +112,7 @@ title: Man's Best Friend
 
 **Alexandra**: They're still open?
 
-**Robbie**: They're open until nine 0'clock. We have two and a half hours. Let's take Gemma by there now. They'll find the owner.
+**Robbie**: They're open until nine o'clock. We have two and a half hours. Let's take Gemma by there now. They'll find the owner.
 
 **Alexandra**: I hope so. I'm so sad to see this little dog without her family.
 
@@ -170,7 +170,7 @@ title: Man's Best Friend
 
 **Robbie**: References? People we know?
 
-**Linda**: Friends, teachers... We need to talk to some people about you. We want to be sure that you're responsible and that you can take good care of an animal. Then you have to till out this form about your family background.
+**Linda**: Friends, teachers... We need to talk to some people about you. We want to be sure that you're responsible and that you can take good care of an animal. Then you have to fill out this form about your family background.
 
 **Robbie**: Is that it?
 
@@ -184,7 +184,7 @@ title: Man's Best Friend
 
 **Alexcandra**: Anything else?
 
-**Linda**: We also lide to know your reasons for wanting an animal.
+**Linda**: We also like to know your reasons for wanting an animal.
 
 **Alexcandra**: Just to hold it and cuddle with it. Just to have as a pet I love animals.
 
@@ -252,9 +252,9 @@ title: Man's Best Friend
 
 **Waiter**: And a cheeseburger, medium rare, with onion and French fries. And a ginger ale with lots of ice. Salad dressing?
 
-**Robbie**: Hey, I wanted you to hear my new sound system when the dog scratched on the front door.Let's finish eating, and then we'll go back to my house. I want you to hear my new tapes. I've got some areat new dance music.
+**Robbie**: Hey, I wanted you to hear my new sound system when the dog scratched on the front door.Let's finish eating, and then we'll go back to my house. I want you to hear my new tapes. I've got some great new dance music.
 
-**Robbie**: Hell.Stewart residence.
+**Robbie**: Hello.Stewart residence.
 
 **Linda**: Hello. Is Robbie Stewart there?
 
