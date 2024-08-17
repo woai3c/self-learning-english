@@ -6,7 +6,7 @@ title: You're Going to Be Fine
 
 ## Act 1
 
-**Philip**: Molly, I need your special talent for handing special maters.
+**Philip**: Molly, I need your special talent for handing special matters.
 
 **Molly**: Like what special matters?
 
@@ -14,11 +14,11 @@ title: You're Going to Be Fine
 
 **Molly**: Yes?
 
-**Philip**: I have three tonsillectornies set for Friday with Dr.Earl.
+**Philip**: I have three tonsillectomies set for Friday with Dr.Earl.
 
 **Molly**: Yes?
 
-**Philip**: I need to fit a fouth operation into his schedule. And...I know you can do it.
+**Philip**: I need to fit a fourth operation into his schedule. And...I know you can do it.
 
 **Molly**: Who's the patient?
 
@@ -94,11 +94,11 @@ title: You're Going to Be Fine
 
 **Frank**: Nope.
 
-**Molly**: Carl, you're sure you've never played? OK, Betty, Tim, and Frank. We're going to play charades. Frank, you can learm as we go. And, Carl, you join in at anytime. OK, let me think. OK, I've got one .All right.
+**Molly**: Carl, you're sure you've never played? OK, Betty, Tim, and Frank. We're going to play charades. Frank, you can learn as we go. And, Carl, you join in at anytime. OK, let me think. OK, I've got one .All right.
 
 **Betty**: A movie! A movie!
 
-**Molly**: Ringt. A movie. OK.
+**Molly**: Right. A movie. OK.
 
 **Tim**: Six words. It has six words.
 
@@ -148,7 +148,7 @@ title: You're Going to Be Fine
 
 **Tim**: Seven?
 
-**Molly**: Absolutely right. Very good. The fifthe word is seven. OK, we've got a movie. The first word is snow. Fifth word, seven.
+**Molly**: Absolutely right. Very good. The fifth word is seven. OK, we've got a movie. The first word is snow. Fifth word, seven.
 
 **Betty**: I got it! I got it!
 
@@ -202,7 +202,7 @@ title: You're Going to Be Fine
 
 **Molly**: You'll feel better tomorrow, Betty, believe me. Only one day, and it won't hurt as much. Do you feel like eating? Having some dinner? Oh, don't look so sad. Let me tell you about your dinner. It's ice cream
 
-**Molly**: Ice cream. All kinds of flavrs. Chccolate.
+**Molly**: Ice cream. All kinds of flavors. Chocolate.
 
 **Molly**: Strawberry?
 
@@ -212,7 +212,7 @@ title: You're Going to Be Fine
 
 **Molly**: I see you're feeling better already, Betty. So you will have dinner?
 
-**Molly**: OK, honey, we'll see to it that you have strawberry and vanilla ice cream. Just rest now. You need some rest to help you get better auickly. Hi Frank. How you doing?
+**Molly**: OK, honey, we'll see to it that you have strawberry and vanilla ice cream. Just rest now. You need some rest to help you get better quickly. Hi Frank. How you doing?
 
 **Molly**: Oh, come on now. You're a big boy. It doesn't hurt that much, does it? Oh, I'm sorry it hurts so much, and won't be able to have dinner. You're just going to have to have ice cream.Yes, Ice cream. Lots of flavors. Want to hear them?
 
