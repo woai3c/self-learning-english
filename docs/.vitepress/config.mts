@@ -140,6 +140,7 @@ export default defineConfig({
                 { text: "7. Man's Best Friend", link: '/movies-tv/family-album-usa/episode7' },
                 { text: "8. You're Going to Be Fine", link: '/movies-tv/family-album-usa/episode8' },
                 { text: "9. It's Up to You", link: '/movies-tv/family-album-usa/episode9' },
+                { text: '10. Smell The Flowers', link: '/movies-tv/family-album-usa/episode10' },
               ],
             },
           ],
