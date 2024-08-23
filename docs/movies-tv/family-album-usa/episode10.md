@@ -8,9 +8,9 @@ title: Smell The Flowers
 
 **Sam**: Good morning, Susan.
 
-**Susan**: Good morning, Sam . What's the chedule today?
+**Susan**: Good morning, Sam . What's the schedule today?
 
-**Sam**: Ten 0'clock, telephone FAO Schwarz about the new twin baby dolls.
+**Sam**: Ten o'clock, telephone FAO Schwarz about the new twin baby dolls.
 
 **Susan**: OK.
 
@@ -18,7 +18,7 @@ title: Smell The Flowers
 
 **Susan**: I did that. Go on.
 
-**Sam**: Eleven 0'clock, approve the sketches for the toy spaceship.
+**Sam**: Eleven o'clock, approve the sketches for the toy spaceship.
 
 **Susan**: Where are they?
 
@@ -38,7 +38,7 @@ title: Smell The Flowers
 
 **Susan**: Now, what else is on the schedule today?
 
-**Sam**: Well, at one o'clock you have a lunch appointment with Mr.Levine, the client from the Toytown Stores.
+**Sam**: Well, at one o'clock you have a lunch appointment with Mr.Levine, the client from the Toy-town Stores.
 
 **Susan**: Where?
 
@@ -64,7 +64,7 @@ title: Smell The Flowers
 
 **Susan**: Come on, Sam...
 
-**Sam**: You work hard, Susan. When was your last day off?
+**Sam**: You work too hard, Susan. When was your last day off?
 
 **Susan**: Hmm. I can't remember.
 
@@ -78,7 +78,7 @@ title: Smell The Flowers
 
 **Sam**: To smell the flowers.
 
-**Susan**: Oh, wait a minute.What's today' date?
+**Susan**: Oh, wait a minute.What's today's date?
 
 **Sam**: Today is the twelfth. Why?
 
@@ -110,7 +110,7 @@ title: Smell The Flowers
 
 **Susan**: What time is my lunch date with Bill Levine.
 
-**Sam**: One 0'clock.
+**Sam**: One o'clock.
 
 **Susan**: Remind me to leave at twelve forty-five.
 
@@ -298,7 +298,7 @@ title: Smell The Flowers
 
 **Susan**: Don't tell anyone, but I'm taking a little time to smell the flowers.
 
-**Sam**: Good for you. It'll be our sceret.
+**Sam**: Good for you. It'll be our secret.
 
 **Susan**: But schedule another production meeting for tomorrow. I'll be back for my six o'clock appointment with Mr. Ozawa.
 
