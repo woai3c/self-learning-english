@@ -142,6 +142,7 @@ export default defineConfig({
                 { text: "9. It's Up to You", link: '/movies-tv/family-album-usa/episode9' },
                 { text: '10. Smell The Flowers', link: '/movies-tv/family-album-usa/episode10' },
                 { text: '11. A Place of Our Own', link: '/movies-tv/family-album-usa/episode11' },
+                { text: "12. You're Tops", link: '/movies-tv/family-album-usa/episode12' },
               ],
             },
           ],

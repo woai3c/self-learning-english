@@ -1,5 +1,5 @@
 ---
-**title**: A Place of Our Own
+title: A Place of Our Own
 ---
 
 # A Place of Our Own
