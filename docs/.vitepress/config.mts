@@ -143,6 +143,7 @@ export default defineConfig({
                 { text: '10. Smell The Flowers', link: '/movies-tv/family-album-usa/episode10' },
                 { text: '11. A Place of Our Own', link: '/movies-tv/family-album-usa/episode11' },
                 { text: "12. You're Tops", link: '/movies-tv/family-album-usa/episode12' },
+                { text: '13. A Real Stewart', link: '/movies-tv/family-album-usa/episode13' },
               ],
             },
           ],
