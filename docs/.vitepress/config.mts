@@ -145,6 +145,7 @@ export default defineConfig({
                 { text: "12. You're Tops", link: '/movies-tv/family-album-usa/episode12' },
                 { text: '13. A Real Stewart', link: '/movies-tv/family-album-usa/episode13' },
                 { text: '14. Playing Games', link: '/movies-tv/family-album-usa/episode14' },
+                { text: '15. Second Honeymoon', link: '/movies-tv/family-album-usa/episode15' },
               ],
             },
           ],

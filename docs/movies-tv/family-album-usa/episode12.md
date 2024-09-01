@@ -162,7 +162,7 @@ title: You're Tops
 
 **Grandpa**: That's fantastic, John!
 
-**Marchetta**: I've got an idea for you, Malcolm. Just fill out this form for me. It'll only take a few minutes. Sit right here, and do it while I talk to my secretary. When I get back, we'll talk about my new factory. My company is a member of TOPS. So I try hard to find opportunities for people like it. Well, I can use your brainpower on the job right now. Have you got time this morning to go over to the construction site with me? I'd like to have you meet my foreman—get some background on the job.
+**Marchetta**: I've got an idea for you, Malcolm. Just fill out this form for me. It'll only take a few minutes. Sit right here, and do it while I talk to my secretary. When I get back, we'll talk about my new factory. My company is a member of TOPS. So I try hard to find opportunities for people like you. Well, I can use your brainpower on the job right now. Have you got time this morning to go over to the construction site with me? I'd like to have you meet my foreman—get some background on the job.
 
 **Grandpa**: I've got plenty of time.
 
