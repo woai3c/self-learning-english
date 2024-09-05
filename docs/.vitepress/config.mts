@@ -147,6 +147,7 @@ export default defineConfig({
                 { text: '14. Playing Games', link: '/movies-tv/family-album-usa/episode14' },
                 { text: '15. Second Honeymoon', link: '/movies-tv/family-album-usa/episode15' },
                 { text: '16. Full of Surprises', link: '/movies-tv/family-album-usa/episode16' },
+                { text: '17. Photo Finish', link: '/movies-tv/family-album-usa/episode17' },
               ],
             },
           ],
