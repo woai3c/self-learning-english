@@ -148,6 +148,7 @@ export default defineConfig({
                 { text: '15. Second Honeymoon', link: '/movies-tv/family-album-usa/episode15' },
                 { text: '16. Full of Surprises', link: '/movies-tv/family-album-usa/episode16' },
                 { text: '17. Photo Finish', link: '/movies-tv/family-album-usa/episode17' },
+                { text: '18. Making a Difference', link: '/movies-tv/family-album-usa/episode18' },
               ],
             },
           ],
