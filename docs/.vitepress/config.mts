@@ -150,6 +150,7 @@ export default defineConfig({
                 { text: '17. Photo Finish', link: '/movies-tv/family-album-usa/episode17' },
                 { text: '18. Making a Difference', link: '/movies-tv/family-album-usa/episode18' },
                 { text: '19. I Do', link: '/movies-tv/family-album-usa/episode19' },
+                { text: '20. Quality Time', link: '/movies-tv/family-album-usa/episode20' },
               ],
             },
           ],
