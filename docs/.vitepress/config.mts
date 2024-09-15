@@ -151,6 +151,7 @@ export default defineConfig({
                 { text: '18. Making a Difference', link: '/movies-tv/family-album-usa/episode18' },
                 { text: '19. I Do', link: '/movies-tv/family-album-usa/episode19' },
                 { text: '20. Quality Time', link: '/movies-tv/family-album-usa/episode20' },
+                { text: '21. A Big Fish in a Little Pond', link: '/movies-tv/family-album-usa/episode21' },
               ],
             },
           ],
