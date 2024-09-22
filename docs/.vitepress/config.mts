@@ -153,6 +153,7 @@ export default defineConfig({
                 { text: '20. Quality Time', link: '/movies-tv/family-album-usa/episode20' },
                 { text: '21. A Big Fish in a Little Pond', link: '/movies-tv/family-album-usa/episode21' },
                 { text: '22. Career Choices', link: '/movies-tv/family-album-usa/episode22' },
+                { text: '23. The Community Center', link: '/movies-tv/family-album-usa/episode23' },
               ],
             },
           ],
