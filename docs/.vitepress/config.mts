@@ -154,6 +154,7 @@ export default defineConfig({
                 { text: '21. A Big Fish in a Little Pond', link: '/movies-tv/family-album-usa/episode21' },
                 { text: '22. Career Choices', link: '/movies-tv/family-album-usa/episode22' },
                 { text: '23. The Community Center', link: '/movies-tv/family-album-usa/episode23' },
+                { text: '24. Parting Friends', link: '/movies-tv/family-album-usa/episode24' },
               ],
             },
           ],
