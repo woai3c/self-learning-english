@@ -155,6 +155,7 @@ export default defineConfig({
                 { text: '22. Career Choices', link: '/movies-tv/family-album-usa/episode22' },
                 { text: '23. The Community Center', link: '/movies-tv/family-album-usa/episode23' },
                 { text: '24. Parting Friends', link: '/movies-tv/family-album-usa/episode24' },
+                { text: '25. Country Music', link: '/movies-tv/family-album-usa/episode25' },
               ],
             },
           ],
