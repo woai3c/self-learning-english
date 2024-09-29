@@ -156,6 +156,7 @@ export default defineConfig({
                 { text: '23. The Community Center', link: '/movies-tv/family-album-usa/episode23' },
                 { text: '24. Parting Friends', link: '/movies-tv/family-album-usa/episode24' },
                 { text: '25. Country Music', link: '/movies-tv/family-album-usa/episode25' },
+                { text: '26. Opening Night', link: '/movies-tv/family-album-usa/episode26' },
               ],
             },
           ],
