@@ -256,7 +256,8 @@ title: Country Music
 
 **Ellen**: What's that?
 
-**Richard**: A little we'd better head home. It's getting late, and we have a bit of a drive.
+**Richard**: A little special country music.
+**Susan**: I think we'd better head home. It's getting late, and we have a bit of a drive.
 
 **Harry**: Well, all your things are inside. There's your sleeping bag.
 

@@ -6,7 +6,7 @@ title: 46 Linden Street
 
 ## Act 1
 
-**Richard**: Excuse me. My name is Richard Stewart. I’m a photographer. May I take a picture you and your little boy?
+**Richard**: Excuse me. My name is Richard Stewart. I’m a photographer. May I take a picture of you and your little boy?
 
 **Mrs. Vann**: What’s it for?
 
@@ -22,7 +22,7 @@ title: 46 Linden Street
 
 **Gerald**: Gerald.
 
-**Richard**: How old are you ,Gerald?
+**Richard**: How old are you, Gerald?
 
 **Gerald**: Five.
 
@@ -34,7 +34,7 @@ title: 46 Linden Street
 
 **Alexandra**: Can I help you?
 
-**Richard**: Oh, please. Hold Gerald’s hand,please. Great! Now point to the buildings. Terrific! Give Mommy a kiss, Gerald. Nice! Thank you, Gerald. And thank you, Mrs. Vann.
+**Richard**: Oh, please. Hold Gerald’s hand, please. Great! Now point to the buildings. Terrific! Give Mommy a kiss, Gerald. Nice! Thank you, Gerald. And thank you, Mrs. Vann.
 
 **Mrs. Vann**: Oh, my pleasure. We'll be looking for your book.
 
@@ -66,7 +66,7 @@ title: 46 Linden Street
 
 **Alexandra**: Yes, I’d like that.
 
-**Richard**: Here they are. Family Album, U.S.A. It’s an album of pictures of the United States: the cities, the special places, and the people. And these are pictures of people working: steelworkers, bankers, police, street vendors, ambulance drivers, doctors...Oh, this is my father. He’s a doctor. This is my mother.
+**Richard**: Here they are. Family Album, U.S.A. It’s an album of pictures of the United States: the cities, the special places, and the people. And these are pictures of people working: steelworkers, bankers, police, street vendors, ambulance drivers, doctors... Oh, this is my father. He’s a doctor. This is my mother.
 
 **Alexandra**: What’s her name?
 
@@ -108,7 +108,7 @@ title: 46 Linden Street
 
 **Policeman**: Yes. The station’s that way. You should take the number 1 train to Van Cortlandt Park.
 
-**Alexandra**: Number 1 train to Van Cortlandt park. Thank you.
+**Alexandra**: Number 1 train to Van Cortlandt Park. Thank you.
 
 **Policeman**: Anytime. Good luck. Remember, the number 1 train. The uptown platform.
 
@@ -128,9 +128,9 @@ title: 46 Linden Street
 
 **Customer**: I’m taking too much of your time.
 
-**Marilyn**: It’s six 0’clock. Where’s my husband? I was expecting him here at five forty-five.
+**Marilyn**: It’s six o’clock. Where’s my husband? I was expecting him here at five forty-five.
 
-**Customer**: Don’t worry. Thetraffic is very heavy at this hour.
+**Customer**: Don’t worry. The traffic is very heavy at this hour.
 
 **Marilyn**: I know. But we’re going to be late for dinner.
 
@@ -148,11 +148,11 @@ title: 46 Linden Street
 
 **Richard**: I didn’t think of that. Thanks.
 
-**Marilyn**: Hello, Yes. The number, please, of the Staten Island Ferry lost-and-found office. Five five five...zero eight zero eight. Thank you.
+**Marilyn**: Hello, yes. The number, please, of the Staten Island Ferry lost-and-found office. Five five five... zero eight zero eight. Thank you.
 
 **Richard**: I really appreciate it, Marilyn.
 
-**Marilyn**: Hello. Did anyone find a camera bag this afternoon, a small canvas bag, on the J.F. Kennedy Ferry?...No? Maybe someone will find it. The name is Stewart, Richard Stewart. And the telephone number is five five five ...three oh nine oh. Thank you. Sorry, Richard. They don’t have it.
+**Marilyn**: Hello. Did anyone find a camera bag this afternoon, a small canvas bag, on the J.F. Kennedy Ferry?... No? Maybe someone will find it. The name is Stewart, Richard Stewart. And the telephone number is five five five... three oh nine oh. Thank you. Sorry, Richard. They don’t have it.
 
 **Richard**: Thanks, anyway. There was a girl on the ferry. Now maybe...
 
@@ -168,7 +168,7 @@ title: 46 Linden Street
 
 **Ellen**: Well, Marilyn and Richard called. They’ll be here soon, and then we’ll eat.
 
-**Philip**: All right. Is...is Susan coming?
+**Philip**: All right. Is... is Susan coming?
 
 **Ellen**: Well, she’ll be here later. She has to work late tonight.
 
@@ -176,7 +176,7 @@ title: 46 Linden Street
 
 **Ellen**: It’s a surprise.
 
-**Philip**: I hope its pasta.
+**Philip**: I hope it’s pasta.
 
 **Philip**: Robbie, the dinner was terrific.
 
@@ -204,17 +204,17 @@ title: 46 Linden Street
 
 **Ellen**: Robbie, will you help me serve?
 
-**Richard**: I keep thinking about that bag of film. Eight rolls. a whole day’s work. And good stuff, too.
+**Richard**: I keep thinking about that bag of film. Eight rolls. A whole day’s work. And good stuff, too.
 
 **Ellen**: I’ll get it. Hello.
 
 **Alexandra**: Hello. Does Richard Stewart live here?
 
-**Robbie**: Yes, he’smy brother. I’m Robbie...Robbie Stewart.
+**Robbie**: Yes, he’s my brother. I’m Robbie... Robbie Stewart.
 
 **Alexandra**: I’m Alexandra Pappas. How do you do? Your brother left his bag of film on the ferryboat. I found it.
 
-**Robbie**: I’m really glad to see you. I mean...my brother’ll be really glad to see you!
+**Robbie**: I’m really glad to see you. I mean... my brother’ll be really glad to see you!
 
 **Ellen**: Robbie! Who is it?
 
@@ -224,9 +224,9 @@ title: 46 Linden Street
 
 **Alexandra**: Hello, Richard. I found your bag!
 
-**Richard**: Oh, thank you! Thank you! Um...Alexandra, let me introduce you. This is my wife Marilyn.
+**Richard**: Oh, thank you! Thank you! Um... Alexandra, let me introduce you. This is my wife Marilyn.
 
-**Alexandra**: Richard showed me yourphoto. How do you do ?
+**Alexandra**: Richard showed me your photo. How do you do?
 
 **Marilyn**: Oh yes. Richard told us all about you. It’s nice to meet you.
 
@@ -238,7 +238,7 @@ title: 46 Linden Street
 
 **Philip**: Nice to meet you, Alexandra.
 
-**Richard**: And...ah...you met Robbie
+**Richard**: And... ah... you met Robbie.
 
 **Alexandra**: Yes. And you must be Susan. Hi.
 
@@ -246,7 +246,7 @@ title: 46 Linden Street
 
 **Richard**: I’m so glad you found the bag and took the time and trouble to return it.
 
-**Alexandra**: Oh,it was no trouble. I just took the wrong train.
+**Alexandra**: Oh, it was no trouble. I just took the wrong train.
 
 **Ellen**: Would you like something to eat?
 
@@ -256,7 +256,7 @@ title: 46 Linden Street
 
 **Alexandra**: I’d appreciate that.
 
-**Ellen**: Please,use the phone.
+**Ellen**: Please, use the phone.
 
 **Alexandra**: Thanks. Excuse me.
 
@@ -304,7 +304,7 @@ title: 46 Linden Street
 
 **Richard**: Can I drive you home?
 
-**Alexandra**: No,thanks. The train is just up the street. It won’t take me long at all.
+**Alexandra**: No, thanks. The train is just up the street. It won’t take me long at all.
 
 **Richard**: Well, you really saved the day for me, Alexandra.
 
@@ -318,4 +318,4 @@ title: 46 Linden Street
 
 **Robbie**: Very! Hey, she forgot her bag!
 
-**Ellen**: I guess we’ll be seeing Alexandra again, Right, Robbie?
+**Ellen**: I guess we’ll be seeing Alexandra again, right, Robbie?

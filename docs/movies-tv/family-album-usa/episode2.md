@@ -14,13 +14,13 @@ title: The Blind Date
 
 **Vendor**: That’s easy. Walk to the corner. Then make a left turn. Then walk two blocks to the traffic light. Make another left to Wooster.
 
-**Harry**: Thank you. To the comer and then a left?
+**Harry**: Thank you. To the corner and then a left?
 
 **Vendor**: Yeah. A left. Hot dog? Only seventy-five cents.
 
 **Harry**: No. Thank you. I have a dinner date.
 
-**Harry**: 555-9470...and it’s busy....Try again. 555-9470...and it’s still busy. Excuse me,ma’am.I’m looking for 83 Wooster Street.
+**Harry**: 555-9470... and it’s busy... Try again. 555-9470... and it’s still busy. Excuse me, ma’am. I’m looking for 83 Wooster Street.
 
 **Woman**: Yes. Wooster Street is two blocks, and 83 is to the right about two houses.
 
@@ -36,7 +36,7 @@ title: The Blind Date
 
 **Harry**: Nice to meet you, Susan. Sorry I’m late. The traffic. The parking. I was lost.
 
-**Susan**: What pretty flowers! Thank you. Oh, please come in. Don’t worry about being late. It’s fine. Excuse the mess. I just moved here. Oh, I’d like you to meet my sister-in- law Marilyn. Marilyn Stewart, this is Harry Bennett.
+**Susan**: What pretty flowers! Thank you. Oh, please come in. Don’t worry about being late. It’s fine. Excuse the mess. I just moved here. Oh, I’d like you to meet my sister-in-law Marilyn. Marilyn Stewart, this is Harry Bennett.
 
 **Harry**: Pleased to meet you.
 
@@ -44,13 +44,13 @@ title: The Blind Date
 
 **Harry**: Are we too late for our dinner reservation?
 
-**Susan**: No,the restaurant will hold our table. I know the owner very well. I eat there a lot.
+**Susan**: No, the restaurant will hold our table. I know the owner very well. I eat there a lot.
 
 **Harry**: Do you know the phone number of the restaurant? I’d like to call home and leave the number with the baby-sitter.
 
 **Susan**: Sure. The number is... five five five... seventeen twenty.
 
-**Harry**: May I use the Phone? Five five five...one seven two oh, Hello? Hi, Michelle. It’s Daddy. Can I speak to Betty? I want to leave the phone number of the restaurant.... Hi, Betty. I’ll be at five five five...seventeen twenty. OK. Thanks. See you later. Well, that’s done. Shall we go?
+**Harry**: May I use the phone? Five five five... one seven two oh. Hello? Hi, Michelle. It’s Daddy. Can I speak to Betty? I want to leave the phone number of the restaurant... Hi, Betty. I’ll be at five five five... seventeen twenty. OK. Thanks. See you later. Well, that’s done. Shall we go?
 
 **Susan**: I’m ready. See you later, Marilyn.
 
@@ -68,11 +68,11 @@ title: The Blind Date
 
 **Somsak**: Ah! Miss Stewart! Welcome! How are you?
 
-**Susan**: Five, Somsak.And you?
+**Susan**: Fine, Somsak. And you?
 
 **Somsak**: Fine, thank you.
 
-**Sumsak**: This is my friend Harry Bennett.
+**Somsak**: This is my friend Harry Bennett.
 
 **Harry**: Pleased to meet you.
 
@@ -120,7 +120,7 @@ title: The Blind Date
 
 **Susan**: I hope you’re hungry.
 
-**Harry**: What? Oh, yes. Starving.Well, I...
+**Harry**: What? Oh, yes. Starving. Well, I...
 
 **Susan**: Well, I...
 
@@ -132,7 +132,7 @@ title: The Blind Date
 
 **Susan**: I know you’re a CPA.
 
-**Harry**: That’s true. Harry Bennett,certified public accountant. I love numbers. I do some work for Smith and Dale, your company’s accounting firm.
+**Harry**: That’s true. Harry Bennett, certified public accountant. I love numbers. I do some work for Smith and Dale, your company’s accounting firm.
 
 **Susan**: And so...
 
@@ -160,21 +160,21 @@ title: The Blind Date
 
 **Harry**: I’ll get the rest of the dinner. Excuse me.
 
-**Harry**: Please forgive me ,Susan, but...I have to leave. I feel terrible, but...
+**Harry**: Please forgive me, Susan, but... I have to leave. I feel terrible, but...
 
 **Susan**: What’s the matter?
 
-HarryMy daughter isn’t feeling well.
+**Harry**: My daughter isn’t feeling well.
 
 **Susan**: Oh no! Is it serious?
 
-**Harry**: I don’t know.The baby-sitter says she has a stomachache, and she’s crying. I’ll have to go home. Will you forgive me?
+**Harry**: I don’t know. The baby-sitter says she has a stomachache, and she’s crying. I’ll have to go home. Will you forgive me?
 
 **Susan**: Of course. I’m so sorry for Michelle. And you didn’t have a chance to eat.
 
 **Harry**: Oh, it’s OK. Let me take you home first.
 
-**Susan**: No,no. Please, go ahead.
+**Susan**: No, no. Please, go ahead.
 
 **Harry**: It’s our first date.
 
@@ -196,7 +196,7 @@ HarryMy daughter isn’t feeling well.
 
 **Susan**: I think she has a stomachache. He’s a good father.
 
-**Marilyn**: So...what do you think of him?
+**Marilyn**: So... what do you think of him?
 
 **Susan**: He’s very nice. But I think he was nervous tonight. It was his first date in two years.
 
@@ -208,7 +208,7 @@ HarryMy daughter isn’t feeling well.
 
 **Susan**: He didn’t get a thing to eat.
 
-**Marilyn**: You ordered enough for three or four people, but I’m not complaining. The food delicious.
+**Marilyn**: You ordered enough for three or four people, but I’m not complaining. The food is delicious.
 
 **Susan**: Who is that?
 
@@ -230,7 +230,7 @@ HarryMy daughter isn’t feeling well.
 
 **Marilyn**: Oh, not at all. We’re still eating.
 
-**Susan**: Please, come in. Join us. It’s our meal form the restaurant.And how is your daughter?
+**Susan**: Please, come in. Join us. It’s our meal from the restaurant. And how is your daughter?
 
 **Harry**: Oh, she’s fine. It was only a tummy ache.
 
@@ -240,11 +240,11 @@ HarryMy daughter isn’t feeling well.
 
 **Susan**: I agree. Aren’t you hungry?
 
-**Harry**: As a matter of fact...I am hungry.
+**Harry**: As a matter of fact... I am hungry.
 
 **Marilyn**: There’s lots of food left.
 
-**Harry**: Mmm,this is delicious!
+**Harry**: Mmm, this is delicious!
 
 **Susan**: Enjoy!
 
@@ -256,7 +256,7 @@ HarryMy daughter isn’t feeling well.
 
 **Susan**: Good night, Marilyn.
 
-**Susan**: She’s going to a fashion show here in the city tomorrow.She is sleeping here so she won’t have to travel from Riverdale in the morning.
+**Susan**: She’s going to a fashion show here in the city tomorrow. She is sleeping here so she won’t have to travel from Riverdale in the morning.
 
 **Harry**: You two must be close.
 
@@ -264,11 +264,11 @@ HarryMy daughter isn’t feeling well.
 
 **Harry**: I like that.
 
-**Harry**: And then, twoyears ago, my wife died.
+**Harry**: And then, two years ago, my wife died.
 
 **Susan**: You miss her.
 
-**Harry**: I do...yes, but I have Michelle...and with time...
+**Harry**: I do... yes, but I have Michelle... and with time...
 
 **Susan**: Is there anyone else in your life?
 
@@ -276,9 +276,7 @@ HarryMy daughter isn’t feeling well.
 
 **Susan**: Oh, I date occasionally, but my work keeps me busy.
 
-**Harry**: Ooh, speaking of keeping busy-I have an early start tomorrow, and the baby-sitter has to get home. Where did the time go? It’s midnight. Thank you,
-
-Susan.I had a nice evening.
+**Harry**: Ooh, speaking of keeping busy—I have an early start tomorrow, and the baby-sitter has to get home. Where did the time go? It’s midnight. Thank you, Susan. I had a nice evening.
 
 **Susan**: Me, too, Harry. Harry?
 
