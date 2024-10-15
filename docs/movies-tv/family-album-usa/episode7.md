@@ -22,7 +22,7 @@ title: Man's Best Friend
 
 **Robbie**: OK, let's talk.
 
-**Alexandra**: I received a letter from my partents this morning.
+**Alexandra**: I received a letter from my parents this morning.
 
 **Robbie**: Did they write some bad news?
 
@@ -34,7 +34,7 @@ title: Man's Best Friend
 
 **Robbie**: I'm sorry. Alexandra. But I understand.
 
-**Alexandra**: The Mollnas treat me so nicely, and I love being with you family so much... but when I received the letter with photographs of my family, I cried. I cried because I miss them all.
+**Alexandra**: The Molinas treat me so nicely, and I love being with your family so much... but when I received the letter with photographs of my family, I cried. I cried because I miss them all.
 
 **Robbie**: You really miss your family, don't you?
 
@@ -60,7 +60,7 @@ title: Man's Best Friend
 
 **Alexandra**: A dog!
 
-**Robbie**: A sprinel! Come on in! Make yourself at home.
+**Robbie**: A spaniel! Come on in! Make yourself at home.
 
 **Alexandra**: Oh,you poor little thing. Come here.
 
@@ -74,9 +74,9 @@ title: Man's Best Friend
 
 **Robbie**: I've always wanted a springer spaniel.She's so cute.
 
-**Operator**: The number you ae calling-555-8448-is no longer in service.
+**Operator**: The number you are calling-555-8448-is no longer in service.
 
-**Robbie**: The number's no longer in sevice.
+**Robbie**: The number's no longer in service.
 
 **Alexandra**: Oh, you poor, poor baby. You've lost your family.
 
@@ -202,7 +202,7 @@ title: Man's Best Friend
 
 **Alexandra**: If the real owners don't come to claim Gemma...
 
-**Linda**: After forty-eight huors. But please call first.
+**Linda**: After forty-eight hours. But please call first.
 
 **Robbie**: Thanks for your information and for being so helpful.
 
@@ -212,7 +212,7 @@ title: Man's Best Friend
 
 **Alexandra**: Maybe the real owners will come to claim her.
 
-**Robble**: Her eyes look so sad. She must really miss them.
+**Robbie**: Her eyes look so sad. She must really miss them.
 
 **Linda**: I see you're both animal lovers.
 
@@ -226,7 +226,7 @@ title: Man's Best Friend
 
 **Alexandra**: I keep thinking about the dog-about Gemma, alone in the animal shelter.
 
-**Robbie**: I know. But I promse you, Alexandra, the dog is just fine.They're very kind to the animals.
+**Robbie**: I know. But I promise you, Alexandra, the dog is just fine.They're very kind to the animals.
 
 **Alexandra**: I know they are. I mean about her being alone. Even if they are kind to Gemma, she's still alone, without her family
 
@@ -234,7 +234,7 @@ title: Man's Best Friend
 
 **Robbie**: Are you ready, Alexandra?
 
-**Alexandra**: Yes, I'm ready. I'll have the chefs salad, please.
+**Alexandra**: Yes, I'm ready. I'll have the chef's salad, please.
 
 **Robbie**: I will have a cheeseburger, medium rare, with raw onion, and French fries, please.
 
@@ -262,7 +262,7 @@ title: Man's Best Friend
 
 **Linda**: This is Linda Aborn from the animal shelter.
 
-**Robbie**: It's Linda from the animal shetter. Yes, Linda. Hi.
+**Robbie**: It's Linda from the animal shelter. Yes, Linda. Hi.
 
 **Linda**: We have good news and bad news, Robbie.
 
@@ -272,7 +272,7 @@ title: Man's Best Friend
 
 **Robbie**: That's OK.
 
-**Linda**: Come by one day and look at some of the other dogs. I'm suer there's one for you. Thanks, Robbie. And the Levinsons thank you for bringing their dog to us.
+**Linda**: Come by one day and look at some of the other dogs. I'm sure there's one for you. Thanks, Robbie. And the Levinsons thank you for bringing their dog to us.
 
 **Robbie**: Thanks, Linda. Bye.
 
@@ -282,6 +282,6 @@ title: Man's Best Friend
 
 **Alexandra**: I'm glad for the dog.
 
-**Robbie**: I guess I am, too. She said if I come by, She'll help me fine another dog.
+**Robbie**: I guess I am, too. She said if I come by, She'll help me find another dog.
 
 **Alexandra**: Come on. Let's dance.
