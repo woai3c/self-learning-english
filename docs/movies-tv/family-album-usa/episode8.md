@@ -6,7 +6,7 @@ title: You're Going to Be Fine
 
 ## Act 1
 
-**Philip**: Molly, I need your special talent for handing special matters.
+**Philip**: Molly, I need your special talent for handling special matters.
 
 **Molly**: Like what special matters?
 
@@ -14,25 +14,25 @@ title: You're Going to Be Fine
 
 **Molly**: Yes?
 
-**Philip**: I have three tonsillectomies set for Friday with Dr.Earl.
+**Philip**: I have three tonsillectomies set for Friday with Dr. Earl.
 
 **Molly**: Yes?
 
-**Philip**: I need to fit a fourth operation into his schedule. And...I know you can do it.
+**Philip**: I need to fit a fourth operation into his schedule. And... I know you can do it.
 
 **Molly**: Who's the patient?
 
 **Philip**: Carl Herrera. The boy has infected tonsils, and we should remove them as soon as possible.
 
-**Molly**: Well, I'll try to arrange th schedule, Dr. Stewart. But it's not going to be easy.
+**Molly**: Well, I'll try to arrange the schedule, Dr. Stewart. But it's not going to be easy.
 
 **Philip**: I know you'll be able to take care of it.
 
-**Philip**: Well, Mrs Herrera, Carl will be perfectly fine after we remove his tonsils.
+**Philip**: Well, Mrs. Herrera, Carl will be perfectly fine after we remove his tonsils.
 
 **Mother**: Thank you for your reassurance, Dr. Stewart. He's had so many colds and sore throats recently.
 
-**Philip**: Well, It's a very easy operation, Carl. You won't feel a thing.
+**Philip**: Well, it's a very easy operation, Carl. You won't feel a thing.
 
 **Carl**: But when do they do it?
 
@@ -40,7 +40,7 @@ title: You're Going to Be Fine
 
 **Carl**: But Saturday's my birthday.
 
-**Philip**: Well, we could reschedule the operation, Mrs. Herera, but I don't want to put it off too long.
+**Philip**: Well, we could reschedule the operation, Mrs. Herrera, but I don't want to put it off too long.
 
 **Mother**: No, I think it's important to do it now. We can have a birthday party for you, Carl, when you come out of the hospital.
 
@@ -60,7 +60,7 @@ title: You're Going to Be Fine
 
 **Carl**: Yes.
 
-**Molly**: OK. We want you to get better, too.You'll have your tonsils out tomorrow, and you won't get so many colds anymore.
+**Molly**: OK. We want you to get better, too. You'll have your tonsils out tomorrow, and you won't get so many colds anymore.
 
 **Carl**: But if I have my tonsils out tomorrow, I'll miss my birthday party on Saturday.
 
@@ -70,7 +70,7 @@ title: You're Going to Be Fine
 
 **Molly**: I have to think about it.
 
-**Carl**: You're fooling me .
+**Carl**: You're fooling me.
 
 **Molly**: Oh, I'm not, Carl. Give me a chance to think about it, and I'll come up with something.
 
@@ -94,7 +94,7 @@ title: You're Going to Be Fine
 
 **Frank**: Nope.
 
-**Molly**: Carl, you're sure you've never played? OK, Betty, Tim, and Frank. We're going to play charades. Frank, you can learn as we go. And, Carl, you join in at anytime. OK, let me think. OK, I've got one .All right.
+**Molly**: Carl, you're sure you've never played? OK, Betty, Tim, and Frank. We're going to play charades. Frank, you can learn as we go. And, Carl, you join in at any time. OK, let me think. OK, I've got one. All right.
 
 **Betty**: A movie! A movie!
 
@@ -118,7 +118,7 @@ title: You're Going to Be Fine
 
 **Betty**: Sounds like...
 
-**Time**: Sounds like what?
+**Tim**: Sounds like what?
 
 **Frank**: Sounds like no.
 
@@ -130,13 +130,13 @@ title: You're Going to Be Fine
 
 **Molly**: Nope.
 
-**Tim**: Show. That's It-show.
+**Tim**: Show. That's it—show.
 
-**Molly**: No...OK...
+**Molly**: No... OK...
 
 **Betty**: Snow.
 
-**Molly**: Absolutely right, Betty. Sounds like no-snow. OK, a movie. Six words. The first word is snow.
+**Molly**: Absolutely right, Betty. Sounds like no—snow. OK, a movie. Six words. The first word is snow.
 
 **Frank**: This is fun.
 
@@ -158,11 +158,11 @@ title: You're Going to Be Fine
 
 **Frank**: I got it!
 
-**Molly**: Carl, now you know charades. Why don't join us?
+**Molly**: Carl, now you know charades. Why don't you join us?
 
 **Carl**: I don't like charades. It's for babies.
 
-**Molly**: Oh, I like it
+**Molly**: Oh, I like it.
 
 **Carl**: Well, they're babies.
 
@@ -170,11 +170,11 @@ title: You're Going to Be Fine
 
 **Tim**: Yeah.
 
-**Molly**: No arguing. Save your voices. Between now and tomorrow you're all going to have your tonsils out. And you won't be able to speak for a while. So save your voices till then.
+**Molly**: No arguing. Save your voices. Between now and tomorrow, you're all going to have your tonsils out. And you won't be able to speak for a while. So save your voices till then.
 
 **Philip**: Hi, gang. Hi, everybody. Well, what's going on?
 
-**Molly**: I sure I am glad to see you, Dr. Stewart. This is a rough group.
+**Molly**: I sure am glad to see you, Dr. Stewart. This is a rough group.
 
 **Carl**: I didn't want to play charades, so they're angry at me.
 
@@ -186,7 +186,7 @@ title: You're Going to Be Fine
 
 **Carl**: Because my birthday is tomorrow. My mother promised me a birthday party with a clown.
 
-**Molly**: But you can have on when you go home, Carl.
+**Molly**: But you can have one when you go home, Carl.
 
 **Carl**: But my birthday is tomorrow.
 
@@ -200,7 +200,7 @@ title: You're Going to Be Fine
 
 **Molly**: It hurts, doesn't it?
 
-**Molly**: You'll feel better tomorrow, Betty, believe me. Only one day, and it won't hurt as much. Do you feel like eating? Having some dinner? Oh, don't look so sad. Let me tell you about your dinner. It's ice cream
+**Molly**: You'll feel better tomorrow, Betty, believe me. Only one day, and it won't hurt as much. Do you feel like eating? Having some dinner? Oh, don't look so sad. Let me tell you about your dinner. It's ice cream.
 
 **Molly**: Ice cream. All kinds of flavors. Chocolate.
 
@@ -212,9 +212,9 @@ title: You're Going to Be Fine
 
 **Molly**: I see you're feeling better already, Betty. So you will have dinner?
 
-**Molly**: OK, honey, we'll see to it that you have strawberry and vanilla ice cream. Just rest now. You need some rest to help you get better quickly. Hi Frank. How you doing?
+**Molly**: OK, honey, we'll see to it that you have strawberry and vanilla ice cream. Just rest now. You need some rest to help you get better quickly. Hi, Frank. How you doing?
 
-**Molly**: Oh, come on now. You're a big boy. It doesn't hurt that much, does it? Oh, I'm sorry it hurts so much, and won't be able to have dinner. You're just going to have to have ice cream.Yes, Ice cream. Lots of flavors. Want to hear them?
+**Molly**: Oh, come on now. You're a big boy. It doesn't hurt that much, does it? Oh, I'm sorry it hurts so much, and you won't be able to have dinner. You're just going to have to have ice cream. Yes, ice cream. Lots of flavors. Want to hear them?
 
 **Molly**: Chocolate?
 
@@ -240,13 +240,13 @@ title: You're Going to Be Fine
 
 **Molly**: Your birthday is tomorrow, isn't it?
 
-**Molly**: Well, maybe, just maybe, there will be a surprise. But first you have to smile. I just want to see one smile frome you.
+**Molly**: Well, maybe, just maybe, there will be a surprise. But first, you have to smile. I just want to see one smile from you.
 
-**Molly**: No smile, no surprise . That's the deal. No smile, no surprise. If you want a surprise, then you've got to smile first.
+**Molly**: No smile, no surprise. That's the deal. No smile, no surprise. If you want a surprise, then you've got to smile first.
 
-**Molly**: How you all doing? Well, I'm glad you're feeling better because we have a little surprise for you today. It's Carl's birthday, and we have Popo the Clown to entertain you. And here he is -Popo the Clown.
+**Molly**: How are you all doing? Well, I'm glad you're feeling better because we have a little surprise for you today. It's Carl's birthday, and we have Popo the Clown to entertain you. And here he is—Popo the Clown.
 
-**Philip**: Happy birthday, Carl. Happy birthday. All right everybody. OK, Carl. It's your birthday. What's your wish? What would you like?
+**Philip**: Happy birthday, Carl. Happy birthday. All right, everybody. OK, Carl. It's your birthday. What's your wish? What would you like?
 
 **Philip**: Hmm?
 
