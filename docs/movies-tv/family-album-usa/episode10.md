@@ -8,7 +8,7 @@ title: Smell The Flowers
 
 **Sam**: Good morning, Susan.
 
-**Susan**: Good morning, Sam . What's the schedule today?
+**Susan**: Good morning, Sam. What's the schedule today?
 
 **Sam**: Ten o'clock, telephone FAO Schwarz about the new twin baby dolls.
 
@@ -38,7 +38,7 @@ title: Smell The Flowers
 
 **Susan**: Now, what else is on the schedule today?
 
-**Sam**: Well, at one o'clock you have a lunch appointment with Mr.Levine, the client from the Toy-town Stores.
+**Sam**: Well, at one o'clock you have a lunch appointment with Mr. Levine, the client from the Toy-town Stores.
 
 **Susan**: Where?
 
@@ -50,7 +50,7 @@ title: Smell The Flowers
 
 **Susan**: Make sure everybody is at that meeting.
 
-**Sam**: Will do. At six you're meeting Mr.Ozawa.
+**Sam**: Will do. At six you're meeting Mr. Ozawa.
 
 **Susan**: Oh, yes. Are his models here?
 
@@ -78,7 +78,7 @@ title: Smell The Flowers
 
 **Sam**: To smell the flowers.
 
-**Susan**: Oh, wait a minute.What's today's date?
+**Susan**: Oh, wait a minute. What's today's date?
 
 **Sam**: Today is the twelfth. Why?
 
@@ -94,7 +94,7 @@ title: Smell The Flowers
 
 **Sam**: Right.
 
-**Sam**: These are the models from the Japanese film maker.
+**Sam**: These are the models from the Japanese filmmaker.
 
 **Susan**: Thank you. Just put them on my desk.
 
@@ -106,9 +106,9 @@ title: Smell The Flowers
 
 **Susan**: What time is it, anyway? My watch stopped.
 
-**Sam**: It's evelen thirty.
+**Sam**: It's eleven thirty.
 
-**Susan**: What time is my lunch date with Bill Levine.
+**Susan**: What time is my lunch date with Bill Levine?
 
 **Sam**: One o'clock.
 
@@ -136,11 +136,11 @@ title: Smell The Flowers
 
 **Susan**: He's a friend.
 
-**Sam**: Well, He's here with his daughter to have lunch.
+**Sam**: Well, he's here with his daughter to have lunch.
 
-**Susan**: I met her at Thankgiving, and I promised to have lunch with both of them today.
+**Susan**: I met her at Thanksgiving, and I promised to have lunch with both of them today.
 
-**Sam**: Yes, indeed. What are you going to do about your appointment with Mr.Levine?
+**Sam**: Yes, indeed. What are you going to do about your appointment with Mr. Levine?
 
 **Susan**: Any suggestions? Oh!
 
@@ -160,23 +160,23 @@ title: Smell The Flowers
 
 **Harry**: OK. You go out and get a drink of water at the fountain.
 
-**Susan**: The fountain is over there, Michelle.Near the Exit sign.
+**Susan**: The fountain is over there, Michelle. Near the Exit sign.
 
 **Michelle**: Thank you.
 
 **Harry**: Michelle is a little shy.
 
-**Susan**: I used to be that way when I was her age. Harry, if Michells doesn't want to go, we don't have to.
+**Susan**: I used to be that way when I was her age. Harry, if Michelle doesn't want to go, we don't have to.
 
 **Harry**: She'll be fine. Remember, I haven't dated anyone else since her mother died. This is a little difficult for her. Are you ready to go?
 
 **Susan**: Yes. But could you wait one minute? I have a call to make. Would you excuse me?
 
-**Susan**: Sam, get Mr. Levine a Toytown Stores on the telephone for me, please.
+**Susan**: Sam, get Mr. Levine at Toytown Stores on the telephone for me, please.
 
-**Sam**: Right. Hello. Susan Stewart calling Mr. Levine please. He's on the phone
+**Sam**: Right. Hello. Susan Stewart calling Mr. Levine please. He's on the phone.
 
-**Susan**: Mr. Levine, Susan Stewart. I find myself in an barrassing situation. I made another lunch date for today and forgot to enter it in my appointment book. Can you and I meet for drinks tomorrow? I'd really appreciate it... Yes...Thank you...Tomorrow at five o'clock at the Biltrnore. I'll see you then. Thank you, Mr.Levine.
+**Susan**: Mr. Levine, Susan Stewart. I find myself in an embarrassing situation. I made another lunch date for today and forgot to enter it in my appointment book. Can you and I meet for drinks tomorrow? I'd really appreciate it... Yes... Thank you... Tomorrow at five o'clock at the Biltmore. I'll see you then. Thank you, Mr. Levine.
 
 **Waiter**: Welcome to the South Street Restaurant, folks. What'll it be?
 
@@ -192,7 +192,7 @@ title: Smell The Flowers
 
 **Michelle**: OK, Daddy.
 
-**Harry**: We'll have threecrab salads and a pitcher of lemonade.
+**Harry**: We'll have three crab salads and a pitcher of lemonade.
 
 **Waiter**: Help yourself to celery and carrots and other vegetables.
 
@@ -200,7 +200,7 @@ title: Smell The Flowers
 
 **Susan**: Where was that?
 
-**Harry**: We had a summer house on Fire lsland. Do you remember, Michelle?
+**Harry**: We had a summer house on Fire Island. Do you remember, Michelle?
 
 **Michelle**: Sure. You and Mommy used to take me on the ferryboat.
 
@@ -230,11 +230,13 @@ title: Smell The Flowers
 
 **Susan**: I know you miss your mother.
 
-**Michelle**: You do?Susan: Yes. And I'm not trying to take her place.
+**Michelle**: You do?
+
+**Susan**: Yes. And I'm not trying to take her place.
 
 **Michelle**: Then why are you and Daddy spending so much time together?
 
-**Susan**: Becaue we like each other. And right now, he needs a friend.
+**Susan**: Because we like each other. And right now, he needs a friend.
 
 **Michelle**: I'm his friend.
 
@@ -250,7 +252,7 @@ title: Smell The Flowers
 
 **Harry**: So, what were you two talking about?
 
-**Michelle**: Just girl talk, daddy. It's too hard to explain.
+**Michelle**: Just girl talk, Daddy. It's too hard to explain.
 
 **Harry**: You're probably right. Well, let's get started.
 
@@ -260,7 +262,7 @@ title: Smell The Flowers
 
 **Harry**: I planned to take you for a ride in Central Park in a horse and carriage.
 
-**Susan**: Harry, I'd love to , but I have work to do.
+**Susan**: Harry, I'd love to, but I have work to do.
 
 **Harry**: OK. We'll walk back to your office with you. It's so nice out. I decided to forget about my accounting problems and just enjoy this beautiful spring day. Take the time, Susan.
 
@@ -304,7 +306,7 @@ title: Smell The Flowers
 
 **Sam**: OK, Susan. And have a nice afternoon.
 
-**Susan**: Thanks
+**Susan**: Thanks.
 
 **Harry**: She likes you.
 
@@ -320,4 +322,4 @@ title: Smell The Flowers
 
 **Harry**: And what did you decide?
 
-**Susan**: That's a secret...between us women.
+**Susan**: That's a secret... between us women.

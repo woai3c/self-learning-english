@@ -26,17 +26,17 @@ title: It's Up to You
 
 **Philip**: What's it about?
 
-**Robbie**: I'm writing an article on the feelings abuot graduation.
+**Robbie**: I'm writing an article on the feelings about graduation.
 
-**Philip**: And...how do you feel?
+**Philip**: And... how do you feel?
 
-**Robbie**: Me? A little scared. And exceted, too.
+**Robbie**: Me? A little scared. And excited, too.
 
 **Philip**: I felt the same way.
 
 **Robbie**: The scary part's leaving home and moving to college.
 
-**Philip**: Oh, leaving home is part of growing up. Well, don't workall night.
+**Philip**: Oh, leaving home is part of growing up. Well, don't work all night.
 
 **Robbie**: I don't mind. I enjoy writing.
 
@@ -46,11 +46,11 @@ title: It's Up to You
 
 **Philip**: You have lots of time to decide.
 
-**Robbie**: That's the worst part-making decisions.
+**Robbie**: That's the worst part—making decisions.
 
 **Philip**: You'll be OK. Good night, Son.
 
-**Robbie**: Good night, Dad. Grangpa&
+**Robbie**: Good night, Dad. Grandpa
 
 **Philip**: "Hail to the victors valiant, Hail to the conquering heroes, Hail, Hail to Michigan, The champions of the West!"
 
@@ -82,7 +82,7 @@ title: It's Up to You
 
 **Robbie**: But I may not want to go to Michigan.
 
-**Philip**: It's one of the best schools in the country, Robbie. I studied medicine there. Your grandfather went to the Englieering School there.
+**Philip**: It's one of the best schools in the country, Robbie. I studied medicine there. Your grandfather went to the Engineering School there.
 
 **Robbie**: I know that, but...
 
@@ -94,9 +94,9 @@ title: It's Up to You
 
 **Robbie**: Yes, I know that.
 
-**Philip**: Let's meet with Charley at the university club. Ten o'clock tomorrow morning. It doesn't mean you're going Michigan.
+**Philip**: Let's meet with Charley at the university club. Ten o'clock tomorrow morning. It doesn't mean you're going to Michigan.
 
-**Grandpa**: It doesn't mean you have to be a doctor. But the inteview will be good experience for you.
+**Grandpa**: It doesn't mean you have to be a doctor. But the interview will be good experience for you.
 
 **Robbie**: In that case, it's OK. Dad, growing up means making my own decisions, doesn't it?
 
@@ -110,7 +110,7 @@ title: It's Up to You
 
 **Robbie**: Sure, Dad.
 
-**Philip**: I want you to know something, Son. I'm...very proud of you.
+**Philip**: I want you to know something, Son. I'm... very proud of you.
 
 **Robbie**: Thanks, Dad.
 
@@ -128,7 +128,7 @@ title: It's Up to You
 
 ## Act 2
 
-**Philip**: Sorry, Robbie. Sorry to be late this morning, but, well, we've sitll got some time for a cup of coffee. I can't wait to see my old pal Charley Rafer.
+**Philip**: Sorry, Robbie. Sorry to be late this morning, but, well, we've still got some time for a cup of coffee. I can't wait to see my old pal Charley Rafer.
 
 **Robbie**: Neither can I.
 
@@ -138,13 +138,13 @@ title: It's Up to You
 
 **Philip**: Well, I'm glad. I knew you'd realize that this interview could be an important experience for you.
 
-**Robbie**: I came to tha conclusion.
+**Robbie**: I came to that conclusion.
 
 **Philip**: That's very wise, Robbie. Very wise. Now let's head off for the city and the university club.
 
 **Robbie**: Thanks, Dad.
 
-**Philip**: Thanks...for what?
+**Philip**: Thanks... for what?
 
 **Robbie**: Thanks for hearing me out. And...
 
@@ -156,13 +156,13 @@ title: It's Up to You
 
 **Dean**: Philip Stewart! It's great to see you!
 
-**Philip**: Charley Rafer-you look as young as ever.
+**Philip**: Charley Rafer—you look as young as ever.
 
 **Dean**: You must be Robbie.
 
 **Robbie**: Hi.
 
-**Philip**: Yes, this is my youngest son Robbie. Robbie, I want you to meet one of the best tennis players on the Michigan team-Charley Rafer.
+**Philip**: Yes, this is my youngest son Robbie. Robbie, I want you to meet one of the best tennis players on the Michigan team—Charley Rafer.
 
 **Robbie**: Nice to meet you, Dean Rafer.
 
@@ -172,7 +172,7 @@ title: It's Up to You
 
 **Philip**: Frankly, neither was I. Charley was the star of the team.
 
-**Dean**: Yeah.Thanks. Well, how've you been, Philip?
+**Dean**: Yeah. Thanks. Well, how've you been, Philip?
 
 **Philip**: Oh, working too hard.
 
@@ -184,9 +184,9 @@ title: It's Up to You
 
 **Philip**: Can you have lunch with us later?
 
-**Dean**: I'd love to , Philip, but I'm afraid I can't. I'm only here two days, and I have interviews with twenty-six applicants.
+**Dean**: I'd love to, Philip, but I'm afraid I can't. I'm only here two days, and I have interviews with twenty-six applicants.
 
-**Philip**: I understand. Well, thanks. I'll walt outside. Good luck, Son.
+**Philip**: I understand. Well, thanks. I'll wait outside. Good luck, Son.
 
 **Dean**: Did you bring your transcript from high school?
 
@@ -198,15 +198,15 @@ title: It's Up to You
 
 **Robbie**: Yes, sir.
 
-**Dean**: What kinds of artcles have you written?
+**Dean**: What kinds of articles have you written?
 
-**Robbie**: All kinds-sports, editorals, theater reviews. You name it, I've written it.
+**Robbie**: All kinds—sports, editorials, theater reviews. You name it, I've written it.
 
 **Dean**: Hmmm. Well, have you ever thought of becoming a journalist?
 
-**Robbie**: A profesional writer? Not until recently.
+**Robbie**: A professional writer? Not until recently.
 
-**Dean**: Michigan has a fine School of Joumalism.
+**Dean**: Michigan has a fine School of Journalism.
 
 **Robbie**: Yes, I know that.
 
@@ -218,11 +218,11 @@ title: It's Up to You
 
 **Robbie**: Nice talking to you, sir.
 
-**Dean**: One piece of advice. The most important thing is for you to decided your own future.
+**Dean**: One piece of advice. The most important thing is for you to decide your own future.
 
-**Robbie**: Yes, sir. Good-bye. Dean Rafer.
+**Robbie**: Yes, sir. Good-bye, Dean Rafer.
 
-**Dean**: Good-bye. Robbie. Good luck.
+**Dean**: Good-bye, Robbie. Good luck.
 
 ## Act 3
 
@@ -230,7 +230,7 @@ title: It's Up to You
 
 **Robbie**: Really? What did they say? Will you get into the school?
 
-**MIke**: Well, they didn't say anything for sure.But I figure that with my grades and with my personality, I'll have no problem.
+**Mike**: Well, they didn't say anything for sure. But I figure that with my grades and with my personality, I'll have no problem.
 
 **Robbie**: Columbia's a terrific school. What are you going to do?
 
@@ -238,7 +238,7 @@ title: It's Up to You
 
 **Robbie**: You sound excited about Columbia. What's your problem, Mike?
 
-**Mike**: Indecision. Indecision.It's not easy, and this is an important decision we have to make. What about you? How as your interview with Michigan?
+**Mike**: Indecision. Indecision. It's not easy, and this is an important decision we have to make. What about you? How was your interview with Michigan?
 
 **Robbie**: The interview was fine.
 
@@ -256,7 +256,7 @@ title: It's Up to You
 
 **Mike**: What do you want to study?
 
-**Robbie**: I've been thinking. I think I want to study journalism to be a reporter-a newspaperman.
+**Robbie**: I've been thinking. I think I want to study journalism to be a reporter—a newspaperman.
 
 **Mike**: You do a pretty good job on the Riverdale High School paper.
 
@@ -268,7 +268,7 @@ title: It's Up to You
 
 **Mike**: OK. Let's talk.
 
-**Philip**: Hi, Dad. Everything's fine. I was just waiting for your to get home so we could talk.
+**Philip**: Hi, Dad. Everything's fine. I was just waiting for you to get home so we could talk.
 
 **Philip**: Anything special you want to talk about?
 
@@ -284,11 +284,11 @@ title: It's Up to You
 
 **Philip**: But?
 
-**Robbie**: Well, I've Thought a lot about which college, and one of them is Columbia.
+**Robbie**: Well, I've thought a lot about which college, and one of them is Columbia.
 
 **Philip**: Columbia? Why Columbia?
 
-**Robbie**: First, they hav an excellent School of Journalism.
+**Robbie**: First, they have an excellent School of Journalism.
 
 **Philip**: They do. And your friends are planning to go to Columbia?
 
@@ -296,13 +296,13 @@ title: It's Up to You
 
 **Philip**: Yes?
 
-**Robbie**: Well, we talked about a lot of thing .He applied to Colurnbia, and his interview was very successful. He thinks he'll be accepted, and he relly wants to go there.
+**Robbie**: Well, we talked about a lot of things. He applied to Columbia, and his interview was very successful. He thinks he'll be accepted, and he really wants to go there.
 
 **Philip**: Dean Rafer called me today. He told me he was very impressed with you.
 
 **Robbie**: He's a nice man. He was very kind.
 
-**Philiop**: He told me you had some doubts about wanting to go to Michigan.
+**Philip**: He told me you had some doubts about wanting to go to Michigan.
 
 **Robbie**: Yes. I do. I'm just not sure about what I want to do.
 
@@ -320,7 +320,7 @@ title: It's Up to You
 
 **Philip**: The truth.
 
-**Robbie**: Then you're not upset about my not wantin to go into medicine?
+**Robbie**: Then you're not upset about my not wanting to go into medicine?
 
 **Philip**: I'm not upset at all. I'm just happy that we're able to talk about it.
 
@@ -330,7 +330,7 @@ title: It's Up to You
 
 **Robbie**: Yes, but I also wanted to apply to several other colleges.
 
-**Philip**: I thought you wanted to go to Colurnbia.
+**Philip**: I thought you wanted to go to Columbia.
 
 **Robbie**: Well, I might want to go to Columbia. But I might not. I just want to be able to make my own decision.
 
@@ -342,4 +342,4 @@ title: It's Up to You
 
 **Robbie**: If I make my own decision, I might choose Michigan.
 
-**Philip**: Robbie, you're something! You know, when I was your age, said exactly the same thing to Grandpa.
+**Philip**: Robbie, you're something! You know, when I was your age, I said exactly the same thing to Grandpa.
