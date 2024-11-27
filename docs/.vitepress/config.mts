@@ -120,6 +120,7 @@ export default defineConfig({
             { text: '句子成分', link: '/sentence-pattern/sentence-elements' },
             { text: '句子类型', link: '/sentence-pattern/sentence-types' },
             { text: '从句类型', link: '/sentence-pattern/subordinate-clause' },
+            { text: '常用句型', link: '/sentence-pattern/common-sentence' },
           ],
         },
       ],
