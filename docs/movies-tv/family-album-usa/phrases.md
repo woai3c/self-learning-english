@@ -26,11 +26,27 @@ title: Phrases
 1. That's the deal. 就这么说定了/就这么办
 1. Give me a break. 饶了我吧/别为难我
 1. You're something! 你真了不起！
+1. That's what I thought. 我也是这么想的
+1. I see what you mean. 我明白你的意思了
 1. It's up to you. 由你决定
 1. I'm all for it. 我完全支持
-1. You earned your weight in gold. 你非常有价值/你太有用了
+1. Ring a bell? 听起来耳熟吗？
+1. Just because. 没什么特别原因
+1. No buts. 别找借口
+1. You can count on it. 这是肯定的
+1. That's the spirit! 这才对嘛！
+1. You earned your weight in gold. 你非常有价值
 1. Give it a try. 试一试
 1. You're tops! 你最棒了！
 1. Get to the point. 说重点
 1. Keep looking. 继续找
 1. That's the spirit! 这才对嘛！
+1. Get along with. 相处融派
+1. Hold your horses. 别急
+1. I'm broke. 我身无分文
+1. Give someone a hand. 帮帮忙
+1. You can count on it. 这是肯定的
+1. Get over it. 克服/度过
+1. A big fish in a little pond. 小圈子里的重要人物
+1. Scared to death. 害怕极了
+1. Dream come true. 梦想成真
