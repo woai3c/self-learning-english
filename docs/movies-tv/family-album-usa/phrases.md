@@ -35,7 +35,7 @@ title: Phrases
 1. No buts. 别找借口
 1. You can count on it. 这是肯定的
 1. That's the spirit! 这才对嘛！
-1. You earned your weight in gold. 你非常有价值
+1. Earned your weight in gold. 你非常有价值/你的贡献非常有价值
 1. Give it a try. 试一试
 1. You're tops! 你最棒了！
 1. Get to the point. 说重点
@@ -50,3 +50,8 @@ title: Phrases
 1. A big fish in a little pond. 小圈子里的重要人物
 1. Scared to death. 害怕极了
 1. Dream come true. 梦想成真
+1. You have that look in your eye. 你眼神里透露出某种意思/表情
+1. fit (right 可加可不加，加强语气) in with... 很适合...
+1. that kind of thing. 诸如此类的事情
+1. put something on the line. 冒险使用/投入使用，put my experience on the line. 在这个例子中，更多强调的是"使用/发挥"的意思--让我的经验派上用场/发挥我的经验
+1. welcome aboard. 欢迎加入/欢迎加入团队
