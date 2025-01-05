@@ -51,7 +51,10 @@ title: Phrases
 1. Scared to death. 害怕极了
 1. Dream come true. 梦想成真
 1. You have that look in your eye. 你眼神里透露出某种意思/表情
-1. fit (right 可加可不加，加强语气) in with... 很适合...
-1. that kind of thing. 诸如此类的事情
-1. put something on the line. 冒险使用/投入使用，put my experience on the line. 在这个例子中，更多强调的是"使用/发挥"的意思--让我的经验派上用场/发挥我的经验
-1. welcome aboard. 欢迎加入/欢迎加入团队
+1. Fit (right 可加可不加，加强语气) in with... 很适合...
+1. That kind of thing. 诸如此类的事情
+1. Put something on the line. 冒险使用/投入使用，put my experience on the line. 在这个例子中，更多强调的是"使用/发挥"的意思--让我的经验派上用场/发挥我的经验
+1. Welcome aboard. 欢迎加入/欢迎加入团队
+1. For a ride. 去兜风/去乘车游玩
+1. Your name will do. 你的名字就行
+1. Have sb. do sth. 让某人做某事
