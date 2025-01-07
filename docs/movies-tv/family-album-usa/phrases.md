@@ -58,3 +58,17 @@ title: Phrases
 1. For a ride. 去兜风/去乘车游玩
 1. Your name will do. 你的名字就行
 1. Have sb. do sth. 让某人做某事
+1. Take after. 像...一样
+1. Get used to. 习惯于/习惯于...
+1. Get a word in. 插嘴/插话
+1. Get going. 开始/开始做
+1. First things first. 先做最重要的事情
+1. As it was. 和以前一样/保持原样
+1. Have you with us. 和我们在一起/欢迎你们来这里
+1. Take the liberty of. 自作主张/自作主张做某事
+1. Down the road. 沿着这条路/在将来
+1. Visit with someone. 拜访某人/和某人交谈
+1. Sounds like fun. 听起来很有趣
+1. It's on the house. 免费的/本店请客
+1. Be with sb. 和某人一起/接待某人
+1. Let's get right to it. 让我们直奔主题/让我们直接开始吧
