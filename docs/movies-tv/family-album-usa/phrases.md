@@ -72,3 +72,4 @@ title: Phrases
 1. It's on the house. 免费的/本店请客
 1. Be with sb. 和某人一起/接待某人
 1. Let's get right to it. 让我们直奔主题/让我们直接开始吧
+1. Now what? 现在怎么办？
