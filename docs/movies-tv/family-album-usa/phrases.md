@@ -72,4 +72,15 @@ title: Phrases
 1. It's on the house. 免费的/本店请客
 1. Be with sb. 和某人一起/接待某人
 1. Let's get right to it. 让我们直奔主题/让我们直接开始吧
-1. Now what? 现在怎么办？
+1. Now what 现在怎么办
+1. How would it be 怎么样/会是什么样子
+1. From time to time. 偶尔/不时
+1. I'm all ears. 我洗耳恭听/我洗耳恭听
+1. Better off 更好/更合适/情况较好的
+1. No point in. 没有必要/不值得
+1. Once in a lifetime. 一生一次/一生一次的机会
+1. Talk it over. 好好谈谈
+1. Think it over. 仔细想想
+1. I want what's best for you. 我希望你得到最好的
+1. Have anything to do with. 和...有关系/和...有关系
+1. Go into business. 做生意/经商
