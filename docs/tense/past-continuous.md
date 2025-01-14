@@ -17,11 +17,17 @@ past -------- now -------- future
 
 began playing< ---------she was playing---------- >stopped playing
 
-## was/were + -ing
+## 语法形式
 
-- I was doing...
-- he was watcing...
-- I wasn't doing...
+- **肯定句**：主语 + was/were + 动词的现在分词
+
+  - I was playing.
+  - She was playing.
+
+- **否定句**：主语 + was/were not + 动词的现在分词
+
+  - I wasn't playing.
+  - She wasn't playing.
 
 ## 一般过去时和过去进行时的区别
 

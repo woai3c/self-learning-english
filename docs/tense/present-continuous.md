@@ -15,11 +15,19 @@ past -------- now -------- future
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm doing
 
-## am/is/are (not) + -ing
+## 语法形式
 
-- I'**m** work**ing**.
-- She **isn't** eat**ing**.
-- We'**re** hav**ing** dinner.
+- **肯定句**：主语 + am/is/are + 动词的现在分词
+
+  - I'**m** work**ing**.
+  - She **isn't** eat**ing**.
+  - We'**re** hav**ing** dinner.
+
+- **否定句**：主语 + am/is/are not + 动词的现在分词
+
+  - I'**m** not work**ing**.
+  - She **isn't** eat**ing**.
+  - We'**re** not hav**ing** dinner.
 
 ## be being
 
