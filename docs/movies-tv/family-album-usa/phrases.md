@@ -89,3 +89,4 @@ title: Phrases
 1. Have been meaning to do sth. 一直想做某事
 1. Watch over. 照看/照顾
 1. Coming all this way. 远道而来
+1. I'm all ears. 我洗耳恭听
