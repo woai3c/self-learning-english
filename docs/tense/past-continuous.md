@@ -2,7 +2,12 @@
 title: 过去进行时
 ---
 
-# 过去进行时 past continuous
+# 过去进行时 (Past Continuous)
+
+past -------- now -------- future
+
+↑<br>
+过去正在进行的动作
 
 这种时态用于描述在过去某个特定时间点或时间段正在进行的动作或状态。
 

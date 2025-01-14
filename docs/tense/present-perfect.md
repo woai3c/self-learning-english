@@ -2,21 +2,21 @@
 title: 现在完成时
 ---
 
-# 现在完成时 present perfect
+# 现在完成时 (Present Perfect)
 
-现在完成时用于描述在过去某个不确定的时间发生的动作，或者描述从过去开始一直持续到现在的动作或状态。它强调的是动作或状态的结果或影响，而不是动作发生的具体时间。
+past -------- now -------- future
 
-Present Perfect 时态的构成是：have/has + 过去分词。例如：
+        ↑
+    对现在有影响的动作
 
-- "I have finished my homework."（我已经完成了我的作业。）这句话表示的是在过去某个不确定的时间完成的动作。
-- "She has lived here for ten years."（她在这里住了十年。）这句话表示的是从过去开始一直持续到现在的状态。
+这种时态用于描述过去发生但对现在造成影响的动作，或者从过去开始持续到现在的状态。
 
 ## 当所讨论的时间段仍未结束时
 
 当说话的时候，所讨论的时间段仍未结束时，需要使用现在完成时。例如：
 
-- "I have seen three movies this week."（这周我看了三部电影。）——这里的“这周”还没有结束。
-- "She has visited her grandparents twice this month."（这个月她去看了她的祖父母两次。）——这里的“这个月”还没有结束。
+- "I have seen three movies this week."（这周我看了三部电影。）——这里的"这周"还没有结束。
+- "She has visited her grandparents twice this month."（这个月她去看了她的祖父母两次。）——这里的"这个月"还没有结束。
 
 ## 如果某件事是第一次发生
 

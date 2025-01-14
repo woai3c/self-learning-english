@@ -25,12 +25,43 @@ export default defineConfig({
           text: '时态',
           items: [
             { text: '简介', link: '/tense/intro' },
-            { text: '过去进行时', link: '/tense/past-continuous' },
-            { text: '一般现在时', link: '/tense/present-simple' },
-            { text: '一般过去时', link: '/tense/past-simple' },
-            { text: '现在进行时', link: '/tense/present-continuous' },
-            { text: '现在完成时', link: '/tense/present-perfect' },
-            { text: '现在完成进行时', link: '/tense/present-perfect-continuous' },
+            {
+              text: '现在时态',
+              items: [
+                { text: '一般现在时', link: '/tense/present-simple' },
+                { text: '现在进行时', link: '/tense/present-continuous' },
+                { text: '现在完成时', link: '/tense/present-perfect' },
+                { text: '现在完成进行时', link: '/tense/present-perfect-continuous' },
+              ],
+            },
+            {
+              text: '过去时态',
+              items: [
+                { text: '一般过去时', link: '/tense/past-simple' },
+                { text: '过去进行时', link: '/tense/past-continuous' },
+                { text: '过去完成时', link: '/tense/past-perfect' },
+                { text: '过去完成进行时', link: '/tense/past-perfect-continuous' },
+              ],
+            },
+            {
+              text: '将来时态',
+              items: [
+                { text: '一般将来时', link: '/tense/future-simple' },
+                { text: '将来进行时', link: '/tense/future-continuous' },
+                { text: '将来完成时', link: '/tense/future-perfect' },
+                { text: '将来完成进行时', link: '/tense/future-perfect-continuous' },
+              ],
+            },
+            {
+              text: '过去将来时态',
+              items: [
+                { text: '过去将来时', link: '/tense/past-future' },
+                { text: '过去将来进行时', link: '/tense/past-future-continuous' },
+                { text: '过去将来完成时', link: '/tense/past-future-perfect' },
+                { text: '过去将来完成进行时', link: '/tense/past-future-perfect-continuous' },
+              ],
+            },
+            { text: '总结', link: '/tense/summary' },
           ],
         },
       ],
