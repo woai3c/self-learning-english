@@ -90,3 +90,25 @@ title: Phrases
 1. Watch over. 照看/照顾
 1. Coming all this way. 远道而来
 1. I'm all ears. 我洗耳恭听
+1. Come over. 过来/来访
+1. Coming up. 即将到来/即将发生
+1. Keep sb. from sth. 阻止某人 得到/接触 - 事物/地点/活动
+1. Keep sb. from doing sth. 阻止某人做某事
+1. Once or twice. 一两次
+1. Get a handle on. 掌握/理解
+1. Get to. 到达/开始做/达到某种状态
+1. Get down to. 开始认真做
+1. Something the matter 有问题
+1. Happen to. 碰巧/偶然
+1. On purpose. 故意/有意
+1. In return. 作为回报/作为交换
+1. Go around. 到处走走/拜访/传播
+1. Come through with sb. 和某人一起到来/和某人一起完成某事
+1. Ask for. 请求/要求
+1. Ask sb. to do. 请求某人做某事
+1. Not just...but... 不仅...而且...
+1. Fix up. 修理/修补
+1. Go ahead. 继续/前进
+1. Roll up. 卷起
+1. Get sb. to do sth. 让某人做某事
+1. Show up. 出现/到场
