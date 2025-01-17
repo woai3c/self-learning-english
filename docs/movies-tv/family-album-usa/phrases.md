@@ -20,7 +20,7 @@ title: Phrases
 1. That's my boy! 好样的！
 1. Make yourself at home. 随便点/别客气
 1. Cheer you up. 让你开心起来
-1. Come by. 过来/来访
+1. Come by. 过来/来访/获得/得到
 1. Come up with something. 想出办法
 1. Work something out. 想办法解决
 1. That's the deal. 就这么说定了/就这么办
@@ -112,3 +112,8 @@ title: Phrases
 1. Roll up. 卷起
 1. Get sb. to do sth. 让某人做某事
 1. Show up. 出现/到场
+1. Leave out. 省略/忽略
+1. Put together. 组合/拼凑
+1. Live up to. 达到期望/履行承诺/发挥潜力
+1. In order to. 为了/以便于
+1. In order for ... to 为了让某人/某物...
