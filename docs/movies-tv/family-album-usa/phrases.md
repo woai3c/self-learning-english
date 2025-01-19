@@ -117,3 +117,11 @@ title: Phrases
 1. Live up to. 达到期望/履行承诺/发挥潜力
 1. In order to. 为了/以便于
 1. In order for ... to 为了让某人/某物...
+1. Transform...into... 将...转换为...
+1. Agree to do sth. 同意做某事
+1. Get sb. sth. 让某人得到某物/给某人买某物
+1. Have in mind. 心里想着/心里有...
+1. Manage it. 处理/管理
+1. Drive sb. home. 开车送某人回家
+1. Should have + 过去分词. 表达本应该做某事但很遗憾实际上没有做
+1. It's all right with sb. 对某人来说可以/对某人来说没问题
