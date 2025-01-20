@@ -45,7 +45,6 @@ title: Phrases
 1. Hold your horses. 别急
 1. I'm broke. 我身无分文
 1. Give someone a hand. 帮帮忙
-1. You can count on it. 这是肯定的
 1. Get over it. 克服/度过
 1. A big fish in a little pond. 小圈子里的重要人物
 1. Scared to death. 害怕极了
@@ -125,3 +124,13 @@ title: Phrases
 1. Drive sb. home. 开车送某人回家
 1. Should have + 过去分词. 表达本应该做某事但很遗憾实际上没有做
 1. It's all right with sb. 对某人来说可以/对某人来说没问题
+1. Count on. 依赖/指望/期望
+1. Get right to. 直接进入/直接开始做
+1. In one's honor. 为纪念某人/为了向某人致敬
+1. Have no idea. 不知道/没有察觉
+1. Take one's in. 把某人带进去/带某人进入
+1. Had sth. engraved. 把某物刻在上面
+1. Take along. 带上/带上某物
+1. Camp out. 露营
+1. Head back. 返回/回去
+1. Through the night. 整夜/通宵
