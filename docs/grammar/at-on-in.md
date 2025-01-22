@@ -14,7 +14,6 @@ title: at, on, in
 - at noon/midnight（在中午/午夜）
 - at dawn/sunset（在黎明/日落时）
 - at Christmas/Easter（在圣诞节/复活节）
-- at the weekend（在周末）[英式英语]
 
 ### On（天）
 用于具体的日期或星期几：
@@ -22,7 +21,7 @@ title: at, on, in
 - on July 1st（在7月1日）
 - on Christmas Day（在圣诞节那天）
 - on my birthday（在我生日那天）
-- on the weekend（在周末）[美式英语]
+- on the weekend（在周末）
 
 ### In（较长时间段）
 用于月份、年份、季节等较长时间段：
@@ -79,7 +78,7 @@ title: at, on, in
 
 ### 队列和行列
 - in line/queue（排队）- 强调在队列中
-- on line（排队）[美式英语]
+- on line（排队）
 - at the front/back（在前面/后面）- 强调位置点
 
 ### 建筑物和机构
@@ -120,9 +119,8 @@ title: at, on, in
 
 ## 注意事项
 
-1. 有些表达可能在美式和英式英语中有所不同
-2. 某些固定搭配需要特别记忆，可能不符合一般规则
-3. 同一个地点可能根据上下文使用不同的介词
+1. 某些固定搭配需要特别记忆，可能不符合一般规则
+1. 同一个地点可能根据上下文使用不同的介词
    - at the airport（在机场，表示位置点）
    - in the airport（在机场内部）
 

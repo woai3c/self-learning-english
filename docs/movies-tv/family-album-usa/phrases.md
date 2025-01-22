@@ -134,3 +134,19 @@ title: Phrases
 1. Camp out. 露营
 1. Head back. 返回/回去
 1. Through the night. 整夜/通宵
+1. Have a great time (in) doing sth. 做某事很开心/愉快
+1. Have a hard time (in) doing sth. 做某事有困难
+1. On one's stomach. 趴着/腹部朝下
+1. Put across. 使...横过/使...横躺/解释
+1. Have the time of one's life. 过得非常开心/非常愉快
+1. Such + a/an + 形容词 + 可数名词单数. such 强调程度或质量，常用于表达感叹或强烈的情感
+1. Such + 形容词 + 不可数名词/复数名词. such 强调程度或质量，常用于表达感叹或强烈的情感
+1. In good hands. 在可靠的人手中/受到很好的照顾
+1. Go back to. 回到.../回到...状态
+1. In ... state of mind. 处于...状态/处于...精神状态
+1. Put sb. to sleep. 让某人入睡
+1. I assure you. 我向你保证
+1. Put ... away. 把...收起来放好
+1. Take off. 脱下/脱掉/出发/启程/起飞
+1. At all. 根本/完全/究竟
+1. Know all there is to know. 了解所有相关信息
