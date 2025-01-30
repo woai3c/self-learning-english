@@ -82,7 +82,7 @@ title: Phrases
 1. Have anything to do with. 和...有关系
 1. Go into business. 做生意/经商
 1. Get sb. doing/to do sth. 让某人做某事
-1. To be the best of one's ability. 尽最大努力
+1. To the best of one's ability. 尽最大努力
 1. Have been meaning to do sth. 一直想做某事
 1. Watch over. 照看/照顾
 1. Coming all this way. 远道而来
