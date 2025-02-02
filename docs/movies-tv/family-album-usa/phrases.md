@@ -121,7 +121,7 @@ title: Phrases
 1. It's all right with sb. 对某人来说没问题
 1. Count on. 依靠/指望
 1. Get right to. 直接开始
-1. In one's honor. 为某人致敬
+1. In one's honor. 为某人致敬/为纪念、庆祝某人
 1. Have no idea. 不知道
 1. Take one's in. 收留/接纳
 1. Had sth. engraved. 让某物刻字
@@ -164,3 +164,4 @@ title: Phrases
 1. Settle for. 接受/勉强接受
 1. Look for. 寻找/搜寻
 1. Look forward to. 期待（后面如果接动词，必须用动词的 ing 形式）
+1. As follow. 如下所示
