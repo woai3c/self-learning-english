@@ -240,6 +240,110 @@ title: 词类
 
 - **常见助动词**：be, do, have, will, shall, can, may, must
 
+## Prepositions
+
+### 定义
+
+介词（Prepositions）是用于表示词语之间关系的词，通常用来表示时间、地点、方向、方式等关系。
+
+### 语法形式
+
+- **介词短语**：介词 + 名词/代词/动名词
+- **注意**：介词后如果接动词，必须使用动名词（-ing）形式
+
+### 用法
+
+1. **表示地点关系**：
+   - The book is on the table.
+   - She lives in London.
+
+2. **表示时间关系**：
+   - We'll meet at 3 o'clock.
+   - He works during the day.
+
+3. **表示方式关系**：
+   - She went by bus.
+   - He wrote with a pen.
+
+4. **与动名词搭配**：
+   - He is good at swimming.
+   - Thank you for helping me.
+
+### 示例
+
+- **地点介词**：in, on, at, under, behind, between
+- **时间介词**：before, after, during, since
+- **方向介词**：to, from, towards, into
+- **其他介词**：with, for, about, of
+
+## 词类搭配规则
+
+不同词类在使用时往往有其特定的搭配要求。以下是主要词类的搭配规则：
+
+### 介词（Prepositions）搭配规则
+
+- **可接形式**：名词、代词、动名词
+- **示例**：
+  - in the room（接名词）
+  - with him（接代词）
+  - interested in reading（接动名词）
+- **注意事项**：
+  - ❌ in go（错误）
+  - ✅ in going（正确）
+
+### 助动词（Auxiliary Verbs）搭配规则
+
+- **可接形式**：动词原形（have 后接过去分词）
+- **示例**：
+  - can swim（接原形）
+  - must go（接原形）
+  - have gone（接过去分词）
+- **注意事项**：
+  - ❌ can swims（错误）
+  - ✅ can swim（正确）
+
+### 不定式标志词（to）搭配规则
+
+- **可接形式**：动词原形
+- **示例**：
+  - want to go
+  - need to study
+- **注意事项**：
+  - ❌ to going（错误）
+  - ✅ to go（正确）
+
+### 情态动词（Modal Verbs）搭配规则
+
+- **可接形式**：动词原形
+- **示例**：
+  - should study
+  - would like
+- **注意事项**：
+  - ❌ should studies（错误）
+  - ✅ should study（正确）
+
+### 使役动词（Causative Verbs）搭配规则
+
+- **可接形式**：宾语 + 动词原形
+- **常见使役动词**：let, make, have
+- **示例**：
+  - let me go
+  - make him study
+- **注意事项**：
+  - ❌ let me to go（错误）
+  - ✅ let me go（正确）
+
+### 感知动词（Perception Verbs）搭配规则
+
+- **可接形式**：宾语 + 动词原形/现在分词
+- **常见感知动词**：see, hear, watch, feel
+- **示例**：
+  - see her cry/crying
+  - hear him sing/singing
+- **注意事项**：
+  - 用原形表示完整动作
+  - 用现在分词表示进行中的动作
+
 ## 总结
 
 - **名词**：表示人、事物、地点、事件、想法或活动。
@@ -251,3 +355,4 @@ title: 词类
 - **感叹词**：用于表达强烈情感或反应。
 - **数词**：表示数量或顺序。
 - **助动词**：辅助主要动词，表示时态、语气或语态。
+- **介词**：用于表示词语之间的关系，如时间、地点、方向等。
