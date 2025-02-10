@@ -344,6 +344,39 @@ title: 词类
   - 用原形表示完整动作
   - 用现在分词表示进行中的动作
 
+### 形容词（Adjectives）搭配规则
+
+- **可接形式**：
+  1. to + 动词原形
+  2. 动名词（-ing）
+  3. 介词 + 名词/代词/动名词
+
+- **常见搭配示例**：
+  1. 接 to + 动词原形的形容词：
+     - happy to help
+     - ready to go
+     - eager to learn
+  
+  2. 接动名词的形容词：
+     - busy working
+     - worth reading
+     - nice meeting you
+  
+  3. 接介词短语的形容词：
+     - good at math
+     - interested in reading
+     - afraid of dogs
+     - proud of you
+
+- **注意事项**：
+  - 不同形容词有其固定搭配形式
+  - 同一个形容词可能有多种搭配方式
+  - 例如：
+    - ❌ happy meeting you（错误）
+    - ✅ happy to meet you（正确）
+    - ✅ nice meeting you（正确）
+    - ❌ nice to meeting you（错误）
+
 ## 总结
 
 - **名词**：表示人、事物、地点、事件、想法或活动。
