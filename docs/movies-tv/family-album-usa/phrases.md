@@ -165,3 +165,5 @@ title: Phrases
 1. Look for. 寻找/搜寻
 1. Look forward to. 期待（后面如果接动词，必须用动词的 ing 形式）
 1. As follow. 如下所示
+1. Be in love with. 与...相爱/爱上
+1. Be popular with. 受...欢迎
