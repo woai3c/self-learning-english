@@ -200,6 +200,7 @@ export default defineConfig({
                   text: 'SE01',
                   collapsed: true,
                   items: [
+                    { text: '简介', link: '/movies-tv/desperate-housewives/SE01/intro' },
                     { text: '1. Pilot', link: '/movies-tv/desperate-housewives/SE01/S01E01' },
                     { text: '2. Ah, But Underneath', link: '/movies-tv/desperate-housewives/SE01/S01E02' },
                     { text: '3. Pretty Little Picture', link: '/movies-tv/desperate-housewives/SE01/S01E03' },
