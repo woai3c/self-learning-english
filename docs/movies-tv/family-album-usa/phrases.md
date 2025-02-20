@@ -116,7 +116,6 @@ title: Phrases
 1. Agree to do sth. 同意做某事
 1. Get sb. sth. 给某人某物
 1. Have in mind. 心里想的是/打算
-1. Manage it. 处理好/应付得了
 1. Drive sb. home. 送某人回家
 1. It's all right with sb. 对某人来说没问题
 1. Count on. 依靠/指望
