@@ -196,7 +196,6 @@ export default defineConfig({
             {
               text: 'Desperate Housewives',
               items: [
-                { text: '简介', link: '/movies-tv/desperate-housewives/intro' },
                 {
                   text: 'SE01',
                   collapsed: true,
