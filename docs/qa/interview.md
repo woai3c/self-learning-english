@@ -44,7 +44,7 @@ Thanks so much for your time today. Have a great day!
 
 ## Please introduce yourself briefly
 
-Hey, I'm Tan. I switched careers to programming back in 2017, so I've been doing this for about 8 years now. I'm a full-stack developer, but I'm really strong on the front-end side, and I use Node.js for backend work. You know, in the past year, I've also been getting into Solidity and Web3 stuff - I'm actually planning to dive deeper into that and become a senior Web3 engineer. I'm super passionate about programming - I love working on open source projects and contributing to the community through Github. Right now, I'm looking for new opportunities. Feel free to ask me anything!
+Hey, I'm Tan. I switched careers to programming back in 2017, so I've been doing this for about 8 years now. I'm a full-stack developer, and I'm strong on the front-end side, I also use Node.js for backend work. You know, in the past year, I've also been getting into Solidity and Web3 stuff - I'm actually planning to dive deeper into that and become a senior Web3 engineer. I'm super passionate about programming - I love working on open source projects and contributing to the community through Github. Right now, I'm looking for new opportunities. Feel free to ask me anything!
 
 <details>
 <summary>查看中文</summary>
