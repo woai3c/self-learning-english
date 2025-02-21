@@ -2,8 +2,8 @@
 title: 面试
 ---
 
-1. [greetings](#greetings)
-1. [endding](#endding)
+1. [Greetings](#greetings)
+1. [Endding](#endding)
 1. [Please introduce yourself briefly](#please-introduce-yourself-briefly)
 1. [Why did you switch careers to become a programmer?](#why-did-you-switch-careers-to-become-a-programmer)
 1. [Talk about your career planning.](#talk-about-your-career-planning)
@@ -20,7 +20,7 @@ title: 面试
 
 ## Greetings
 
-Hello, my name is Tan, and I appreciate this interview opportunity.
+Hi, I'm Tan. Thanks for having me today!
 
 <details>
 <summary>查看中文</summary>
@@ -32,7 +32,7 @@ Hello, my name is Tan, and I appreciate this interview opportunity.
 
 ## Endding
 
-Thank you for taking the time to interview me. Goodbye.
+Thanks so much for your time today. Have a great day!
 
 <details>
 <summary>查看中文</summary>
@@ -44,19 +44,19 @@ Thank you for taking the time to interview me. Goodbye.
 
 ## Please introduce yourself briefly
 
-My name is Tan, and I switched careers to become a programmer in 2017, which means I have been in the field for 7 years now. I am a full-stack developer with a stronger focus on front-end, and I use Node.js for backend. I am very interested in programming. I usually write some open source projects and put them on Github, and I also contribute code to other open source projects. I am currently unemployed and looking for work. If you have any questions, feel free to ask me anytime.
+Hey, I'm Tan. I switched careers to programming back in 2017, so I've been doing this for about 8 years now. I'm a full-stack developer, but I'm really strong on the front-end side, and I use Node.js for backend work. You know, in the past year, I've also been getting into Solidity and Web3 stuff - I'm actually planning to dive deeper into that and become a senior Web3 engineer. I'm super passionate about programming - I love working on open source projects and contributing to the community through Github. Right now, I'm looking for new opportunities. Feel free to ask me anything!
 
 <details>
 <summary>查看中文</summary>
 请简单介绍一下自己
 
-我叫 Tan，是 17 年转行当的程序员，到现在已经有 7 年了。我属于偏前端的全栈，后端使用的是 Nodejs。我对编程很感兴趣，平时会写一些开源项目放到 Github 上，并且也会为一些开源项目贡献代码。我目前是离职状态，正在找工作。如果您有什么问题，可以随时问我。
+我叫 Tan，是 17 年转行当的程序员，到现在已经有 8 年了。我是一名全栈工程师，比较擅长前端，后端使用的是 Nodejs，最近一年里我还学习了 Solidity 和 Web3 的相关知识，而且打算继续深入学习，争取成为一名资深的 Web3 工程师。我对编程很感兴趣，平时会写一些开源项目放到 Github 上，并且也会为一些开源项目贡献代码。我目前正在找工作。如果您有什么问题，可以随时问我。
 
 </details>
 
 ## Why did you switch careers to become a programmer?
 
-Due to dissatisfaction with my previous jobs, I've done a variety of work, like sales, laborer, a computer repair technician and so on. But I always felt it was boring and I was lost, not knowing what I should do. Then, I stumbled upon programming and the job of a programmer on Zhihu. I thought this job was a good fit for me, interesting, and very challenging. So, I decided to quit my job and learn programming at home. After three months of hard work, I successfully changed careers and became a front-end developer.
+Before programming, I tried all kinds of jobs - sales, manual labor, IT support - but nothing really clicked. I felt lost until I discovered programming through Zhihu. It just felt right - interesting and challenging. So I quit my job, spent three months learning to code at home, and finally landed my first front-end job.
 
 <details>
 <summary>查看中文</summary>
@@ -68,15 +68,15 @@ Due to dissatisfaction with my previous jobs, I've done a variety of work, like 
 
 ## Talk about your career planning.
 
-My goal is to become a world-class programmer. I have currently set a 3-5 year plan. This plan has several small goals, such as becoming an expert in the front-end field and a full-stack engineer, as well as learning a system-level programming language, such as Rust, which can enhance my understanding of computer fundamentals. Then, I want to develop or participate in some well-known open-source projects to enhance my reputation and technical perspective.
+My goal is to become a world-class programmer. In the next 3-5 years, I want to become an expert Web3 engineer and learn Rust to better understand low-level programming. I also want to create or contribute to some well-known open-source projects.
 
-The above is a more technical-oriented plan. In terms of work, I want to join a suitable company and grow with the company. While familiarizing myself with the company's business, I want to use my technology to empower the business and develop some valuable products.
+Besides the technical stuff, I'm looking to join a company where I can grow and make real impact - you know, using my skills to solve real business problems and build valuable products.
 
 <details>
 <summary>查看中文</summary>
 谈一下你的职业规划
 
-我的目标是成为一名世界级的程序员。目前制定了一个 3-5 年的计划。这个计划有几个小目标，例如要成为前端领域专家和全栈工程师，以及学会一门系统级的编程语言，例如 Rust，这样能让我更加了解计算机的底层知识。然后自己开发或者参与一些知名的开源项目，提高自己的知名度和技术视野。
+我的目标是成为一名世界级的程序员。目前制定了一个 3-5 年的计划。这个计划有几个小目标，例如成为一名资深的 Web3 工程师，还有熟练掌握 Rust 语言，这样能让我更加了解计算机的底层知识。然后自己开发或者参与一些知名的开源项目，提高自己的知名度和技术视野。
 
 上面是比较偏向技术方面的规划，在工作上我想加入一家合适的公司，和公司共同发展，在熟悉公司业务的同时，用我的技术为业务赋能，研发出一些有价值的产品。
 
@@ -84,7 +84,7 @@ The above is a more technical-oriented plan. In terms of work, I want to join a 
 
 ## What kind of working environment do you like?
 
-I enjoy a simple and straightforward, positive working environment where everyone cooperates and works together towards the company's goals.
+I really enjoy working in an environment that's straightforward and positive, where people collaborate well together and everyone is working towards the same goals. Good communication and mutual support are really important to me.
 
 <details>
 <summary>查看中文</summary>
@@ -96,7 +96,7 @@ I enjoy a simple and straightforward, positive working environment where everyon
 
 ## How do you handle pressure or stressful situations?
 
-No matter the situation, I believe staying calm is most important. Of course, people aren't machines; it is impossible not to fluctuate emotionally, but we should control our emotions as much as possible to maintain calm. In such situations, I would analyze the problem and then find a solution. If I can't resolve the issue, I will seek advice from leader.
+I believe staying calm is key when dealing with pressure. Of course, we're all human and it's normal to feel stressed, but I try my best to keep a clear head. When facing difficult situations, I first take a step back, analyze the problem, and then work on finding solutions. If I'm really stuck, I don't hesitate to reach out to my team lead for guidance.
 
 <details>
 <summary>查看中文</summary>
@@ -110,7 +110,7 @@ No matter the situation, I believe staying calm is most important. Of course, pe
 
 ## Do you prefer individual action or teamwork?
 
-I like both; I believe that whether individual action or teamwork, the goal is to do things well. If I need to act alone, I will accept the challenge and proceed because I have strong independent working ability. If teamwork is needed, I will cooperate actively, as teamwork can often achieve better results.
+You know, I'm comfortable with both. Whether it's working solo or as part of a team, what matters is getting the job done well. I'm pretty good at working independently when needed, but I also really enjoy collaborating with others. Actually, I find that teamwork often leads to better results because everyone brings different perspectives and skills to the table.
 
 <details>
 <summary>查看中文</summary>
@@ -122,7 +122,7 @@ I like both; I believe that whether individual action or teamwork, the goal is t
 
 ## How do you handle multiple tasks at the same time?
 
-I would confirm the priority and importance of each task with my leader, determine the minimum viable work and deliverable targets for each task, and then arrange my work based on the priority and importance of the tasks.
+Well, the first thing I do is check in with my team lead about priorities. I like to understand what's most urgent and important, figure out the minimum requirements for each task, and then plan my work accordingly. It's all about good organization and clear communication.
 
 <details>
 <summary>查看中文</summary>
@@ -134,7 +134,7 @@ I would confirm the priority and importance of each task with my leader, determi
 
 ## Talk about a moment or specific contribution in a project that you take particular pride in. What impact did it have, and how did you overcome the challenges involved?
 
-A moment I take pride in is when I taught myself programming and became a developer. Becoming a developer was a turning point in my life. Without it, I might still be aimless, earning a small income. Learning to code gave me a passion and a goal to become a world-class programmer. When I faced problems in self-learning programming, I usually solved them by researching and asking questions in tech communities.
+Actually, one of my proudest moments was when I successfully switched careers to become a developer. It was a real turning point in my life. Before that, I was kind of drifting without a clear direction, not making much money. Learning to code gave me something I'm really passionate about and a clear goal - becoming a world-class programmer. When I ran into problems while teaching myself programming, I'd dig through documentation, search online, and reach out to tech communities for help. It wasn't easy, but it was definitely worth it.
 
 <details>
 <summary>查看中文</summary>
@@ -146,7 +146,7 @@ A moment I take pride in is when I taught myself programming and became a develo
 
 ## Your English is not very good.
 
-Yes, my English is not very good. However, this doesn't mean my English will always be this way. Recently, I have been spending more than 3 hours every day memorizing vocabulary and practicing speaking. Therefore, my English will continue to improve, and communication will no longer be a problem.
+Yeah, I know my English isn't perfect, but I'm working hard to improve it. I actually spend about 3 hours every day studying vocabulary and practicing speaking. It's getting better day by day, and I'm confident that communication won't be an issue in the future.
 
 <details>
 <summary>查看中文</summary>
@@ -158,7 +158,7 @@ Yes, my English is not very good. However, this doesn't mean my English will alw
 
 ## What are your weaknesses?
 
-My English is not very good, but I have been continuously working on improving it, including memorizing vocabulary and practicing spoken English every day. I believe that through persistent effort, my English skills will continue to improve.
+Well, to be honest, my English isn't as strong as I'd like it to be. But I'm really committed to improving it - I spend time every day learning new words and practicing my speaking skills. I believe with consistent effort, it'll keep getting better.
 
 <details>
 <summary>查看中文</summary>
@@ -170,7 +170,7 @@ My English is not very good, but I have been continuously working on improving i
 
 ## What are your strengths?
 
-My strength lies in my solid technical level. I currently possess full-stack development capability and am also a seasoned front-end engineer. I have a strong passion for programming and excellent self-learning ability. Hence, my abilities will continue to advance over time, which is my greatest advantage.
+I'd say my biggest strength is my solid technical background. I've developed full-stack capabilities and I'm particularly strong in front-end development. I'm really passionate about programming and I'm good at picking up new things on my own. You know, I'm always learning and improving, which I think is super important in tech.
 
 <details>
 <summary>查看中文</summary>
@@ -182,19 +182,19 @@ My strength lies in my solid technical level. I currently possess full-stack dev
 
 ## What did you do last year to improve your knowledge?
 
-Last year, I primarily studied Nodejs, Docker, and K8s and applied these technologies in my work. I also created a GPT account to help me solve some development issues and write some documentation.
+Last year, I mainly focused on learning Web3 technologies - you know, stuff like Solidity, Ethers.js, and Hardhat. The cool thing is I actually got to use these technologies in my work projects.
 
 <details>
 <summary>查看中文</summary>
 去年你做了什么来提高你的知识
 
-我去年主要学习了 Nodejs docker k8s，并且用到了工作中。然后开通了 GPT 的账号来帮助我解决一些开发问题或者写一些文档。
+我去年主要学习了 Web3 相关的技术，包括 Solidity、Ethers.js、Hardhat 等，并且用到了工作中。
 
 </details>
 
 ## Do you have any questions you'd like to ask?
 
-I've done much research online and have a general understanding of what our company does. However, I'm still not clear about the responsibilities of this position and hope you can give me an introduction.
+Yeah, actually! I've done some research about the company online and I have a good general idea of what you do. But I'd love to hear more about the specific responsibilities for this position. Could you tell me a bit more about that?
 
 <details>
 <summary>查看中文</summary>
