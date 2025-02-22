@@ -254,14 +254,17 @@ title: 词类
 ### 用法
 
 1. **表示地点关系**：
+
    - The book is on the table.
    - She lives in London.
 
 2. **表示时间关系**：
+
    - We'll meet at 3 o'clock.
    - He works during the day.
 
 3. **表示方式关系**：
+
    - She went by bus.
    - He wrote with a pen.
 
@@ -347,21 +350,21 @@ title: 词类
 ### 形容词（Adjectives）搭配规则
 
 - **可接形式**：
+
   1. to + 动词原形
   2. 动名词（-ing）
   3. 介词 + 名词/代词/动名词
 
 - **常见搭配示例**：
+
   1. 接 to + 动词原形的形容词：
      - happy to help
      - ready to go
      - eager to learn
-  
   2. 接动名词的形容词：
      - busy working
      - worth reading
      - nice meeting you
-  
   3. 接介词短语的形容词：
      - good at math
      - interested in reading
