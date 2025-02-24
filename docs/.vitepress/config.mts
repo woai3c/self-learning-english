@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '简介', link: '/introduce' },
-      { text: '问答', link: '/qa/intro' },
+      { text: '对话', link: '/qa/intro' },
       { text: '时态', link: '/tense/intro' },
       { text: '语法', link: '/grammar/intro' },
       { text: '短语', link: '/phrase/intro' },
@@ -67,7 +67,7 @@ export default defineConfig({
       ],
       '/qa/': [
         {
-          text: '问答',
+          text: '对话',
           items: [
             { text: '简介', link: '/qa/intro' },
             { text: '面试', link: '/qa/interview' },
@@ -128,6 +128,7 @@ export default defineConfig({
             { text: '简介', link: '/phrase/intro' },
             { text: 'used to', link: '/phrase/used-to' },
             { text: 'be going to', link: '/phrase/be-going-to' },
+            { text: '其他', link: '/phrase/others' },
           ],
         },
       ],
@@ -169,6 +170,7 @@ export default defineConfig({
                   collapsed: true,
                   items: [
                     { text: '简介', link: '/movies-tv/desperate-housewives/SE01/intro' },
+                    { text: '短语', link: '/movies-tv/desperate-housewives/SE01/phrases' },
                     { text: '1. Pilot', link: '/movies-tv/desperate-housewives/SE01/S01E01' },
                     { text: '2. Ah, But Underneath', link: '/movies-tv/desperate-housewives/SE01/S01E02' },
                     { text: '3. Pretty Little Picture', link: '/movies-tv/desperate-housewives/SE01/S01E03' },
