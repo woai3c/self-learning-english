@@ -6,7 +6,7 @@ title: CSS
 
 ## Why do we need to initialize CSS styles?
 
-Because of browser compatibility issues, some tags have different default values in different browsers. If CSS is not initialized, the page display might vary between browsers. Common initialization styles include removing default styles from tags, such as margin and padding, and setting default font size and font, to ensure consistent display across different browsers.
+Well, we need to initialize CSS styles mainly because of browser compatibility issues. You know, different browsers have different default values for some HTML tags. If we don't initialize the CSS, the same page might look different across browsers. So what we usually do is remove default styles like margins and padding from tags, and set up default font sizes and font families. This way, we can make sure our pages look consistent no matter which browser people are using.
 
 <details>
 <summary>查看中文</summary>

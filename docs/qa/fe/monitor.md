@@ -7,7 +7,9 @@ title: 监控
 
 ## Can you describe the main features of the front-end monitor SDK you developed and how you process and analyze monitor data to optimize performance?
 
-The SDK can gather performance data, error data, and user behavior data from webpages. Then, it sends this data to a server for storage in a database. Monitor data can be reviewed through a monitor platform. With this information, we can identify performance bottlenecks and optimize accordingly, such as by implementing caching and lazy loading of routes.
+Well, our SDK can collect all kinds of data from webpages - you know, things like performance metrics, error logs, and user behavior data. Then we send all this data to our server and store it in a database. We've got a monitoring platform where we can check all this information.
+
+With this data, we can spot performance bottlenecks and make improvements. Like, we might implement caching or lazy loading for routes to speed things up.
 
 <details>
 <summary>查看中文</summary>
@@ -20,11 +22,11 @@ The SDK can gather performance data, error data, and user behavior data from web
 
 ## What problems did you encounter while developing the monitoring SDK, and how did you solve them?
 
-Developing a monitoring SDK is a challenging task, and I encountered several technical issues during the process. For instance, I needed to determine whether a page's content is liked by users. I made this judgment based on two metrics: page dwell time and page read depth.
+Yeah, developing a monitoring SDK was pretty challenging - there were quite a few technical issues to solve. One interesting problem was figuring out if users actually like a page's content. We decided to look at two main things: how long users stay on the page and how much of it they read.
 
-Page dwell time refers to the duration a user spends on a page. It's important to note that the time when the page is in the background should not be included in this calculation. Page read depth is the ratio of the content height read by the user to the total page height.
+For the page dwell time, we had to be careful to only count the time when users are actually looking at the page - you know, not when it's in a background tab. And for read depth, we calculate what percentage of the page content users have scrolled through.
 
-By calculating these two metrics together, we can determine whether the page's content is liked by users. If the average page dwell time and read depth are higher for multiple users, it indicates that the page is more liked by users.
+By looking at these two metrics together, we can get a pretty good idea of whether users like the content. Like, if we see lots of users spending more time on the page and reading more of it, that's a good sign that the content is working well for them.
 
 <details>
 <summary>查看中文</summary>

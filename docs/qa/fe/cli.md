@@ -7,7 +7,7 @@ title: 脚手架
 
 ## You mentioned that you have experience developing a scaffold. Can you explain why you developed the scaffold and what problems it solved?
 
-Developing a scaffold is mainly for quickly creating projects. This scaffold has many project templates built in according to our company's business needs, such as PC backend management systems, mobile projects, and mini-program project templates. With the scaffold, we no longer need to create projects from scratch or manually configure eslint and ci/cd, because the project templates are already pre-configured. Now, creating a project with a scaffold only requires a single command, which is very convenient and greatly improves development efficiency.
+Well, we mainly developed the scaffold to speed up project creation. You know, we had various project templates built into the scaffold based on our company's needs - like PC admin systems, mobile apps, and mini-program templates. With this scaffold, we don't have to start projects from scratch anymore or manually set up things like eslint and ci/cd, because all that stuff is pre-configured in the templates. Now, creating a new project is super simple - just one command and you're good to go. It's really convenient and has definitely boosted our development efficiency.
 
 <details>
 <summary>查看中文</summary>
@@ -19,9 +19,9 @@ Developing a scaffold is mainly for quickly creating projects. This scaffold has
 
 ## What challenges did you encounter during the development of the scaffold, and how did you solve them?
 
-I did encounter many challenges while developing the scaffold. For example, how to interact with users, prompt users to select templates, recognize user input; how to create projects based on the templates selected by users; how to automatically install dependencies, and a series of other issues.
+Yeah, I ran into quite a few challenges while developing the scaffold. Like, how to handle user interactions - you know, getting users to pick templates and capturing their input. Also figuring out how to create projects based on their template choices, and how to automatically install dependencies. That kind of stuff.
 
-Let me talk about two of these problems. Regarding user interaction, I used Inquirer.js. It can output prompts to the command line and recognize user input in the command line. After the user selects a template, I pass a series of parameters such as the project name and npm registry source entered by the user as variables into the template. Then, I use the ejs library to render the template, and write the rendered template files into the project through nodejs.
+Let me tell you about two specific problems we solved. For user interaction, I used Inquirer.js - it's great for displaying prompts in the command line and handling user input. After the user picks a template, I take all their inputs like project name and npm registry as variables, pass them into the template, and then use the ejs library to render it. Finally, I use Node.js to write all the rendered template files into the project.
 
 <details>
 <summary>查看中文</summary>

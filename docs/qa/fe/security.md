@@ -6,7 +6,11 @@ title: 安全
 
 ## How do you view front-end security? Can you share some of the security best practices you have implemented or consider important?
 
-Front-end pages are quite vulnerable and can be easily attacked, such as XSS and CSRF attacks. We can solve these problems with some strategies. For example, deploying the website on HTTPS can prevent man-in-the-middle attacks. Also, we should not directly use user input in front-end code. Instead, we should filter and escape user input to prevent XSS attacks. Adding tokens to sensitive operations can prevent CSRF attacks. Using CSP can limit the resources a website loads, which can also prevent XSS attacks.
+You know, front-end pages are actually quite vulnerable to attacks - things like XSS and CSRF attacks can be pretty common. But there are several strategies we can use to handle these security issues.
+
+For example, deploying websites on HTTPS can prevent man-in-the-middle attacks. Also, we should never directly use user input in our front-end code - instead, we need to filter and escape that input to prevent XSS attacks.
+
+Another important practice is adding tokens to sensitive operations to prevent CSRF attacks. And using CSP (Content Security Policy) can help limit what resources a website can load, which is another way to prevent XSS attacks.
 
 <details>
 <summary>查看中文</summary>

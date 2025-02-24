@@ -7,7 +7,9 @@ title: 性能优化
 
 ## Please describe a technology you implemented for performance optimization and specifically how the performance improvement was quantified.
 
-In optimizing the initial loading time, I used techniques such as route lazy-loading, browser caching with nginx, code compression, file compression, and CDN. These techniques reduced the first screen load time from 4 seconds to 1.5 seconds, greatly enhancing user experience. Regarding quantification, we can collect performance data with monitoring tools and compare the data before and after optimization to see the extent of the performance improvement.
+Well, I focused on optimizing initial load time using several techniques - you know, things like route lazy-loading, browser caching with nginx, code compression, file compression, and CDN. Through these optimizations, we managed to cut down the first screen load time from 4 seconds to 1.5 seconds, which really improved the user experience.
+
+As for measuring the improvement, we used monitoring tools to collect performance data and compared the metrics before and after optimization. This gave us a clear picture of how much the performance had improved.
 
 <details>
 <summary>查看中文</summary>
@@ -19,7 +21,9 @@ In optimizing the initial loading time, I used techniques such as route lazy-loa
 
 ## When you encounter performance bottlenecks, what tools and methods do you typically use to identify and resolve the issues?
 
-When encountering performance bottlenecks, I typically use tools like front-end monitoring SDK and Lighthouse to collect performance data. I then analyze this data to identify the issues. Once the issues are found, I apply appropriate performance optimization methods to resolve them. For back-end performance bottlenecks, I use performance testing tools such as Prometheus and LoadRunner to test API performance. I then optimize the API based on the test results.
+You know, when I run into performance issues, I usually start by collecting performance data using tools like front-end monitoring SDK and Lighthouse. Then I analyze this data to figure out where the bottlenecks are. Once I identify the problems, I can apply the right optimization methods to fix them.
+
+For back-end performance issues, I use performance testing tools like Prometheus and LoadRunner to test API performance. Based on the test results, I can then optimize the APIs accordingly.
 
 <details>
 <summary>查看中文</summary>

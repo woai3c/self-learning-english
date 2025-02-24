@@ -84,7 +84,7 @@ Besides the technical stuff, I'm looking to join a company where I can grow and 
 
 ## What kind of working environment do you like?
 
-I really enjoy working in an environment that's straightforward and positive, where people collaborate well together and everyone is working towards the same goals. Good communication and mutual support are really important to me.
+I enjoy working in an environment that's straightforward and positive, where people collaborate well together and everyone is working towards the same goals. Good communication and mutual support are really important to me.
 
 <details>
 <summary>查看中文</summary>
@@ -110,7 +110,7 @@ I believe staying calm is key when dealing with pressure. Of course, we're all h
 
 ## Do you prefer individual action or teamwork?
 
-You know, I'm comfortable with both. Whether it's working solo or as part of a team, what matters is getting the job done well. I'm pretty good at working independently when needed, but I also really enjoy collaborating with others. Actually, I find that teamwork often leads to better results because everyone brings different perspectives and skills to the table.
+You know, I'm comfortable with both. Whether it's working solo or as part of a team, what matters is getting the job done well. I'm pretty good at working independently when needed, but I also enjoy collaborating with others. Actually, I find that teamwork often leads to better results because everyone brings different perspectives and skills to the table.
 
 <details>
 <summary>查看中文</summary>
@@ -158,7 +158,7 @@ Yeah, I know my English isn't perfect, but I'm working hard to improve it. I act
 
 ## What are your weaknesses?
 
-Well, to be honest, my English isn't as strong as I'd like it to be. But I'm really committed to improving it - I spend time every day learning new words and practicing my speaking skills. I believe with consistent effort, it'll keep getting better.
+Well, to be honest, my English isn't as strong as I'd like it to be. But I'm committed to improving it - I spend time every day learning new words and practicing my speaking skills. I believe with consistent effort, it'll keep getting better.
 
 <details>
 <summary>查看中文</summary>
@@ -170,7 +170,7 @@ Well, to be honest, my English isn't as strong as I'd like it to be. But I'm rea
 
 ## What are your strengths?
 
-I'd say my biggest strength is my solid technical background. I've developed full-stack capabilities and I'm particularly strong in front-end development. I'm really passionate about programming and I'm good at picking up new things on my own. You know, I'm always learning and improving, which I think is super important in tech.
+I'd say my biggest strength is my solid technical background. I've developed full-stack capabilities and I'm particularly strong in front-end development. I'm passionate about programming and I'm good at picking up new things on my own. You know, I'm always learning and improving, which I think is super important in tech.
 
 <details>
 <summary>查看中文</summary>

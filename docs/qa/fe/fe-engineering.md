@@ -7,7 +7,7 @@ title: 前端工程
 
 ## What is front-end engineering? What benefits does it bring?
 
-Front-end engineering is the application of software engineering principles and methodologies to front-end development. In other words, the goal of front-end engineering is to improve the quality of front-end software, increase team development efficiency, and reduce development costs. More specifically, setting team specifications, build packaging, performance optimization, and CI/CD can all be considered part of front-end engineering, as they fundamentally aim to enhance development efficiency and software quality.
+Well, front-end engineering is basically about applying software engineering principles to front-end development. You know, the main goal is to improve our code quality, boost team efficiency, and reduce development costs. More specifically, it covers things like setting up team standards, build and packaging processes, performance optimization, and CI/CD - all these are part of front-end engineering because they help us work better and deliver better quality code.
 
 <details>
 <summary>查看中文</summary>
@@ -19,9 +19,9 @@ Front-end engineering is the application of software engineering principles and 
 
 ## Could you share one of your proudest implementations or improvements in engineering?
 
-Sure, I'm particularly proud of improvements in CI/CD. This includes a few aspects: First, automatic code checks and fixes are triggered when code is submitted. Then, after code merges, GitLab CI packages it into a Docker image and deploys it to Kubernetes. This reduces manual work and boosts development efficiency.
+Yeah, I'm particularly proud of our CI/CD improvements. Let me tell you about it - first, we set up automatic code checks and fixes that trigger whenever code is submitted. Then, after code merges, we use GitLab CI to package everything into a Docker image and deploy it to Kubernetes. This really cuts down on manual work and speeds up our development process.
 
-Another aspect is the establishment and promotion of team technical specifications. This helps improve the quality of our code and the efficiency of our collaboration.
+Also, I helped establish and promote our team's technical standards. This has been great for improving both our code quality and how efficiently we work together.
 
 <details>
 <summary>查看中文</summary>

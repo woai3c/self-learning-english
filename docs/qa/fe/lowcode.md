@@ -11,11 +11,11 @@ title: 低代码
 
 ## What is low-code, and can it improve development efficiency?
 
-"Low-code" refers to a development approach that requires less programming. For example, generating pages through drag-and-drop actions can be considered low-code, as it involves configuring parameters to create usable pages, which is similar to coding but requires less programming knowledge.
+Well, low-code is basically about writing less code to achieve the same thing. You know, like when you create pages through drag-and-drop - that's low-code because you're just configuring parameters to generate usable pages. It's similar to coding but requires less programming knowledge.
 
-Low-code can improve development efficiency in simple business scenarios, especially when there are many templates available. However, if you're developing a page from scratch or dealing with complex page logic, the efficiency might be lower than traditional coding. Therefore, a good low-code platform should provide a large number of reusable page and application templates for quick page generation.
+Low-code can definitely boost efficiency, especially in simple business scenarios where you have lots of templates available. But if you're building a page from scratch or dealing with complex logic, it might actually be slower than traditional coding. That's why a good low-code platform needs to provide plenty of reusable page and app templates for quick generation.
 
-Moreover, combining low-code with large language models can also quickly improve development efficiency. A fine-tuned large language model can generate a usable page directly based on user prompts. However, this training process might be lengthy and costly.
+Also, combining low-code with large language models can really speed things up. Like, a fine-tuned model can generate usable pages directly from user prompts. Though I should mention that the training process can be pretty time-consuming and expensive.
 
 <details>
 <summary>查看中文</summary>
@@ -31,7 +31,7 @@ Moreover, combining low-code with large language models can also quickly improve
 
 ## You mentioned that non-technical users can quickly build applications on the low-code platform. What user experience design principles did the platform use to reduce the learning curve while providing powerful functionalities?
 
-I normally communicate with the product manager and designer, combining my experience and user feedback to determine user experience design principles. For example, simplicity and directness, clear functionality, easy operation, timely feedback, and more. During product design, I try to follow these principles to enhance user experience.
+Well, I usually work closely with our product managers and designers, and we combine our experience with user feedback to set our UX principles. You know, things like keeping it simple and straightforward, making functions clear, ensuring easy operation, and providing quick feedback - stuff like that. When designing the product, we try our best to follow these principles to enhance the user experience.
 
 <details>
 <summary>查看中文</summary>
@@ -43,7 +43,7 @@ I normally communicate with the product manager and designer, combining my exper
 
 ## Based on your involvement in the low-code platform project, how do you ensure the quality and maintainability of the generated code?
 
-The style of the generated code is based on our team's coding specifications, which helps ensure consistency and readability of the code. There are extensive tests before feature releases to evaluate the readability and correctness of the generated code.
+The generated code follows our team's coding standards, which helps ensure consistency and readability. Before releasing any features, we do extensive testing to evaluate both the readability and correctness of the generated code.
 
 <details>
 <summary>查看中文</summary>
@@ -55,9 +55,9 @@ The style of the generated code is based on our team's coding specifications, wh
 
 ## You have gained 15,000+ stars on GitHub. Can you talk about one or two of your main contributions to projects, including the inspiration, technical challenges, and solutions?
 
-Let's talk about an open-source low-code project. At the time, low-code was very popular, and I often saw articles about it, but I had no experience. So, I decided to start a low-code project from scratch, also making it educational with clear documentation, to help front-end developers unfamiliar with low-code get started quickly.
+Yeah, let me tell you about an open-source low-code project I worked on. At the time, low-code was really trending, and I kept seeing articles about it, but I didn't have any hands-on experience. So I decided to build a low-code project from scratch. I also wanted to make it educational with clear documentation to help front-end developers who were new to low-code get started quickly.
 
-The technical challenges were numerous. For example, with rotating components, you cannot simply calculate the rotation angle based on the pixel displacement from user drags; it requires some mathematical calculations. Another challenge involved SVG components. The aspect ratio of SVG components cannot change during dragging, which is also technically challenging. My approach is calculating the xy coordinates of each point on the SVG component to determine their proportional values on the component. Then, while dragging, I would use these proportion values to calculate the new xy coordinates, thus ensuring the aspect ratio of the SVG component remained unchanged.
+There were quite a few technical challenges. For example, with component rotation, you can't just calculate the rotation angle based on drag movement - it needs some complex math. Another tricky part was handling SVG components. We needed to maintain their aspect ratio during dragging, which was technically challenging. My solution was to calculate the xy coordinates of each point on the SVG component to determine their proportional values. Then during dragging, I'd use these proportions to calculate new xy coordinates, keeping the SVG's aspect ratio intact.
 
 <details>
 <summary>查看中文</summary>
@@ -71,9 +71,9 @@ The technical challenges were numerous. For example, with rotating components, y
 
 ## Please share an experience where you faced a particularly challenging technical refactoring, including the decision-making, execution process, and final outcome.
 
-I will share an experience of a challenging technical refactoring. It involved upgrading the application deployment feature of a low-code platform to containerized deployment. The original feature could package and deploy low-code applications to a server. But it only supported one server and couldn't scale. When the number of user-built applications increased, it caused performance bottlenecks, affecting the server's normal operation.
+Sure, I can share my experience of upgrading our low-code platform's application deployment to containerization. Originally, the feature could package and deploy low-code apps to a server, but it only supported one server and couldn't scale. When users started building more applications, we hit performance bottlenecks that affected server operations.
 
-So, I decided to upgrade this feature to containerized deployment. This way, user applications were deployed on K8S. It made operations like scaling, canary release, and application rollbacks much easier. This greatly improved the system's stability and performance.
+So I decided to upgrade it to containerized deployment. This meant deploying user applications on K8S, which made things like scaling, canary releases, and application rollbacks much easier. It really improved our system's stability and performance.
 
 <details>
 <summary>查看中文</summary>
@@ -85,9 +85,9 @@ So, I decided to upgrade this feature to containerized deployment. This way, use
 
 </details>
 
-## In your resume, you mentioned having knowledge of Docker/K8S. Could you please share which projects involved the use of containerization or container orchestration technologies, and what role you played in the entire development process?
+## In your resume, you mentioned having knowledge of Docker/K8S. Could you please share which projects involved containerization?
 
-Mainly, I used containerization technology in the low-code platform project, deploying users' applications into containers, and then managing these containers via K8S. This makes operations such as scaling up, canary release, and application rollbacks very convenient. I was responsible for the entire process from design to implementation and testing.
+Yeah, I mainly used containerization in our low-code platform project, where we deployed users' applications into containers and managed them with K8S. This made it super convenient to handle things like scaling up, canary releases, and application rollbacks. I actually handled the whole process myself, from design through implementation and testing.
 
 <details>
 <summary>查看中文</summary>

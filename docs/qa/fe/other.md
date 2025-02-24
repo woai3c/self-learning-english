@@ -8,9 +8,9 @@ title: 其他
 
 ## Considering future technological trends, how do you think front-end development will evolve? How do you plan to maintain and enhance your competitiveness in this rapidly changing field?
 
-I anticipate that future front-end infrastructure tools, like build and testing tools, will be rewritten in Rust to increase development efficiency and build speed. As AI becomes more prevalent, front-ends could benefit from knowledge in large language models to better comprehend AI services.
+You know, I think future front-end infrastructure tools will probably be rewritten in Rust - things like build tools and testing tools. This should really help improve development efficiency and build speed. Also, with AI becoming such a big thing, I think front-end developers should learn about large language models to better understand AI-related services.
 
-Front-end developers should expand towards full-stack capabilities, solidifying their front-end foundation before delving into back-end knowledge. This helps in fully understanding a project's business logic, increasing personal competitiveness.
+I believe front-end developers should aim to become full-stack developers. Like, first get really solid with front-end basics, then start learning some back-end stuff. This helps you better understand the whole project's business logic and makes you more competitive.
 
 <details>
 <summary>查看中文</summary>
@@ -24,7 +24,7 @@ Front-end developers should expand towards full-stack capabilities, solidifying 
 
 ## Please share your reasons for choosing NestJS as a technology stack and the specific benefits it has brought to your projects.
 
-I chose Nestjs because it's open-source, written in JS, feature-rich, and has a vibrant ecosystem. It's easy for front-end developers to pick up. In situations where back-end resources are limited, front-end developers can also write back-end code.
+Well, I chose NestJS mainly because it's open-source and written in JavaScript. It's got lots of features and a rich ecosystem, which makes it pretty easy for front-end developers to pick up. You know, in situations where we're short on back-end resources, front-end developers can step in and handle some back-end work too.
 
 <details>
 <summary>查看中文</summary>
@@ -36,7 +36,11 @@ I chose Nestjs because it's open-source, written in JS, feature-rich, and has a 
 
 ## You have full-stack development experience with Vue and React. What are the advantages and disadvantages of these frameworks in practice?
 
-I've used both Vue and React for a while, and I feel that not only Vue and React, but also other reactive front-end frameworks are similar in usage. The main difference lies in the design and implementation principles underneath. For example, Vue's reactivity is based on dependency tracking and change notification. When you access a data property, Vue automatically adds the current dependency to the dependency list of this property. When the value of this property changes, Vue notifies all dependencies that rely on this property to update, thus re-rendering the component. Meanwhile, React's reactivity works by manually using the setState method. This tells React that the component's state has changed, which then triggers the render method to re-render the component.
+You know, I've used both Vue and React for a while, and honestly, I feel like not just these two, but most reactive front-end frameworks are pretty similar to use. The main difference really lies in how they're designed and implemented under the hood.
+
+Like, take Vue's reactivity system - it's based on dependency tracking and change notification. When you access a data property, Vue automatically adds the current dependency to that property's dependency list. Then when that property's value changes, Vue notifies all the dependencies that rely on it to update, which triggers the component to re-render.
+
+React, on the other hand, handles reactivity through manually calling setState. This tells React that the component's state has changed, which then triggers the render method to re-render the component.
 
 <details>
 <summary>查看中文</summary>
