@@ -83,16 +83,6 @@ export default defineConfig({
                 { text: '其他', link: '/qa/fe/other' },
               ],
             },
-            {
-              text: '职场交流（GPT）',
-              items: [
-                { text: '代码审查', link: '/qa/workplace-communication/code-review' },
-                { text: '面试', link: '/qa/workplace-communication/interview' },
-                { text: '技术交流', link: '/qa/workplace-communication/technical-discussion' },
-                { text: '项目进度', link: '/qa/workplace-communication/project-progress' },
-                { text: '其他', link: '/qa/workplace-communication/other' },
-              ],
-            },
             { text: '其他', link: '/qa/other' },
           ],
         },
