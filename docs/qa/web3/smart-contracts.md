@@ -4,9 +4,41 @@ title: 智能合约开发
 
 ## How do you approach gas optimization in your Solidity contracts?
 
+There are several ways I optimize gas costs in Solidity:
+
+1. Variable packing to optimize storage structure
+2. Function visibility optimization - using `external` instead of `public` since public functions copy parameters to memory
+3. Loop optimization - caching array length and using `unchecked` to avoid overflow checks
+4. Batch operations - combining multiple operations into a single transaction
+5. Using `calldata` instead of `memory` for read-only function parameters to avoid memory copying
+6. Reducing storage writes whenever possible
+7. Using custom errors instead of require with string messages, as strings take up storage space
+8. Short-circuit principle - avoiding unnecessary computations
+9. Off-chain data with on-chain verification, like using Merkle proofs
+10. Inline assembly for critical paths, though this increases complexity and security risks
+11. Using mappings instead of arrays when appropriate, as mappings have no length management overhead
+
+Of course, these methods need to be applied based on the specific situation. No single method works for every situation.
+
 <details>
 <summary>查看中文</summary>
 你如何在 Solidity 合约中进行 gas 优化？
+
+Solidity 中有很多方法可以优化 gas 成本，大概有以下几种：
+
+1. 变量打包，优化存储结构
+1. 函数可见性优化，使用 external 代替 public，因为 public 函数在调用时会复制参数到内存，增加成本
+1. 循环优化，缓存数组长度，使用 unchecked 避免溢出检查
+1. 批量操作，将多个操作合并到一个交易中
+1. 使用 calldata 代替 memory，calldata 是只读的，可以避免复制内存节省大量 gas
+1. 减少 storage 写入
+1. 使用自定义错误代替 require，字符串作为错误消息需要占用存储空间，运行时会复制到内存，增加成本
+1. 短路原则，避免不必要的计算
+1. 链下数据与链上证明，例如使用 merkle proof 验证链下数据
+1. 内联汇编在关键路径上可以节省 gas，但是增加了复杂性和安全风险
+1. 在合适的情况下，使用 mapping 代替数组，mapping 没有长度管理开销，且只为实际使用的键分配存储
+
+这些方法都能很好的优化 gas 成本，但是需要根据实际情况选择合适的方法，没有一种方法是万能的。
 
 </details>
 
