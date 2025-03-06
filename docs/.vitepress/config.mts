@@ -83,6 +83,28 @@ export default defineConfig({
                 { text: '其他', link: '/qa/fe/other' },
               ],
             },
+            {
+              text: '后端',
+              items: [
+                { text: '架构设计', link: '/qa/be/architecture' },
+                { text: 'Node.js与框架', link: '/qa/be/nodejs' },
+                { text: '数据库与ORM', link: '/qa/be/database' },
+                { text: '分布式系统', link: '/qa/be/distributed-systems' },
+                { text: '性能优化与缓存', link: '/qa/be/performance' },
+                { text: '权限与安全', link: '/qa/be/security' },
+                { text: 'DevOps与监控', link: '/qa/be/devops' },
+              ],
+            },
+            {
+              text: 'web3',
+              items: [
+                { text: '智能合约开发', link: '/qa/web3/smart-contracts' },
+                { text: '合约安全', link: '/qa/web3/contract-security' },
+                { text: 'Web3开发工具', link: '/qa/web3/development-tools' },
+                { text: '前端与钱包集成', link: '/qa/web3/frontend-integration' },
+                { text: 'DApp架构', link: '/qa/web3/dapp-architecture' },
+              ],
+            },
             { text: '其他', link: '/qa/other' },
           ],
         },
