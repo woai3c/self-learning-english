@@ -134,35 +134,33 @@ Solidity 中的主要数据类型有哪些，它们与其他编程语言有何�
 
 </details>
 
-## Explain the differences between memory, storage, and calldata in Solidity
+## What's the difference between view, pure, and payable functions in Solidity?
 
-In Solidity, these storage locations determine both where your data lives and how gas costs work when you're dealing with that data.
+View functions can read contract data but can't change anything. Pure functions can't read or change any contract data - they just do their own calculations. Payable functions are special because they can receive ETH when you call them.
 
-Storage is basically the contract's permanent state variables - it's like a database that persists between function calls and transactions. Every contract has its own storage that's written to the blockchain, which makes it the most expensive to use. Writing to storage costs a lot of gas because you're permanently changing the blockchain state.
+Think of it this way: view is read-only, pure doesn't touch contract data, and payable can accept money. That's it!
 
-Memory is temporary and exists only during function execution. It's like RAM in a computer - when the function is done, it's cleared. Memory is cheaper than storage but still costs gas to allocate and use. You'll typically use memory for intermediate calculations or when working with temporary copies of data.
+<details>
+<summary>查看中文</summary>
+view 函数可以读取合约数据但不能改变任何东西。pure 函数不能读取也不能改变任何合约数据 - 只做运算。payable 函数很特别，因为调用它们时可以接收 ETH。
 
-Calldata is special - it's a read-only area where function arguments are stored when they're passed in from outside the contract. You can't modify calldata, but it's the cheapest option gas-wise because it's just passing through data without copying it. That's why you'll often see external functions using calldata for array and string parameters.
+简单说：view 是只读的，pure 不碰合约数据，payable 是可以收钱的。就这样！
 
-The key thing to remember is that storage variables persist, memory variables are temporary but modifiable, and calldata is temporary and read-only but gas-efficient.
+</details>
+
+## What's the difference between memory, storage, and calldata in Solidity?
+
+Storage is like a hard drive - it stays forever and costs a lot of gas. Memory is like RAM - it's temporary and cheaper. Calldata is for input data only - you can't change it, but it's the cheapest to use.
+
+Simple rule: storage is permanent, memory is temporary, calldata is read-only.
 
 There are some important rules too - you can't assign storage to storage (it creates a reference), and when you assign storage to memory, it creates a copy. Understanding these nuances is crucial for writing gas-efficient contracts.
 
 <details>
 <summary>查看中文</summary>
-解释 Solidity 中 memory、storage 和 calldata 之间的区别
+storage 就像硬盘 - 永久存储但很贵。memory 就像内存 - 临时且便宜些。calldata 只用于输入数据 - 不能修改但最便宜。
 
-在 Solidity 中，这些存储位置决定了你的数据存在哪里，以及处理这些数据时的 gas 成本。
-
-Storage 基本上是合约的永久状态变量 - 它就像一个在函数调用和交易之间持久存在的数据库。每个合约都有自己的存储空间，它会被写入区块链，这使它成为最昂贵的使用选项。写入存储需要大量 gas，因为你正在永久改变区块链状态。
-
-Memory 是临时的，只在函数执行期间存在。它就像计算机中的 RAM - 当函数完成时，它就被清除了。Memory 比 storage 便宜，但分配和使用仍然需要 gas。你通常会使用 memory 进行中间计算或处理数据的临时副本。
-
-Calldata 很特殊 - 它是一个只读区域，当函数参数从合约外部传入时存储在这里。你不能修改 calldata，但从 gas 角度来看，它是最便宜的选项，因为它只是传递数据而不复制它。这就是为什么你经常会看到外部函数对数组和字符串参数使用 calldata。
-
-要记住的关键是：storage 变量是持久的，memory 变量是临时的但可修改的，calldata 是临时的且只读的，但 gas 效率高。
-
-还有一些重要规则 - 你不能将 storage 分配给 storage（它会创建引用），当你将 storage 分配给 memory 时，它会创建副本。理解这些细微差别对编写 gas 高效的合约至关重要。
+简单记住：storage 是永久的，memory 是临时的，calldata 是只读的。
 
 </details>
 
@@ -198,217 +196,17 @@ delegatecall的棘手部分是两个合约的存储布局必须兼容。如果�
 
 </details>
 
-## What are events in Solidity and how do you use them effectively?
+## What are events in Solidity?
 
-Events in Solidity are basically the blockchain's way of logging. They're super useful for a few reasons. First, they're much cheaper than storing data on-chain - an event costs way less gas than writing to storage. Second, they make it easy for off-chain applications to track what's happening in your contract.
+Events are like logs. They're cheaper than storage and let apps know what happened. You can search them, but contracts can't read them.
 
-When you emit an event, the data gets stored in the transaction logs, which are part of the blockchain but separate from contract storage. These logs can be efficiently searched and filtered by dApp frontends or indexing services like The Graph.
-
-A typical event declaration looks like:
-
-```solidity
-event Transfer(address indexed from, address indexed to, uint256 value);
-```
-
-Those "indexed" parameters are especially important - they become what we call topics, which can be efficiently searched. You can have up to three indexed parameters per event.
-
-I use events for a few key purposes. First, for state changes - anytime I update important state, I emit an event. For example, in a token contract, I emit events for transfers, approvals, mints, and burns.
-
-Second, for debugging - events can help trace execution flow during development and testing.
-
-Finally, for off-chain notifications and data synchronization. Your frontend can listen for specific events and update its UI accordingly, or you can build an indexer that processes events to create a more queryable database of your contract's activity.
-
-One pattern I find useful is including both the old and new values when a state changes, which gives listeners complete information about what changed.
+Think of them as notifications - when something happens, you send an event.
 
 <details>
 <summary>查看中文</summary>
-Solidity中的事件是什么，如何有效地使用它们？
+事件像日志。比存储便宜，让应用知道发生了什么。可以搜索，但合约不能读取。
 
-Solidity中的事件基本上是区块链的日志记录方式。它们非常有用，原因有几个。首先，它们比在链上存储数据便宜得多 - 发出事件的gas成本远低于写入存储。其次，它们使得链下应用程序能够轻松跟踪你的合约中发生的事情。
-
-当你发出事件时，数据被存储在交易日志中，这些日志是区块链的一部分，但与合约存储分开。这些日志可以被dApp前端或像The Graph这样的索引服务高效地搜索和过滤。
-
-一个典型的事件声明看起来像：
-
-```solidity
-event Transfer(address indexed from, address indexed to, uint256 value);
-```
-
-那些"indexed"参数特别重要 - 它们成为我们所说的主题，可以被高效搜索。每个事件最多可以有三个indexed参数。
-
-我使用事件有几个关键目的。首先是状态变化 - 每次我更新重要状态时，我都会发出事件。例如，在代币合约中，我为转账、批准、铸造和销毁发出事件。
-
-其次是调试 - 事件可以帮助在开发和测试期间追踪执行流程。
-
-最后是链下通知和数据同步。你的前端可以监听特定事件并相应地更新其UI，或者你可以构建一个索引器，处理事件以创建一个更可查询的合约活动数据库。
-
-我发现有用的一个模式是在状态变化时包含旧值和新值，这为监听者提供了关于变化的完整信息。
-
-</details>
-
-## How do you handle common security vulnerabilities like reentrancy in your contracts?
-
-Reentrancy is probably one of the most notorious vulnerabilities in Solidity - it's what caused the original DAO hack that led to Ethereum's fork. It happens when a contract calls an external contract before updating its own state, allowing that external contract to call back into the original function and exploit the outdated state.
-
-My approach to preventing reentrancy is multi-layered. First and most importantly, I follow the checks-effects-interactions pattern. This means I always: 1) check conditions, 2) update state variables, and 3) only then interact with external contracts. By updating state before making external calls, even if the external call tries to reenter, it will find the state already changed.
-
-Second, I use reentrancy guards for critical functions. This is typically a simple mutex pattern:
-
-```solidity
-bool private locked;
-
-modifier nonReentrant() {
-    require(!locked, "No reentrancy");
-    locked = true;
-    _;
-    locked = false;
-}
-```
-
-I apply this modifier to functions that make external calls, especially those involving token or Ether transfers.
-
-For other common vulnerabilities - with integer overflows and underflows, Solidity 0.8+ now checks these automatically, but in older versions, I'd use SafeMath. For access control issues, I implement clear role-based systems, often using OpenZeppelin's AccessControl. For tx.origin phishing, I never use tx.origin for authentication.
-
-I'm also cautious about delegatecall as I mentioned earlier, and I'm careful with signature verification to avoid replay attacks by including nonces and chain IDs.
-
-Finally, I always have my contracts professionally audited, and I follow development best practices like extensive testing, formal verification when possible, and careful review of all external calls and dependencies.
-
-<details>
-<summary>查看中文</summary>
-你如何在合约中处理重入等常见安全漏洞？
-
-重入可能是Solidity中最臭名昭著的漏洞之一 - 它导致了引发以太坊分叉的原始DAO黑客攻击。当一个合约在更新自己的状态之前调用外部合约时，重入攻击就会发生，这允许该外部合约回调进入原始函数并利用过时的状态。
-
-我防止重入的方法是多层次的。首先也是最重要的，我遵循检查-效果-交互模式。这意味着我总是：1）检查条件，2）更新状态变量，3）只有在那之后才与外部合约交互。通过在进行外部调用之前更新状态，即使外部调用尝试重入，它也会发现状态已经改变。
-
-其次，我对关键函数使用重入保护。这通常是一个简单的互斥模式：
-
-```solidity
-bool private locked;
-
-modifier nonReentrant() {
-    require(!locked, "No reentrancy");
-    locked = true;
-    _;
-    locked = false;
-}
-```
-
-我将此修饰符应用于进行外部调用的函数，特别是那些涉及代币或以太币转账的函数。
-
-对于其他常见漏洞 - 对于整数溢出和下溢，Solidity 0.8+现在会自动检查这些问题，但在较旧版本中，我会使用SafeMath。对于访问控制问题，我实现清晰的基于角色的系统，通常使用OpenZeppelin的AccessControl。对于tx.origin钓鱼，我从不使用tx.origin进行身份验证。
-
-我也对前面提到的delegatecall保持谨慎，并且在签名验证中小心，通过包含nonce和链ID来避免重放攻击。
-
-最后，我总是让我的合约接受专业审计，并遵循开发最佳实践，如广泛测试、可能时进行形式化验证，以及仔细审查所有外部调用和依赖项。
-
-</details>
-
-## What are the key considerations when designing a token contract (ERC-20, ERC-721, etc.)?
-
-When designing token contracts, there are several key considerations I always keep in mind, regardless of whether it's an ERC-20, ERC-721, or other standard.
-
-First, I think about the token economics and supply mechanics - will the token be mintable, burnable, or have a fixed supply? Who has minting privileges? Is there a cap on the total supply? These decisions need to align with the project's economics and governance model.
-
-Second, access control is critical - determining who can mint, burn, pause, or upgrade the contract. I typically implement role-based access control rather than just having a single owner address, which creates a single point of failure.
-
-Third, I consider extra functionality beyond the basic standard. For ERC-20, this might include features like permit (for gasless approvals), token recovery (to rescue accidentally sent tokens), or snapshot capabilities for governance. For ERC-721, I might add marketplace royalties, metadata management, or reveal mechanics.
-
-Fourth, metadata handling - especially for NFTs, how and where will metadata be stored? On-chain is expensive but immutable, while off-chain is cheaper but requires trust in external systems. I often use a hybrid approach with critical metadata on-chain and extended data on IPFS.
-
-Fifth, gas optimization - token contracts are often heavily used, so optimizations matter. This includes using packed storage, minimizing on-chain data, and efficiently implementing transfer logic.
-
-Sixth, security considerations - implementing protection against reentrancy, front-running, and other common attacks. I always follow audited reference implementations like OpenZeppelin and add custom protections as needed.
-
-Finally, upgradeability - deciding whether the contract should be upgradeable. There's a trade-off between flexibility and security/trust that needs to be carefully considered.
-
-<details>
-<summary>查看中文</summary>
-设计代币合约（ERC-20、ERC-721等）时的关键考虑因素有哪些？
-
-在设计代币合约时，无论是ERC-20、ERC-721还是其他标准，我总是牢记几个关键考虑因素。
-
-首先，我考虑代币经济学和供应机制 - 代币是否可铸造、可销毁或有固定供应？谁有铸造权限？总供应量是否有上限？这些决定需要与项目的经济和治理模式保持一致。
-
-其次，访问控制至关重要 - 确定谁可以铸造、销毁、暂停或升级合约。我通常实现基于角色的访问控制，而不仅仅是拥有单一的所有者地址，后者会创建单点故障。
-
-第三，我考虑基本标准之外的额外功能。对于ERC-20，这可能包括许可（用于无gas的批准）、代币恢复（拯救意外发送的代币）或用于治理的快照功能。对于ERC-721，我可能会添加市场版税、元数据管理或揭示机制。
-
-第四，元数据处理 - 特别是对于NFT，元数据将如何以及在哪里存储？链上存储昂贵但不可变，而链下存储更便宜但需要信任外部系统。我经常使用混合方法，关键元数据在链上，扩展数据在IPFS上。
-
-第五，gas优化 - 代币合约通常使用频繁，所以优化很重要。这包括使用打包存储、最小化链上数据和高效实现转账逻辑。
-
-第六，安全考虑 - 实施防止重入、抢先交易和其他常见攻击的保护。我总是遵循经过审计的参考实现，如OpenZeppelin，并根据需要添加自定义保护。
-
-最后，可升级性 - 决定合约是否应该可升级。在灵活性和安全性/信任之间存在权衡，需要仔细考虑。
-
-</details>
-
-## How do you interact with oracles in Solidity, and what are the security concerns?
-
-Interacting with oracles is essential for getting external data into your smart contracts, but it comes with its own set of challenges. The most common oracle I work with is Chainlink, which has a pretty standardized interface.
-
-For price feeds, the integration is straightforward - you create an interface to the Chainlink aggregator contract and call its functions:
-
-```solidity
-interface AggregatorV3Interface {
-  function latestRoundData() external view returns (
-    uint80 roundId, int256 answer, uint256 startedAt, uint256 updatedAt, uint80 answeredInRound
-  );
-}
-
-// Then in your contract:
-AggregatorV3Interface internal priceFeed = AggregatorV3Interface(0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419); // ETH/USD feed
-
-function getLatestPrice() public view returns (int) {
-    (,int price,,,) = priceFeed.latestRoundData();
-    return price;
-}
-```
-
-For more custom data using Chainlink VRF (for randomness) or using their API calls, you implement the required callback functions that the oracle will call when it has the data.
-
-As for security concerns, there are several key issues to watch out for. First is data staleness - you need to check the timestamp when the data was last updated and make sure it's recent enough for your needs. Oracle data can become stale if the network is congested or if there are issues with the oracle nodes.
-
-Second is manipulation risk. Even with decentralized oracles like Chainlink, there can be temporary price deviations or flash crashes in the underlying markets. I typically implement sanity checks, such as comparing the current value against recent historical values or using time-weighted average prices.
-
-Third is single-point-of-failure risk. I prefer using decentralized oracle networks rather than single-source oracles, and sometimes I'll even combine multiple independent oracle sources for critical functions.
-
-Finally, there's the cost aspect - oracle calls, especially for custom data, can be expensive. You need to design your contract to minimize unnecessary oracle calls and handle the payment for the oracle services appropriately.
-
-<details>
-<summary>查看中文</summary>
-你如何在Solidity中与预言机交互，有哪些安全隐患？
-
-与预言机交互对于将外部数据导入你的智能合约至关重要，但它带来了一系列挑战。我使用最多的预言机是Chainlink，它有一个相当标准化的接口。
-
-对于价格馈送，集成很简单 - 你创建一个到Chainlink聚合器合约的接口并调用其函数：
-
-```solidity
-interface AggregatorV3Interface {
-  function latestRoundData() external view returns (
-    uint80 roundId, int256 answer, uint256 startedAt, uint256 updatedAt, uint80 answeredInRound
-  );
-}
-
-// 然后在你的合约中：
-AggregatorV3Interface internal priceFeed = AggregatorV3Interface(0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419); // ETH/USD 馈送
-
-function getLatestPrice() public view returns (int) {
-    (,int price,,,) = priceFeed.latestRoundData();
-    return price;
-}
-```
-
-对于使用Chainlink VRF（用于随机性）的更自定义数据或使用他们的API调用，你实现所需的回调函数，当预言机有数据时会调用这些函数。
-
-至于安全隐患，有几个关键问题需要注意。首先是数据过时 - 你需要检查数据最后更新的时间戳，并确保它对你的需求来说足够新。如果网络拥堵或预言机节点出现问题，预言机数据可能会变得过时。
-
-其次是操纵风险。即使使用像Chainlink这样的去中心化预言机，基础市场也可能出现临时价格偏差或闪崩。我通常实施合理性检查，例如将当前值与最近的历史值进行比较或使用时间加权平均价格。
-
-第三是单点故障风险。我更喜欢使用去中心化预言机网络而不是单一来源的预言机，有时我甚至会为关键功能组合多个独立的预言机来源。
-
-最后，还有成本方面 - 预言机调用，特别是对于自定义数据，可能很昂贵。你需要设计你的合约，以最小化不必要的预言机调用，并适当处理预言机服务的付款。
+就像通知 - 有事发生时，发个事件。
 
 </details>
 
@@ -436,7 +234,7 @@ Finally, the developer tooling and infrastructure can differ - some chains have 
 
 虽然在EVM兼容链上使用Solidity的核心开发体验非常相似，但在部署到Polygon、Arbitrum、Optimism、BSC或Avalanche等链时，我遇到了几个重要区别。
 
-首先，gas成本和优化优先级可能有显著差异。在以太坊主网上，gas通常要昂贵得多，因此极端优化至关重要。在侧链或L2如Polygon或Arbitrum上，gas可能更便宜，所以你可能会优先考虑可读性或功能性，而不是榨取最后一点优化。
+First, gas成本和优化优先级可能有显著差异。在以太坊主网上，gas通常要昂贵得多，因此极端优化至关重要。在侧链或L2如Polygon或Arbitrum上，gas可能更便宜，所以你可能会优先考虑可读性或功能性，而不是榨取最后一点优化。
 
 交易确认时间也差异很大。在以太坊上，你可能需要等待几分钟才能确认，而在其他一些链上可能只需几秒钟。这影响你如何设计应用程序的用户体验以及如何处理交易状态。
 
@@ -449,5 +247,19 @@ Finally, the developer tooling and infrastructure can differ - some chains have 
 链特定功能也可能很重要。例如，Polygon有用于元交易的gas站网络，Arbitrum和Optimism对calldata压缩和欺诈证明有不同的方法，一些链支持以太坊上不可用的额外操作码或预编译。
 
 最后，开发者工具和基础设施可能不同 - 一些链有更好的区块浏览器，更可靠的RPCs，或比其他链更好的测试环境。
+
+</details>
+
+## How do you handle reentrancy attacks?
+
+Always update your state before sending ETH or tokens. Use a reentrancy guard (a simple lock) for extra safety. The key is: check conditions, update state, then interact with other contracts.
+
+It's like locking your door before going out - simple but important.
+
+<details>
+<summary>查看中文</summary>
+在发送 ETH 或代币之前先更新状态。使用重入锁（简单的锁定）作为额外保护。关键是：检查条件，更新状态，然后才与其他合约交互。
+
+就像出门前先锁门 - 简单但重要。
 
 </details>
