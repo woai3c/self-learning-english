@@ -44,15 +44,15 @@ Solidity 中有很多方法可以优化 gas 成本，大概有以下几种：
 
 ## What are the main differences between ERC-20, ERC-721, and ERC-1155 token standards?
 
-The three main token standards basically break down like this:
+These three main token standards are basically distinguished as follows:
 
-ERC-20 is for regular tokens where every token is the same - like if you have one USDC and I have one USDC, they're exactly the same. It's just like regular money.
+ERC-20 is the standard for regular tokens where all tokens are identical, just like regular money.
 
-ERC-721 is for unique tokens - NFTs. Each one is different and has its own special data attached to it. Think digital art or collectibles where each item is one-of-a-kind.
+ERC-721 is for unique tokens - also known as NFTs. Each one is different and has a unique ID.
 
-ERC-1155 is the newer one that lets you do both in one contract. You can have both regular tokens and unique ones, plus you can transfer a bunch of different tokens all at once, which saves on gas fees.
+ERC-1155 allows you to have both types in a single contract, you can simultaneously have both regular tokens and unique tokens.
 
-That's really it - ERC-20 for identical tokens, ERC-721 for unique ones, and ERC-1155 when you want to mix things up or handle multiple types at once.
+That's it - ERC-20 for identical tokens, ERC-721 for unique tokens, and ERC-1155 for when you want to mix uses or handle multiple types at once.
 
 <details>
 <summary>查看中文</summary>
@@ -60,11 +60,11 @@ ERC-20、ERC-721 和 ERC-1155 代币标准有什么主要区别？
 
 这三种主要的代币标准基本上是这样区分的：
 
-ERC-20 是用于普通代币的标准，所有代币都是相同的 - 比如你有一个 USDC，我有一个 USDC，它们完全一样。就像普通的钱一样。
+ERC-20 是用于普通代币的标准，所有代币都是相同的，就像普通的钱一样。
 
-ERC-721 是用于独特代币的 - 也就是 NFT。每一个都不同，都有自己特殊的数据。想想数字艺术品或收藏品，每一件都是独一无二的。
+ERC-721 是用于独特代币的 - 也就是 NFT。每一个都不同，有唯一的 ID。
 
-ERC-1155 是较新的标准，允许你在一个合约中同时拥有两种类型。你可以同时拥有普通代币和独特的代币，而且你可以一次性转移不同类型的多个代币，这样可以节省 gas 费用。
+ERC-1155 允许你在一个合约中同时拥有两种类型，你可以同时拥有普通代币和独特的代币。
 
 就是这样 - ERC-20 用于相同的代币，ERC-721 用于独特的代币，而 ERC-1155 则是当你想要混合使用或一次处理多种类型时的选择。
 
