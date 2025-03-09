@@ -19,7 +19,7 @@
 - 学习路线、指导方针：《人人都能用英语》、二语习得理论
 - 背单词：墨墨背单词 APP
 - 语法知识：《英语在用》共三册（看了两册半，感觉作用不是特别大，所以现在不看了，把 16 种时态熟悉一下就好）
-- 听力材料：[Family Album USA](https://www.learnrealeng.com/2014/04/family-album-usa-episode-1-46-linden.html)、Desperate Housewives（绝望主妇 2025.02 新增）
+- 听力材料：[Family Album USA](https://www.learnrealeng.com/2014/04/family-album-usa-episode-1-46-linden.html)或者其他一些感兴趣的英语听力材料
 - 辅助工具：GPT（也可使用国内的大语言模型，我一开始用的 ChatGPT，现在使用 Claude 3.5 Sonnet）
 
 ## 学习方法演进
