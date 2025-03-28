@@ -177,7 +177,6 @@ export default defineConfig({
             {
               text: 'Family Album USA',
               items: [
-                { text: '短语', link: '/movies-tv/family-album-usa/phrases' },
                 { text: '1. 46 Linden Street', link: '/movies-tv/family-album-usa/episode1' },
                 { text: '2. The Blind Date', link: '/movies-tv/family-album-usa/episode2' },
                 { text: "3. Grandpa's Trunk", link: '/movies-tv/family-album-usa/episode3' },
