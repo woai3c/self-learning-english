@@ -140,6 +140,7 @@ export default defineConfig({
             { text: '简介', link: '/phrase/intro' },
             { text: 'used to', link: '/phrase/used-to' },
             { text: 'be going to', link: '/phrase/be-going-to' },
+            { text: 'IT 长句子', link: '/phrase/it-long-sentences' },
             { text: '其他', link: '/phrase/others' },
           ],
         },
