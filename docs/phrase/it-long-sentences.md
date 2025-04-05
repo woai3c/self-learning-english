@@ -314,3 +314,5 @@ title: IT 长句子
 1. This seems like a problem where we need to optimize for the worst-case scenario rather than the average case. 这似乎是一个我们需要优化最坏情况而不是平均情况的问题
 1. I think I've found a solution with O(n) time complexity and O(1) space complexity. 我认为我找到了一个时间复杂度为O(n)和空间复杂度为O(1)的解决方案
 1. Oh, I made a mistake in my initial understanding. Let me rethink the approach completely. 哦，我在最初的理解上犯了一个错误。让我完全重新思考这个方法
+1. I haven't gone to bed that early. I usually go to bed after midnight. 我没有那么早睡过，我一般都是凌晨 12 点后睡。
+1. Because the callback function of useEffect must return a synchronous cleanup function. If it were asynchronous, there would be no guarantee when it would be cleaned up. Additionally, React's rendering process is synchronous, and returning an asynchronous function could lead to unpredictable behavior. 因为 useEffect 的回调函数必须返回一个同步的清理函数，如果是异步的就无法保证什么时候能清除，而且 react 的渲染过程是同步的，返回异步函数会导致不可预测的行为

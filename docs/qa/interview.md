@@ -44,13 +44,13 @@ Thanks so much for your time today. Have a great day!
 
 ## Please introduce yourself briefly
 
-Hey, I'm Tan. I switched careers to programming back in 2017, so I've been doing this for about 8 years now. I'm a full-stack developer, and I'm strong on the front-end side, I also use Node.js for backend work. You know, in the past year, I've also been getting into Solidity and Web3 stuff - I'm actually planning to dive deeper into that and become a senior Web3 engineer. I'm super passionate about programming - I love working on open source projects and contributing to the community through Github. Right now, I'm looking for new opportunities. Feel free to ask me anything!
+Hi, I'm Gordon. I switched careers to become a programmer in 2017, so I've been doing this for about 8 years now. I'm a full-stack developer with strong front-end skills and I use Node.js for backend work. I'm really passionate about programming and have invested significant time teaching myself computer science fundamentals like operating systems, compiler theory, and computer networks. I've even created a simple compiler that I shared on GitHub, which has gained over 2000 stars. I also write technical articles to share my programming experiences and insights in various tech communities, as I believe this not only helps others but also deepens my own understanding. Currently, I'm looking for new opportunities. Feel free to ask me anything!
 
 <details>
 <summary>查看中文</summary>
 请简单介绍一下自己
 
-我叫 Tan，是 17 年转行当的程序员，到现在已经有 8 年了。我是一名全栈工程师，比较擅长前端，后端使用的是 Nodejs，最近一年里我还学习了 Solidity 和 Web3 的相关知识，而且打算继续深入学习，争取成为一名资深的 Web3 工程师。我对编程很感兴趣，平时会写一些开源项目放到 Github 上，并且也会为一些开源项目贡献代码。我目前正在找工作。如果您有什么问题，可以随时问我。
+我叫 Gordon，是 17 年转行当的程序员，到现在已经有 8 年了。我是一名全栈工程师，比较擅长前端，后端使用的是 Nodejs。我对编程很感兴趣，非常喜欢学习。由于我是中途转行的，所以我花了不少时间自学计算机专业的相关知识，包括操作系统、编译原理、计算机网络等。我还写了一个简单的编译器分享到 Github 上，收获了 2000 多个 star。也会在技术社区上写一些技术文章分享我的编程经验和心得，因为我觉得这样能帮助到人，也能加深我对知识的理解。目前我正在找工作。如果您有什么问题，可以随时问我。
 
 </details>
 
@@ -68,7 +68,7 @@ Before programming, I tried all kinds of jobs - sales, manual labor, IT support 
 
 ## Talk about your career planning.
 
-My goal is to become a world-class programmer. In the next 3-5 years, I want to become an expert Web3 engineer and learn Rust to better understand low-level programming. I also want to create or contribute to some well-known open-source projects.
+My goal is to become a world-class programmer. In the next 3-5 years, I want to become an expert full-stack engineer and learn Rust to better understand low-level programming. I also want to create or contribute to some well-known open-source projects.
 
 Besides the technical stuff, I'm looking to join a company where I can grow and make real impact - you know, using my skills to solve real business problems and build valuable products.
 
@@ -76,7 +76,7 @@ Besides the technical stuff, I'm looking to join a company where I can grow and 
 <summary>查看中文</summary>
 谈一下你的职业规划
 
-我的目标是成为一名世界级的程序员。目前制定了一个 3-5 年的计划。这个计划有几个小目标，例如成为一名资深的 Web3 工程师，还有熟练掌握 Rust 语言，这样能让我更加了解计算机的底层知识。然后自己开发或者参与一些知名的开源项目，提高自己的知名度和技术视野。
+我的目标是成为一名世界级的程序员。目前制定了一个 3-5 年的计划。这个计划有几个小目标，例如成为一名资深的全栈工程师，还有熟练掌握 Rust 语言，这样能让我更加了解计算机的底层知识。然后自己开发或者参与一些知名的开源项目，提高自己的知名度和技术视野。
 
 上面是比较偏向技术方面的规划，在工作上我想加入一家合适的公司，和公司共同发展，在熟悉公司业务的同时，用我的技术为业务赋能，研发出一些有价值的产品。
 
