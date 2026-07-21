@@ -19,5 +19,8 @@
   },
   "dependencies": {
     "vue": "^3.4.27"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["esbuild", "vue-demi"]
   }
 }
