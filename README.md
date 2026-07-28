@@ -1,5 +1,7 @@
 # Self Learning English
 
+> 在线查看：[woai3c.github.io/self-learning-english](https://woai3c.github.io/self-learning-english/)
+
 这是一个以真实输出为核心的个人英语训练仓库。
 
 ## 当前目标
