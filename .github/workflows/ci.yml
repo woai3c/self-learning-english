@@ -8,22 +8,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2.3.1
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          persist-credentials: false
+          node-version: 20
+
       - name: Install pnpm
-        run: |
-          npm install -g pnpm
+        run: npm install -g pnpm
+
       - name: Install and Build
         run: |
-          pnpm install --lockfile
+          pnpm install --frozen-lockfile
           pnpm build
+
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB_TOKEN: ${{ secrets.SELF_LEARNING_ENGLISH }}
-          BRANCH: master
-          FOLDER: docs/.vitepress/dist
-          CLEAN: true
-          REPOSITORY_NAME: woai3c/woai3c.github.io
-          TARGET_FOLDER: self-learning-english
+          token: ${{ secrets.SELF_LEARNING_ENGLISH }}
+          branch: master
+          folder: docs/.vitepress/dist
+          clean: true
+          repository-name: woai3c/woai3c.github.io
+          target-folder: self-learning-english
