@@ -190,17 +190,64 @@ Harry was late, but Susan was still happy to see him. Susan introduced Harry to 
 Finally, Harry and Susan went to the restaurant.
 ```
 
-## 第二次复述结果
+## 第二次复述（2026-07-29）
 
-- 整体比第一次完整很多，能说出完整的故事线
-- "ask someone how to get to" 用对了
-- 过去时比第一次稳定，但仍有一两处滑回现在时
-- "babysitter" 这次说对了
-- 仍然在 "Susan introduced Harry to Marilyn" 这里卡了一下
+### 原始语音转写
+
+> 说明：保留语音识别的原始结果。中英文混杂、人名拼写和部分异常词可能来自语音识别，不直接等同于实际口语错误。
+
+```text
+In the part two a family USA the park is talking about and Susan对，Have book a and in the first of the part two have been didn't know how to get to 83 western street so he has AV for help, and the street vendor told him how to get to atw industry but Harry Bennett misunderstand, so he go the wrong way but fortunately he met a old woman and the old woman told him the correct direction.
+According have you been finally发house of Susan although Harvey benet was late, but Susan was still very happy to see heavy be很书生introduce web to marily stear alas. Hary BA left phone number with a babysit, and then he and Susan. Went to the restaurant
+```
+
+### 与第一次相比
+
+- 故事完整度明显提高：已经能从 Harry 问路一直讲到 Harry 和 Susan 去餐厅。
+- 故事顺序更加清楚，能主动使用 `so`、`but` 和 `fortunately` 连接原因、转折和结果。
+- `didn't know`、`met`、`left` 和 `went` 表明过去时意识比第一次更稳定。
+- 结尾从第一次的 `I go to restaurant` 进步为 `he and Susan went to the restaurant`。
+- `babysitter` 这次被识别为 `babysit`，比第一次的 `baby sister` 更接近目标词，但仅凭转写还不能确定发音是否稳定。
+- 当前主要困难已经不是“想不起故事”，而是开头过于复杂、单句信息过多，导致表达容易失控。
+
+### 本次暴露的问题
+
+- 开头同时交代集数、剧名、人物和情节，认知负担过大。固定使用：`This part is about Harry and Susan.`
+- 过去时仍会滑回动词原形：
+  - `he go the wrong way` → `he went the wrong way`
+  - `Harry Bennett misunderstand` → `Harry misunderstood the directions`
+- `a old woman` → `an old woman`
+- `although Harry was late, but...` 不能同时使用 `although` 和 `but`。口语中优先说：`Harry was late, but Susan was still happy to see him.`
+- `told him the correct direction` 更自然地说成：`gave him the correct directions`
+- `Harry Bennett`、`Wooster Street`、`Marilyn`、`Richard` 等专有名词仍被识别成不同形式。需要结合原始音频才能区分发音问题和语音识别错误。
+
+### 下一次复述提示词
+
+```text
+dinner → address
+vendor → wrong way
+old woman → house
+late → happy → introduced
+phone number → babysitter → restaurant
+```
+
+固定开头：
+
+```text
+This part is about Harry and Susan.
+Harry was going to meet Susan for dinner.
+```
+
+本轮目标：
+
+1. 一个情节点只说一个短句。
+2. 全程尽量使用过去时。
+3. 卡住时直接结束当前短句，再用 `Then...` 或 `Finally...` 继续。
 
 ## 后续复习
 
-- [ ] 第二天复述
+- [x] 完成第二次复述（2026-07-29）
+- [ ] 完成当天第三次简化复述
 - [ ] 一周后复述
 - [ ] 5 个重点表达可以主动使用
 - [ ] found/founded 不再混淆
