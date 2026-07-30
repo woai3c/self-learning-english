@@ -244,11 +244,63 @@ Harry was going to meet Susan for dinner.
 2. 全程尽量使用过去时。
 3. 卡住时直接结束当前短句，再用 `Then...` 或 `Finally...` 继续。
 
+## 第三次简化复述：音频分析（2026-07-30）
+
+- 音频文件：`Recording.m4a`
+- 总时长：约 3 分 12 秒
+- 机器识别词数：约 121 词
+- 包含停顿的整体语速：约 39 词/分钟
+- 去掉长静音后的发声语速：约 77 词/分钟
+- 开头两句：15 词在约 6.8 秒内完成，约 132 词/分钟
+- 语音活动检测显示，录音中约有 98 秒没有连续说话，约占总时长的一半。
+- 词级时间戳检测到约 31 处超过 0.6 秒的间隔，其中约 12 处超过 3 秒、7 处超过 5 秒。
+
+### 主要结论
+
+- 固定开头有效：`This part is about Harry and Susan.` 和 `Harry was going to meet Susan for dinner.` 是整段最流畅、最自然的部分。
+- 说话器官和基础语速不是主要障碍。开头能达到自然语速，说明整体速度慢主要来自提取词语和临时组织句子。
+- 长停顿不只出现在句子之间，也会出现在 `He ... misunderstood`、`Harry finally ...` 等句子内部。因此当前核心问题是没有把几个关键情节练成可直接调用的短句。
+- 故事主线完整，结尾也很清楚。与前两次相比，已经能够独立完成整段复述。
+
+### 有代表性的长停顿
+
+- 说完 `83 Wooster Street` 后，约停顿 7 秒才继续问路情节。
+- `He ... misunderstood` 中间约停顿 9 秒，说明这个句型尚未形成。
+- 说完 `Susan was still happy to see him` 后，约停顿 11 秒才进入人物介绍。
+- 最后一段在 `Finally ... Harry` 之间约停顿 8 秒，但 `babysitter` 和最终去餐厅的句子比较清楚。
+
+### 发音和可懂度
+
+- 清楚、识别稳定：`Harry`、`Susan`、`old woman`、`happy to see him`、`sister-in-law`、`babysitter`、`restaurant`。
+- `babysitter` 这次被离线模型稳定识别，说明相比第一次的 `baby sister` 已经有明确进步。
+- 可懂度仍不稳定：
+  - `street vendor` 一次被识别为 `Strict Wonder`
+  - `wrong way` 被识别为 `one way`
+  - `correct directions` 被识别为 `character` 或 `corporation`
+  - `late` 一次被识别为 `ready`
+  - `Marilyn` 的识别置信度较低，`Richard` 在本次转写中没有清楚出现
+- `Wooster Street` 第二次说得比第一次清楚，但仍需单独跟读。`Wooster` 可按 /ˈwʊstər/ 练习，第一音节接近 `wood` 中的元音。
+
+### 下一轮只练四句
+
+```text
+The street vendor gave him directions.
+Harry went the wrong way.
+The old woman gave him the correct directions.
+Susan introduced Harry to Marilyn Stewart.
+```
+
+下一次完整复述目标：
+
+1. 总时长先缩短到 90–120 秒。
+2. 超过 3 秒的停顿不多于 3 次。
+3. 想不起复杂表达时，立刻使用上面的固定短句。
+
 ## 后续复习
 
 - [x] 完成第二次复述（2026-07-29）
-- [ ] 完成当天第三次简化复述
+- [x] 完成第三次简化复述及音频分析（2026-07-30）
 - [ ] 一周后复述
 - [ ] 5 个重点表达可以主动使用
 - [ ] found/founded 不再混淆
-- [ ] babysitter 发音稳定
+- [x] babysitter 发音稳定
