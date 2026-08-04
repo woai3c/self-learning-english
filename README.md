@@ -72,7 +72,7 @@ docs/
 
 正在使用《走遍美国》(Family Album, U.S.A.) 练习听力和复述。
 
-最新练习记录：[Episode 2 Act 1 — The Blind Date](docs/practice/family-album-usa/episode-02-act-01.md)
+最新练习记录：[Episode 2 Act 2 — The Blind Date](docs/practice/family-album-usa/episode-02-act-02.md)
 
 ## 背景
 

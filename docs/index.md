@@ -11,7 +11,7 @@ hero:
       link: /method/learning-principles
     - theme: alt
       text: 最新练习
-      link: /practice/family-album-usa/episode-02-act-01
+      link: /practice/family-album-usa/episode-02-act-02
 
 features:
   - title: 学习方法

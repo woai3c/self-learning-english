@@ -17,3 +17,4 @@ episode-{集数}-act-{节数}.md
 ## 练习记录
 
 - [Episode 2 Act 1 - The Blind Date](episode-02-act-01.md)
+- [Episode 2 Act 2 - The Blind Date](episode-02-act-02.md)

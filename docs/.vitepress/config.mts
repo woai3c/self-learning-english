@@ -35,6 +35,7 @@ export default defineConfig({
               items: [
                 { text: '说明', link: '/practice/family-album-usa/' },
                 { text: 'Ep2 Act1 The Blind Date', link: '/practice/family-album-usa/episode-02-act-01' },
+                { text: 'Ep2 Act2 The Blind Date', link: '/practice/family-album-usa/episode-02-act-02' },
               ],
             },
             { text: '听力练习', link: '/practice/listening/' },
