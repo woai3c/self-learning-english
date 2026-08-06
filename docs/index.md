@@ -26,6 +26,12 @@ features:
   - title: 错误记录
     details: 反复出现的问题、语法错误、容易混淆的词、发音问题
     link: /mistakes/recurring-mistakes
+  - title: 语法
+    details: 词类、情态动词、介词、不定式和动名词、被动语态等基础语法
+    link: /grammar/intro
+  - title: 发音
+    details: 音标分类、音素、连读、重读和意群
+    link: /pronunciation/intro
   - title: 定期复盘
     details: 周复盘和月复盘模板
     link: /reviews/weekly-template
