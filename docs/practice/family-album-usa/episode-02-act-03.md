@@ -25,21 +25,43 @@ I'd like to meet your daughter someday → 再约会
 > 说明：以下内容由离线语音模型识别。保留原始结果是为了观察表达和停顿。人名、专有名词和部分低频词的识别错误不直接算作口语错误；重复出现的 `male member`、`little kid` 等很可能是模型在噪音段上的幻听，不代表实际说出的话。
 
 ```text
-In A3, she was a male member. We were talking about something. On the chair. They talking about how we, and how we started a male member. We showed because we showed how to start a K. And how we have to go to take care of myself.
+In A3, she was a male member. We were talking about something. On
+the chair. They talking about how we, and how we started a male
+member. We showed because we showed how to start a K. And how we
+have to go to take care of myself.
 
-And they were eating the food. Was Susan, and they were talking about the rest of the room. Said the food was delicious, but it was too much. This food were enough for three or four people. But maybe then, it was not complaining because the food was delicious.
+And they were eating the food. Was Susan, and they were talking
+about the rest of the room. Said the food was delicious, but it was
+too much. This food were enough for three or four people. But maybe
+then, it was not complaining because the food was delicious.
 
-In the meantime, they hear somebody was knocking the door. And she was a male member. And she was a male member. And she was a female member. And she was a female member. And then she started to start to hear me. And then they all heard me. Because Susan was surprised.
+In the meantime, they hear somebody was knocking the door. And she
+was a male member. And she was a male member. And she was a female
+member. And she was a female member. And then she started to start
+to hear me. And then they all heard me. Because Susan was surprised.
 
-And then she asked Harry, did you go home? Yes. She had gone home. Michelle. Just have a Tommy K. So she took care of everything. And then come back to a polo driver for leaving so early. And then she was a little kid. It was a bonsai tree.
+And then she asked Harry, did you go home? Yes. She had gone home.
+Michelle. Just have a Tommy K. So she took care of everything. And
+then come back to a polo driver for leaving so early. And then she
+was a little kid. It was a bonsai tree.
 
-And Susan did an in my as she in my Harry to join them. Then to eating the food, take from vegetable. And Harry was satisfied. And then she was a little kid. And then she was a little kid.
+And Susan did an in my as she in my Harry to join them. Then to
+eating the food, take from vegetable. And Harry was satisfied. And
+then she was a little kid. And then she was a little kid.
 
-After a while, maybe then, said, I will excuse myself because she had to be because she had a lot of work to do to get ready for tomorrow. Because she's going to join a fashion show tomorrow morning.
+After a while, maybe then, said, I will excuse myself because she had
+to be because she had a lot of work to do to get ready for tomorrow.
+Because she's going to join a fashion show tomorrow morning.
 
-So in this time, the living zone just has a Susan and Harry. They were talking about something for the pole. Talking about Harry's wife. Is there anyone else in Harry's life? Is there anyone else in Susan's life? Is there anyone else in Susan's life?
+So in this time, the living zone just has a Susan and Harry. They
+were talking about something for the pole. Talking about Harry's
+wife. Is there anyone else in Harry's life? Is there anyone else in
+Susan's life? Is there anyone else in Susan's life?
 
-Harry needs to go home because the tie is midnight. And Harry has early start tomorrow. Susan, sir. She would like to meet Harry's daughter, Michelle. And Harry was very happy because she is thinking that they are Susan.
+Harry needs to go home because the tie is midnight. And Harry has
+early start tomorrow. Susan, sir. She would like to meet Harry's
+daughter, Michelle. And Harry was very happy because she is thinking
+that they are Susan.
 ```
 
 ## 音频数据
@@ -209,13 +231,15 @@ She's going to take part in a fashion show tomorrow morning.
 原表达：
 
 ```text
-Harry needs to go home because the time is midnight. And Harry has early start tomorrow.
+Harry needs to go home because the time is midnight. And Harry has
+early start tomorrow.
 ```
 
 建议：
 
 ```text
-At midnight, Harry had to go home, because he had an early start the next morning.
+At midnight, Harry had to go home, because he had an early start the
+next morning.
 ```
 
 结尾部分整段滑回现在时。复述越接近结尾时态越容易松，收尾前先在脑子里过一遍"全部用过去时"。
@@ -231,19 +255,39 @@ Harry was very happy because she is thinking that they are Susan.
 建议（对应原剧台词）：
 
 ```text
-Susan said she would like to meet Michelle. Harry asked, "Does that mean I can see you again?" Susan said yes, and Harry promised to call her.
+Susan said she would like to meet Michelle. Harry asked, "Does that
+mean I can see you again?" Susan said yes, and Harry promised to call
+her.
 ```
 
 ## 修正后的复述
 
 ```text
-In Act 3, Susan and Marilyn were having dinner at Susan's apartment. They were eating the food from the Thai restaurant. Marilyn said the food was delicious, and Susan said Harry didn't get anything to eat. Marilyn asked Susan about Harry. Susan said he was nice but nervous, because it was his first date in two years.
+In Act 3, Susan and Marilyn were having dinner at Susan's apartment.
+They were eating the food from the Thai restaurant. Marilyn said the
+food was delicious, and Susan said Harry didn't get anything to eat.
+Marilyn asked Susan about Harry. Susan said he was nice but nervous,
+because it was his first date in two years.
 
-Suddenly, they heard somebody knocking at the door. It was Harry! Susan was surprised and asked, "Did you go home?" Harry said he did, but everything was OK. Michelle just had a tummy ache. He came back to apologize for leaving so early, and he brought Susan a little gift: a bonsai tree for her new apartment. Susan invited Harry to join them, and he ate the leftover food. He said it was delicious.
+Suddenly, they heard somebody knocking at the door. It was Harry!
+Susan was surprised and asked, "Did you go home?" Harry said he did,
+but everything was OK. Michelle just had a tummy ache. He came back
+to apologize for leaving so early, and he brought Susan a little
+gift: a bonsai tree for her new apartment. Susan invited Harry to
+join them, and he ate the leftover food. He said it was delicious.
 
-Then Marilyn excused herself. She had a lot of work to do to get ready for tomorrow, because she was going to take part in a fashion show in the city. After she left, only Susan and Harry were in the living room. They talked about Harry's wife, who died two years ago. Susan asked, "Is there anyone else in your life?" Harry said no, not yet.
+Then Marilyn excused herself. She had a lot of work to do to get
+ready for tomorrow, because she was going to take part in a fashion
+show in the city. After she left, only Susan and Harry were in the
+living room. They talked about Harry's wife, who died two years ago.
+Susan asked, "Is there anyone else in your life?" Harry said no, not
+yet.
 
-At midnight, Harry had to go home, because he had an early start the next morning. Before he left, Susan said she would like to meet his daughter, Michelle. Harry asked, "Does that mean I can see you again?" Susan said yes. Harry promised to call her, and they would go out to dinner again.
+At midnight, Harry had to go home, because he had an early start the
+next morning. Before he left, Susan said she would like to meet his
+daughter, Michelle. Harry asked, "Does that mean I can see you
+again?" Susan said yes. Harry promised to call her, and they would
+go out to dinner again.
 ```
 
 ## 专有词降级表达

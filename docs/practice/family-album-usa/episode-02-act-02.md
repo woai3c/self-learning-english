@@ -23,21 +23,36 @@ apologize → go home → another date
 > 说明：以下内容由离线语音模型识别。保留原始结果是为了观察表达和停顿，不把专有名词、菜名和酒名的识别错误直接算作口语错误。
 
 ```text
-In Act 2, Harry and Susan run to the Thailand restaurant. The owner, Sam said. A Susan's good friend. One Harry and Susan are why the restaurant, Sam said was very happy.
+In Act 2, Harry and Susan run to the Thailand restaurant. The owner,
+Sam said. A Susan's good friend. One Harry and Susan are why the
+restaurant, Sam said was very happy.
 
-To welcome Harry and Susan. Susan introduced Sam said to Harry and Sam said that and if and that Ms. Stewart is welcome as something. And Harry were we night-style after restaurant.
+To welcome Harry and Susan. Susan introduced Sam said to Harry and
+Sam said that and if and that Ms. Stewart is welcome as something.
+And Harry were we night-style after restaurant.
 
-In the morning time because Harry was here the first time, so Susan need to care about Harry. She ordered a meat crop then she asked Harry whether need to see a menu but Harry didn't care about that. He ordered the meat crop also.
+In the morning time because Harry was here the first time, so Susan
+need to care about Harry. She ordered a meat crop then she asked
+Harry whether need to see a menu but Harry didn't care about that.
+He ordered the meat crop also.
 
-And Sam said asked whether need to drink something. Susan ordered a glass of ginger oil with ice. And Harry ordered a California should breathe.
+And Sam said asked whether need to drink something. Susan ordered a
+glass of ginger oil with ice. And Harry ordered a California should
+breathe.
 
-And about seven they ordered the rose petals for a big cost. Sam said that. The rose petals are like four special new fans.
+And about seven they ordered the rose petals for a big cost. Sam said
+that. The rose petals are like four special new fans.
 
-After holding time they're talking about anything. About job about Harry's daughter. But in the time there's a phone call coming.
+After holding time they're talking about anything. About job about
+Harry's daughter. But in the time there's a phone call coming.
 
-It's the babysitter Betty. Betty's the Harry's daughter has a stomach ache and she's quiet. So Harry need to go home to say sorry to Susan. Who's Susan to forgive him.
+It's the babysitter Betty. Betty's the Harry's daughter has a stomach
+ache and she's quiet. So Harry need to go home to say sorry to Susan.
+Who's Susan to forgive him.
 
-But Susan don't care about that. She care about Michelle. She whole Harry go home quickly to see Michelle watch the mother. And they can make another reservation last time.
+But Susan don't care about that. She care about Michelle. She whole
+Harry go home quickly to see Michelle watch the mother. And they can
+make another reservation last time.
 ```
 
 ## 音频数据
@@ -231,9 +246,18 @@ agreed to see each other another time
 ## 修正后的复述
 
 ```text
-In Act 2, Harry and Susan went to a Thai restaurant. Susan knew the owner, Somsak, and introduced him to Harry. Since it was Harry's first time there, Susan helped him order. They both ordered mee krob. Susan had ginger ale, and Harry ordered a glass of white wine. Somsak also recommended a special salad.
+In Act 2, Harry and Susan went to a Thai restaurant. Susan knew the
+owner, Somsak, and introduced him to Harry. Since it was Harry's first
+time there, Susan helped him order. They both ordered mee krob. Susan
+had ginger ale, and Harry ordered a glass of white wine. Somsak also
+recommended a special salad.
 
-While they were waiting for the food, Harry and Susan talked about their jobs and Harry's daughter, Michelle. Then Harry got a phone call from the babysitter. She said Michelle had a stomachache and was crying. Harry apologized to Susan and said he had to go home. Susan didn't mind. She was worried about Michelle and told Harry to go home right away. They agreed to see each other another time.
+While they were waiting for the food, Harry and Susan talked about
+their jobs and Harry's daughter, Michelle. Then Harry got a phone call
+from the babysitter. She said Michelle had a stomachache and was
+crying. Harry apologized to Susan and said he had to go home. Susan
+didn't mind. She was worried about Michelle and told Harry to go home
+right away. They agreed to see each other another time.
 ```
 
 ## 下一轮训练方法

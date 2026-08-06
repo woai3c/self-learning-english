@@ -23,10 +23,19 @@
 > 说明：以下内容通过语音转写记录。部分拼写和语法异常来自语音识别错误，不代表真实语法水平。保留原始转写是为了对比训练前后的差异。
 
 ```text
-In the episode of family USA, Henry be is ready to make dinner reservation with Susan but he doesn't know how to get to 83 Worcester street so需asked street vendor for help, and the street vendor told him how to get to 83 Worcester street By Harvey Bennett is still far a wrong way after a while,
-Harry bene I've met a old woman. He asked woman for how to get to 83 Worcester street and the woman told him how to get to 83 weo street.
-The tie at a time e be finally founded. Caraway and Harry Bennett go to C1.
-Susan我although heber it late for the time, 把Susan is still very happy and Susan introduce har better to ma and heavy, bannnett asked Susan does she know the phone number of what so he can leave the number with the baby sister. Alas, hi Ben and Susan. I go to restaurant
+In the episode of family USA, Henry be is ready to make dinner
+reservation with Susan but he doesn't know how to get to 83 Worcester
+street so需asked street vendor for help, and the street vendor told him
+how to get to 83 Worcester street By Harvey Bennett is still far a
+wrong way after a while,
+Harry bene I've met a old woman. He asked woman for how to get to 83
+Worcester street and the woman told him how to get to 83 weo street.
+The tie at a time e be finally founded. Caraway and Harry Bennett go
+to C1.
+Susan我although heber it late for the time, 把Susan is still very happy
+and Susan introduce har better to ma and heavy, bannnett asked Susan
+does she know the phone number of what so he can leave the number
+with the baby sister. Alas, hi Ben and Susan. I go to restaurant
 ```
 
 ## 暴露的问题
@@ -181,11 +190,19 @@ Susan was still happy to see him.
 ## 修正后的复述
 
 ```text
-In this part of Family Album, U.S.A., Harry Bennett was going to meet Susan for dinner. He didn't know how to get to 83 Wooster Street, so he asked a street vendor for help.
+In this part of Family Album, U.S.A., Harry Bennett was going to meet
+Susan for dinner. He didn't know how to get to 83 Wooster Street, so
+he asked a street vendor for help.
 
-The street vendor gave him directions, but Harry still went the wrong way. After a while, he met an old woman and asked her how to get to 83 Wooster Street. She gave him directions, and Harry finally found the address.
+The street vendor gave him directions, but Harry still went the wrong
+way. After a while, he met an old woman and asked her how to get to
+83 Wooster Street. She gave him directions, and Harry finally found
+the address.
 
-Harry was late, but Susan was still happy to see him. Susan introduced Harry to Marilyn and Richard. Before they left, Harry asked Susan if she knew the phone number of the restaurant because he wanted to leave it with the babysitter.
+Harry was late, but Susan was still happy to see him. Susan introduced
+Harry to Marilyn and Richard. Before they left, Harry asked Susan if
+she knew the phone number of the restaurant because he wanted to leave
+it with the babysitter.
 
 Finally, Harry and Susan went to the restaurant.
 ```
@@ -197,8 +214,16 @@ Finally, Harry and Susan went to the restaurant.
 > 说明：保留语音识别的原始结果。中英文混杂、人名拼写和部分异常词可能来自语音识别，不直接等同于实际口语错误。
 
 ```text
-In the part two a family USA the park is talking about and Susan对，Have book a and in the first of the part two have been didn't know how to get to 83 western street so he has AV for help, and the street vendor told him how to get to atw industry but Harry Bennett misunderstand, so he go the wrong way but fortunately he met a old woman and the old woman told him the correct direction.
-According have you been finally发house of Susan although Harvey benet was late, but Susan was still very happy to see heavy be很书生introduce web to marily stear alas. Hary BA left phone number with a babysit, and then he and Susan. Went to the restaurant
+In the part two a family USA the park is talking about and Susan对，
+Have book a and in the first of the part two have been didn't know
+how to get to 83 western street so he has AV for help, and the street
+vendor told him how to get to atw industry but Harry Bennett
+misunderstand, so he go the wrong way but fortunately he met a old
+woman and the old woman told him the correct direction.
+According have you been finally发house of Susan although Harvey benet
+was late, but Susan was still very happy to see heavy be很书生
+introduce web to marily stear alas. Hary BA left phone number with a
+babysit, and then he and Susan. Went to the restaurant
 ```
 
 ### 与第一次相比
