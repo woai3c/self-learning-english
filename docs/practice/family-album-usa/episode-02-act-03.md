@@ -321,11 +321,158 @@ Harry asked, "Does that mean I can see you again?" and promised to call her.
 
 6. 目标指标：超过 3 秒的停顿不多于 3 次；全程基本保持过去时。
 
+## 第二次复述（2026-08-06）
+
+### 原始语音转写
+
+> 说明：保留语音识别原始结果。`Marlin` 全部指 Marilyn；人名和部分低频词的识别错误不直接算作口语错误。
+
+```text
+This path is about having a system. In the evening, Susan and Marlin
+were eating dinner of Susan's apartment. They took about Harry and
+Harry's daughter, Michelle. Marlin, as Susan, was born with Harry.
+Susan said, "He's daughter, has just stomachache." So, he had to go
+home.
+
+Then, Marlin, as Susan, what do you think of him? Will you see him
+again? Susan... So, I also... that means... Susan is like Harry. She
+holds his hair again. Then, Marlin said, "You order enough for three
+of four people. But, Marlin was not complaining because she... that
+the food was delicious.
+
+Suddenly, they hear somebody knocking at the door. And then, Susan,
+one door opened at the door. Oh, it's Harry. Susan was wearing
+supplies. And she's there. Harry, did you go home? Harry said, "Yes,
+I did." Harry had to go home, but everything is okay. So, I can bear
+to apologize for what he means earlier. And Harry, brought Susan a
+little gift. It's a bonsai tree for Susan's new apartment. Susan was
+very happy.
+
+She didn't buy and she, in my Harry, to join them. To eat the food
+from the restaurant. After a while, Marlin is killed herself because
+she had to... because she had a lot of work to do together for
+tomorrow. Because she's going to take part in a fashion show tomorrow
+morning. After Marlin, then live. Only Susan and Harry in the living
+room.
+
+And then, and they talking about each other. Harry said, "Hawai,
+Hawaii, Hawaii." Who died from two years ago? And Susan asked, "Is
+there anyone else in your life?" Harry said, "Lock here." "A
+midnight, Harry have to go home." He heard that early start tomorrow
+morning. And the babysitter has to go home.
+
+Susan said, "Susan said she could lie to me, Michelle." Harry was very
+happy. He said, "Tast the mean I can see again." Susan said, "Yes."
+Harry said, "Here you are." He promised to call her.
+```
+
+### 音频数据
+
+- 机器识别词数：约 331 词
+- 总时长：约 6 分 45 秒
+- 包含停顿的整体语速：约 49 词/分钟
+- 有效发声约 96 秒，静音约 310 秒，静音约占总时长的 76%
+- 超过 3 秒的停顿约 26 处，超过 5 秒的约 11 处
+- 最长停顿约 15.6 秒，出现在"Harry 回家"到"Marilyn 问你对 Harry 的看法"之间；"Will you see him again?" 之后另有约 14 秒的碎片化尝试
+
+### 与第一次相比
+
+| 指标            | 第一次 | 第二次 |
+| --------------- | -----: | -----: |
+| 总时长          | 8 分 30 秒 | 6 分 45 秒 |
+| 机器识别词数    | 约 364 词 | 约 331 词 |
+| 整体语速        | 约 43 词/分钟 | 约 49 词/分钟 |
+| 发声语速        | 约 180 词/分钟 | 约 207 词/分钟 |
+| 静音占比        | 约 76% | 约 76% |
+| 超过 3 秒的停顿 | 约 48 处 | 约 26 处 |
+| 超过 5 秒的停顿 | 约 12 处 | 约 11 处 |
+| 最长停顿        | 约 8.8 秒 | 约 15.6 秒 |
+
+### 已经出现的进步
+
+- **上一轮的 5 条修正落实了 4 条**：
+  - `knocking at the door`（第一次是 `was knocking the door`）
+  - `take part in a fashion show`（第一次是 `join a fashion show`）
+  - `Marilyn was not complaining`（第一次是 `it was not complaining`）
+  - `Only Susan and Harry in the living room`（第一次是 `the living zone just has a Susan and Harry`）
+- 新增了两个关键内容：妻子两年前去世（`Who died from two years ago`）、结尾句（`Does that mean I can see you again?` + `He promised to call her`），第一次这两处都缺失。
+- 原台词逐字率进一步提高：`What do you think of him?`、`Will you see him again?`、`Yes, I did`、`Is there anyone else in your life?`、`You ordered enough for three or four people`、`a bonsai tree for your new apartment`。
+- 固定开头已在使用（`This part is about...` 被识别成 `This path is about having a system`，但句型明显是固定开头）。
+- `Marilyn` 的识别大幅稳定：本次全部识别为 `Marlin`，不再是第一次的 `male member`，说明人名发音明显变清楚。
+- 整体节奏改善：总时长缩短 21%，超过 3 秒的停顿从 48 处降到 26 处，发声语速从 180 提到 207 词/分钟。
+
+### 当前主要问题
+
+- **最长停顿反而变长**（8.8 秒 → 15.6 秒），且出现两处新卡点：
+  - "Marilyn 问 Susan 觉得 Harry 怎么样"之前的 15.6 秒停顿；
+  - `Will you see him again?` 的回答（`I hope so`）说不出来，变成约 14 秒的碎片尝试（`So, I also... that means... Susan is like Harry`）。
+- 时态滑落依旧出现在关键位置：`they hear`（heard）、`Harry have to go home`（had）、`the babysitter has to go home`（had）、`they talking about`（were）、`You order enough`（ordered）、`He's daughter has just stomachache`（His daughter had）。
+- `invited` 连续两次被识别成 `in my`（`she in my Harry to join them`），需要专门练。
+- `excused herself` 这次被识别成 `killed herself`，与第一次（识别正确）相比反而倒退，需要确认发音。
+- 本次漏掉了：`first date in two years`（第一次提过）、`since her mother died`、`I think we're going to be good friends`。
+
+### 语音识别需要谨慎判断的部分
+
+| 机器识别 | 推测的实际表达 |
+| -------- | -------------- |
+| `This path is about having a system` | `This part is about Harry and Susan`（固定开头） |
+| `Marlin` | `Marilyn`（全部出现处） |
+| `one door opened at the door` | `Susan opened the door` |
+| `wearing supplies` | `was very surprised` |
+| `I can bear to apologize for what he means earlier` | `came back to apologize for leaving so early` |
+| `is killed herself` | `excused herself` |
+| `then live` | `left` |
+| `Hawai, Hawaii, Hawaii` | `his wife` |
+| `Lock here` | `No, not yet` |
+| `Here you are` | `I'll call you` |
+| `could lie to me` | `would like to meet` |
+| `Tast the mean I can see again` | `Does that mean I can see you again?`（结尾句已用出） |
+
+### 遗留的表达问题
+
+1. `invited` 提取/发音不稳定（两轮都是 `in my`）。固定句：
+
+```text
+Susan invited Harry to join them.
+```
+
+想不起时降级为：
+
+```text
+Susan asked Harry to join them.
+```
+
+2. `I hope so` 说不出来。固定句：
+
+```text
+Susan said she hoped to see him again.
+```
+
+3. `of Susan's apartment` → `at Susan's apartment`。
+4. `took about` → `talked about`。
+5. 结尾段落时态滑落（`have to` / `has to` → `had to`）。
+
+### 下一轮训练方法（第三次）
+
+1. 总时长目标：4 分钟以内（本次 6 分 45 秒）；超过 3 秒的停顿不多于 8 次（本次 26 次）。
+2. 重点练两处卡点，各配固定句：
+
+```text
+Marilyn asked Susan what she thought of him.
+Susan said she hoped to see him again.
+```
+
+3. 固定开头和结尾继续保持（本次都已用出）。
+4. 全程过去时：`heard`、`had`、`were`、`ordered`、`said`。
+5. 卡住时用降级表达，不停顿等待：`invited` → `asked`；`excused herself` → `left`；`his wife` → `his wife died two years ago`。
+
 ## 后续复习
 
 - [x] 完成 Act 3 第一次脱稿复述及音频分析（2026-08-06）
-- [ ] 使用情节关键词将总时长压缩到 3 分钟以内
-- [ ] 超过 3 秒的停顿不多于 3 次
+- [x] 完成第二次脱稿复述及音频分析（2026-08-06）
+- [x] 结尾两句能自动说出（第二次已用出 `Does that mean I can see you again?` 和 `promised to call her`）
+- [ ] 使用情节关键词将总时长压缩到 4 分钟以内
+- [ ] 超过 3 秒的停顿不多于 8 次
 - [ ] 全程基本保持一般过去时
+- [ ] `I hope so` 和 `invited` 卡点消除
 - [ ] 固定开头两句能自动说出
-- [ ] 结尾两句能自动说出
