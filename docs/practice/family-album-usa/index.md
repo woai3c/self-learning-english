@@ -18,3 +18,4 @@ episode-{集数}-act-{节数}.md
 
 - [Episode 2 Act 1 - The Blind Date](episode-02-act-01.md)
 - [Episode 2 Act 2 - The Blind Date](episode-02-act-02.md)
+- [Episode 2 Act 3 - The Blind Date](episode-02-act-03.md)

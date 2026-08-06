@@ -246,7 +246,6 @@ Harry was going to meet Susan for dinner.
 
 ## 第三次简化复述：音频分析（2026-07-30）
 
-- 音频文件：`Recording.m4a`
 - 总时长：约 3 分 12 秒
 - 机器识别词数：约 121 词
 - 包含停顿的整体语速：约 39 词/分钟
