@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 自学英语
   text: 以真实输出为核心的个人英语训练仓库
-  tagline: 听 → 复述 → 发现问题 → 提炼表达 → 替换练习 → 再次输出 → 定期复盘
+  tagline: 听 → 复述 → 发现问题 → 提炼表达 → 替换练习 → 再次输出
   actions:
     - theme: brand
       text: 学习原则
@@ -32,9 +32,6 @@ features:
   - title: 发音
     details: 音标分类、音素、连读、重读和意群
     link: /pronunciation/intro
-  - title: 定期复盘
-    details: 周复盘和月复盘模板
-    link: /reviews/weekly-template
   - title: 归档
     details: 有历史价值但当前不再维护的内容
     link: /archive/

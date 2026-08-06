@@ -13,7 +13,6 @@ export default defineConfig({
       { text: '错误记录', link: '/mistakes/recurring-mistakes' },
       { text: '语法', link: '/grammar/intro' },
       { text: '发音', link: '/pronunciation/intro' },
-      { text: '复盘', link: '/reviews/weekly-template' },
     ],
 
     sidebar: {
@@ -105,20 +104,13 @@ export default defineConfig({
           ],
         },
       ],
-      '/reviews/': [
-        {
-          text: '复盘',
-          items: [
-            { text: '周复盘模板', link: '/reviews/weekly-template' },
-            { text: '月复盘模板', link: '/reviews/monthly-template' },
-          ],
-        },
-      ],
       '/archive/': [
         {
           text: '归档',
           items: [
             { text: '说明', link: '/archive/' },
+            { text: '周复盘模板', link: '/archive/weekly-template' },
+            { text: '月复盘模板', link: '/archive/monthly-template' },
           ],
         },
       ],
