@@ -16,8 +16,9 @@
 - `docs/mistakes/` 错误记录
 - `docs/grammar/` 语法知识(曾被误删,已恢复)
 - `docs/pronunciation/` 发音知识:音标、音素、连读、重读、意群(曾被误删,已恢复)
-- `docs/reviews/` 复盘模板
-- `docs/archive/` 归档
+- `docs/archive/` 归档(含已不维护的复盘模板)
+
+注意:已没有独立的"复盘"分类——每次录音分析(练习记录)本身就承担复盘职能,复盘模板已归档到 `docs/archive/`。
 
 ## 硬性约定(Hard Rules)
 
