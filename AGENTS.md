@@ -12,7 +12,6 @@
 
 - `docs/method/` 学习方法
 - `docs/practice/` 训练记录(当前主要是 `family-album-usa/`)
-- `docs/expressions/` 表达管理
 - `docs/mistakes/` 错误记录
 - `docs/grammar/` 语法知识(曾被误删,已恢复)
 - `docs/pronunciation/` 发音知识:音标、音素、连读、重读、意群(曾被误删,已恢复)

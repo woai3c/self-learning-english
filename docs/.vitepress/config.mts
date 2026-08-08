@@ -7,9 +7,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '简介', link: '/introduce' },
       { text: '学习方法', link: '/method/learning-principles' },
       { text: '训练记录', link: '/practice/family-album-usa/' },
-      { text: '表达管理', link: '/expressions/active' },
       { text: '错误记录', link: '/mistakes/recurring-mistakes' },
       { text: '语法', link: '/grammar/intro' },
       { text: '发音', link: '/pronunciation/intro' },
@@ -41,18 +41,7 @@ export default defineConfig({
               ],
             },
             { text: '听力练习', link: '/practice/listening/' },
-            { text: '复述练习', link: '/practice/retelling/' },
             { text: '工作场景', link: '/practice/work-scenarios/' },
-          ],
-        },
-      ],
-      '/expressions/': [
-        {
-          text: '表达管理',
-          items: [
-            { text: '正在练习', link: '/expressions/active' },
-            { text: '工作场景', link: '/expressions/work' },
-            { text: '已掌握', link: '/expressions/mastered' },
           ],
         },
       ],
