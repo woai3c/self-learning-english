@@ -11,7 +11,7 @@ hero:
       link: /introduce
     - theme: alt
       text: 最新练习
-      link: /practice/family-album-usa/episode-02-act-03
+      link: /practice/family-album-usa/episode-03-act-01
 
 features:
   - title: 简介
