@@ -301,9 +301,259 @@ Philip told them that Grandpa had sent him the key.
 
 - [x] 完成 Episode 3 Act 1 第一次脱稿复述及音频分析（2026-08-09）
 - [x] 将总时长控制在上一轮目标的 4 分钟以内
-- [ ] 使用六组提示词完成 2 分 30 秒以内的复述
-- [ ] 超过 3 秒的停顿不多于 5 次
+- [x] 使用六组提示词完成 2 分 30 秒以内的复述（第二次约 2 分 05 秒）
+- [x] 超过 3 秒的内容停顿不多于 5 次（第二次约 5 次）
 - [ ] 超过 5 秒的停顿不多于 1 次
 - [ ] 全程基本保持一般过去时
 - [ ] 能稳定说出固定开头和结尾
 - [ ] 卡住时能够主动使用降级表达
+
+## 第二次复述（2026-08-09）
+
+### 原始语音转写
+
+> 说明：保留离线语音模型的原始结果。模型对本次低音量片段的识别不稳定，`two other`、`viable sister-girl`、`antibody` 等明显是机器误识别，不代表实际说出的内容。
+
+```text
+In Episode 3, Act 1, the two other family was preparing for grandpa's
+arrival. Grandpa would be a viable sister-girl this evening by Trunk,
+he turned one antibody to pick in him up because he likes to be
+independent.
+
+Mary and Ellen, one up days and prepare grandpa's room, all this to the
+family. Inside it about two scene grandpa, Robbie and Richard have
+planned to put together some photos of grandpa's as a real component.
+
+While Susan and William, Mary and Ellen, preparing their grandpa's room,
+need for our old trunk, but the old trunk was locked. And so they told
+that grandpa has sent in the key.
+
+Susan called early in the morning. Susan would be live in the evening.
+[BLANK_AUDIO]
+```
+
+### 音频数据
+
+- 总时长：约 2 分 05 秒
+- 机器识别词数：约 120 词
+- 包含停顿的整体语速：约 58 词/分钟
+- 有效发声约 40 秒，静音约 84 秒，静音约占总时长的 68%
+- 发声状态下的语速约 180 词/分钟
+- 除去说完后的结尾空白，约有 5 处超过 3 秒的内容停顿，其中 2 处超过 5 秒
+- 最长停顿约 7.3 秒，出现在“照片礼物”到“准备房间、发现旧箱子”的场景切换处
+
+> 音量阈值按本段实际噪底选择。在多个合理阈值下，超过 3 秒的停顿约为 5～6 处；其中一处是内容结束后的空白，因此不计入复述过程。
+
+### 与第一次相比
+
+这是同一段材料的第二次复述，因此可以直接观察熟练度变化。
+
+| 指标            | 第一次 | 第二次 |
+| --------------- | -----: | -----: |
+| 总时长          | 约 4 分钟 | 约 2 分 05 秒 |
+| 机器识别词数    | 约 115 词 | 约 120 词 |
+| 整体语速        | 约 29 词/分钟 | 约 58 词/分钟 |
+| 发声语速        | 约 125 词/分钟 | 约 180 词/分钟 |
+| 静音占比        | 约 78% | 约 68% |
+| 超过 3 秒的停顿 | 约 19～20 处 | 约 5 处 |
+| 超过 5 秒的停顿 | 约 11 处 | 约 2 处 |
+| 最长停顿        | 约 17.9 秒 | 约 7.3 秒 |
+
+本次词数没有减少，总时长却缩短了约一半。因此这次不是靠删减内容换取速度，而是同一材料的提取速度和衔接熟练度确实提高了。
+
+### 上一轮目标完成情况
+
+- 六组提示词全部覆盖：**达成**。
+- 总时长不超过 2 分 30 秒：**达成**，本次约 2 分 05 秒。
+- 超过 3 秒的停顿不多于 5 次：**达成**。
+- 超过 5 秒的停顿不多于 1 次：**未达成**，本次约 2 次。
+- 全程基本保持一般过去时：**未完全达成**。
+- 固定开头和结尾：开头已经使用，结尾句型仍不稳定。
+
+### 已经出现的进步
+
+- 固定开头成功使用：`In Episode 3, Act 1...`，不再说第一次的 `In Part 3`。
+- 第一次漏掉的“Grandpa 不需要接站，因为他喜欢独立”已经补上。
+- Susan 来电以及晚上才能离开的情节已经补上。
+- 上一轮的六组提示词全部讲到，没有因为速度提高而漏掉主要情节点。
+- `train`、`independent` 和 `old trunk was locked` 比第一次识别稳定。
+- 机器识别词数略有增加，但总时长缩短接近一半，整体语速翻倍。
+- 超过 3 秒的停顿从约 19～20 处降到约 5 处，最长停顿从 17.9 秒降到约 7.3 秒。
+
+### 当前主要问题
+
+- 剩下的停顿集中在**场景切换**，已经不是每个短句内部都卡住：
+  - “照片作为欢迎礼物” → “Ellen 和 Marilyn 准备房间、发现旧箱子”；
+  - “Philip 和钥匙” → “Susan 早上来电”。
+- 发声语速已经达到约 180 词/分钟，不需要继续追求更快。下一步应减少停顿，让整体节奏更均匀。
+- 过去时和谓语结构仍不稳定：`would be arrive`、`likes`、`have planned`、`preparing` 和 `has sent` 等结构需要继续固定。
+- 固定开头已经形成，但固定结尾 `Philip told them that Grandpa had sent him the key` 还没有稳定说出。
+- `welcome present` 连续两次都没有被模型正确识别；虽然不能直接判为发音错误，但值得单独跟读。
+
+### 语音识别需要谨慎判断的部分
+
+| 机器识别 | 推测的实际表达 |
+| -------- | -------------- |
+| `the two other family` | `the Stewart family` |
+| `grandpa's survival` | `Grandpa's arrival` |
+| `viable sister-girl this evening by Trunk` | `arrive at six o'clock this evening by train` |
+| `turned one antibody to pick in him up` | `didn't want anybody to pick him up` |
+| `Mary and Ellen, one up days` | `Marilyn and Ellen went upstairs` |
+| `Inside it about to see Grandpa` | `was excited about seeing Grandpa` |
+| `real component` | `welcome present` |
+| `William, Mary and Ellen` | 重启后尝试说 `Marilyn and Ellen` |
+| `has sent in the key` | `had sent him the key` |
+| `live in the evening` | `leave in the evening` |
+
+人名和短词仍有明显幻听，因此 `Marilyn`、`Philip` 等词不单凭本次转写判为发音错误。
+
+### 仍需固定的表达
+
+#### 1. would arrive
+
+避免：
+
+```text
+Grandpa would be arrive...
+```
+
+固定为：
+
+```text
+Grandpa would arrive by train at six that evening.
+```
+
+#### 2. went upstairs to prepare
+
+避免：
+
+```text
+Marilyn and Ellen went upstairs and prepare Grandpa's room.
+```
+
+固定为：
+
+```text
+Ellen and Marilyn went upstairs to prepare Grandpa's room.
+```
+
+#### 3. everyone was excited
+
+固定为：
+
+```text
+Everyone in the Stewart family was excited to see Grandpa.
+```
+
+这样可以避免临时处理 `family` 的单复数和 `excited about to see` 等结构。
+
+#### 4. planned to put together
+
+避免：
+
+```text
+Robbie and Richard have planned to put together some photos.
+```
+
+固定为：
+
+```text
+Richard and Robbie planned to put together some photos as a welcome
+present.
+```
+
+#### 5. were preparing
+
+固定为：
+
+```text
+While Ellen and Marilyn were preparing Grandpa's room, they found his
+old trunk.
+```
+
+#### 6. had sent him the key
+
+避免：
+
+```text
+Philip told that Grandpa has sent him the key.
+```
+
+固定为：
+
+```text
+Philip told them that Grandpa had sent him the key.
+```
+
+#### 7. Susan could not leave until that evening
+
+固定为：
+
+```text
+Susan had called that morning and could not leave until that evening.
+```
+
+## 下一轮如何优化
+
+### 1. 不再重复练整篇内容，重点练两个场景接口
+
+本次六组情节已经全部覆盖。下一轮最有价值的训练不是继续背剧情，而是把两个长停顿处练成固定过渡。
+
+照片礼物 → 准备房间：
+
+```text
+Meanwhile, Ellen and Marilyn went upstairs to prepare Grandpa's room.
+```
+
+钥匙 → Susan 来电：
+
+```text
+Earlier that morning, Susan had called the family.
+```
+
+### 2. 使用“谓语轨道”保持过去时
+
+复述前只看下面一行，不看完整句子：
+
+```text
+would arrive → did not want → went → was excited → planned
+were preparing → found → was locked → had sent → had called
+```
+
+每次开口先选择这一行中的谓语，再补人物和内容，避免边说边决定时态。
+
+### 3. 使用“3-2-1”训练
+
+1. 两个过渡句各说 3 遍。
+2. 只看六组关键词完整复述 2 遍，不录音。
+3. 最后完成 1 次完整复述并分析，不连续重复录很多遍。
+
+### 4. 单独跟读三个识别不稳定的短语
+
+```text
+would arrive at six
+a welcome present
+could not leave until that evening
+```
+
+每个短语慢速 3 遍、正常速度 3 遍，然后各放进完整句说 1 遍。
+
+### 5. 下一次量化目标
+
+1. 总时长控制在 1 分 50 秒以内。
+2. 超过 3 秒的停顿不多于 3 次。
+3. 不出现超过 5 秒的停顿。
+4. `would be arrive`、`have planned` 和 `has sent` 不再出现。
+5. 固定开头、两个过渡句和固定结尾都能自动说出。
+
+## 第二次复述后的复习清单
+
+- [x] 六组情节提示词全部覆盖
+- [x] 总时长控制在 2 分 30 秒以内
+- [x] 超过 3 秒的内容停顿不多于 5 次
+- [ ] 超过 5 秒的停顿降到 0 次
+- [ ] 总时长控制在 1 分 50 秒以内
+- [ ] 全程基本保持一般过去时
+- [ ] 两个场景过渡句能够自动说出
+- [ ] `would arrive`、`planned` 和 `had sent` 能稳定使用
+- [ ] `welcome present` 能被稳定识别
