@@ -556,4 +556,153 @@ could not leave until that evening
 - [ ] 全程基本保持一般过去时
 - [ ] 两个场景过渡句能够自动说出
 - [ ] `would arrive`、`planned` 和 `had sent` 能稳定使用
-- [ ] `welcome present` 能被稳定识别
+- [x] `welcome present` 能被稳定识别（后续练习已连续识别）
+
+## 第三次入库复述（2026-08-12）
+
+> 第二次入库后还做过两次即时练习，但没有写入文档。本节的“第三次”按正式入库记录编号。
+
+### 原始语音转写
+
+> 说明：以下内容由离线语音模型识别。`a sister's car`、`pick in him up`、`Grandpa's garden` 等明显属于机器误识别，不直接算作口语错误。人名和短词仍需结合原音谨慎判断。
+
+```text
+In Episode 3, Act 1, the Stewart family was preparing for Grandpa's
+arrival. Grandpa's with a wife, a sister's car, by train. He didn't
+want anybody to pick in him up, because he liked to be independent.
+
+Marilyn and Susan were preparing for Grandpa's room. Everyone of the
+Stewart family was decided to see Grandpa. Robbie and Richard planned
+to put together some photos of Grandpa as a welcome present.
+
+Meanwhile, Marilyn and Ellen have found the old trunk, but it was
+locked. Philip came upstairs to put hangers in Grandpa's garden.
+
+Ellen said that Susan called earlier the morning. She would, she could
+not leave until the evening. And then they asked Philip about the old
+trunk. Philip said that Grandpa sent him the key to the trunk.
+```
+
+### 音频数据
+
+- 总时长：约 2 分 05 秒
+- 机器识别词数：约 134 词
+- 包含停顿的整体语速：约 64 词/分钟
+- 有效发声约 49 秒，静音约 76 秒，静音约占总时长的 61%
+- 发声状态下的语速约 164 词/分钟
+- 约有 5 处超过 3 秒的停顿，其中约 1～2 处超过 5 秒
+- 最长停顿约 6 秒，出现在旧箱子情节过渡到 Philip 上楼之前
+
+> 本次背景噪声较明显，因此按实际噪底选择阈值。在合理阈值范围内，超过 3 秒的停顿稳定在约 5 次；超过 5 秒的停顿为 1～2 次。
+
+### 与前两次相比
+
+| 指标            | 第二次入库 | 上一遍即时练习 | 本次入库 |
+| --------------- | ---------: | -------------: | -------: |
+| 总时长          | 约 2 分 05 秒 | 约 2 分 36 秒 | 约 2 分 05 秒 |
+| 机器识别词数    | 约 120 词 | 约 133 词 | 约 134 词 |
+| 整体语速        | 约 58 词/分钟 | 约 51 词/分钟 | 约 64 词/分钟 |
+| 发声语速        | 约 180 词/分钟 | 约 146 词/分钟 | 约 164 词/分钟 |
+| 静音占比        | 约 68% | 约 65% | 约 61% |
+| 超过 3 秒的停顿 | 约 5 处 | 约 10 处 | 约 5 处 |
+| 超过 5 秒的停顿 | 约 2 处 | 约 1 处 | 约 1～2 处 |
+| 最长停顿        | 约 7.3 秒 | 约 5.2 秒 | 约 6 秒 |
+
+本次与第二次入库的总时长相同，但多表达了约 14 个词，整体语速从约 58 提升到约 64 词/分钟。与紧邻的上一遍即时练习相比，内容量基本不变，总时长缩短约 31 秒，长停顿从约 10 处降回约 5 处。说明上一遍为了提高准确度造成的碎片化已经明显缓解。
+
+### 上一轮目标完成情况
+
+- 总时长不超过 2 分 10 秒：**达成**，本次约 2 分 05 秒。
+- 超过 3 秒的停顿不多于 3 次：**未达成**，本次约 5 次。
+- 不出现超过 5 秒的停顿：**未达成**，本次仍有约 1～2 次。
+- 不回头重启已经开始的句子：**基本达成**，只有 `would → could not leave` 一处明显自我修正。
+- 旧箱子只讲一次：**达成**。
+- 由 Philip 收束钥匙情节：**达成**。
+
+### 已经出现的进步
+
+- `was preparing for Grandpa's arrival` 使用正确，补上了上一遍缺失的 `for`。
+- `He didn't want anybody to pick him up because he liked to be independent` 的时态和因果结构基本稳定。
+- `Everyone ... was excited to see Grandpa`、`planned to put together` 和 `as a welcome present` 已经能够连续提取。
+- `welcome present` 连续两轮都能被机器识别，之前的发音卡点基本消除。
+- Philip 上楼放衣架、Susan 来电和 Philip 解释钥匙等后半段情节均有覆盖。
+- 旧箱子没有重复，人物和结尾逻辑比早期复述清晰。
+- 句子重启比上一遍明显减少，整体语速和信息密度都达到本材料的最好水平。
+
+### 当前主要问题
+
+- 长停顿仍集中在三个场景接口：欢迎礼物 → 旧箱子、旧箱子 → Philip 上楼、Susan 来电 → 不能离开。
+- `six o'clock` 仍被识别成类似 `a sister's car`。专有短语识别不稳，需结合原音确认，但值得继续慢速跟读。
+- 准备房间的人物一次被识别为 `Marilyn and Susan`。后文能正确识别 `Marilyn and Ellen`，因此暂时标记为存疑；正确人物应固定为 Ellen 和 Marilyn。
+- `have found the old trunk` 如果确为实际表达，应改成一般过去时 `found the old trunk`。
+- `earlier the morning` 缺少 `that`，应说 `earlier that morning`；更容易自动调用的版本是 `early that morning`。
+- `Grandpa sent him the key` 本身可以表达过去事件，但在 `Philip said...` 的转述中，`Grandpa had sent him the key` 更清楚地表示寄钥匙发生得更早。
+
+### 语音识别需要谨慎判断的部分
+
+| 机器识别 | 推测的实际表达 |
+| -------- | -------------- |
+| `a sister's car, by train` | `at six o'clock, by train` |
+| `pick in him up` | `pick him up` |
+| `Marilyn and Susan` | 可能实际说的是 `Marilyn and Ellen` |
+| `Everyone ... was decided` | `Everyone ... was excited` |
+| `have father-in-law trunk` | `found the old trunk` |
+| `Grandpa's garden` | `Grandpa's closet` |
+| `earlier the morning` | `earlier that morning` / `early that morning` |
+
+## 第三次入库后的优化方法
+
+### 1. 只练三个接口，不再重复背完整剧情
+
+```text
+Richard and Robbie prepared some photos as a welcome present.
+Meanwhile, Ellen and Marilyn found Grandpa's old trunk.
+```
+
+```text
+The trunk was locked. Then Philip came upstairs to put some hangers
+in Grandpa's closet.
+```
+
+```text
+Ellen said Susan had called early that morning. Susan could not leave
+until that evening.
+```
+
+每组连续说 3 遍，要求中间停顿不超过 1 秒。三个接口都稳定以后，只录一次完整复述。
+
+### 2. 使用八句版本，限制临时加细节
+
+```text
+The Stewart family was preparing for Grandpa's arrival.
+He would arrive by train at six that evening.
+He liked to be independent and did not want anyone to pick him up.
+Everyone in the family was excited to see him.
+Richard and Robbie prepared some photos as a welcome present.
+Ellen and Marilyn found Grandpa's old trunk, but it was locked.
+Ellen said Susan had called and could not leave until that evening.
+Philip said Grandpa had sent him the key to the trunk.
+```
+
+如果想不起衣架情节，可以先省略；当前优先级是连续、准确地讲完主线，而不是继续增加细节。
+
+### 3. 下一轮目标
+
+1. 总时长控制在 2 分钟以内。
+2. 超过 3 秒的停顿不多于 3 次。
+3. 不出现超过 5 秒的停顿。
+4. 不重启已经开始的句子。
+5. 固定使用 `early that morning`、`found` 和 `had sent`。
+6. Ellen、Marilyn、Philip 和 Susan 的人物分工不混淆。
+
+## 第三次入库后的复习清单
+
+- [x] 总时长控制在 2 分 10 秒以内
+- [x] 旧箱子只讲一次
+- [x] 由 Philip 收束钥匙情节
+- [x] `welcome present` 能被稳定识别
+- [ ] 总时长控制在 2 分钟以内
+- [ ] 超过 3 秒的停顿不多于 3 次
+- [ ] 不出现超过 5 秒的停顿
+- [ ] 三个场景接口能够连续说出
+- [ ] 稳定使用 `early that morning`、`found` 和 `had sent`
