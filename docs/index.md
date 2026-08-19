@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 自学英语
   text: 以真实输出为核心的个人英语训练仓库
-  tagline: 听 → 复述 → 发现问题 → 提炼表达 → 替换练习 → 再次输出
+  tagline: 专注听力和口语：听 → 复述 → 纠错 → 再次输出
   actions:
     - theme: brand
       text: 简介
@@ -15,10 +15,10 @@ hero:
 
 features:
   - title: 简介
-    details: 当前目标、学习计划、选材标准和训练背景
+    details: 当前目标、以听力和口语为主的每日计划、选材标准和训练背景
     link: /introduce
   - title: 学习方法
-    details: 学习原则、每日训练流程、心得总结、训练用 Prompt
+    details: 学习原则、每日听说训练流程、心得总结、训练用 Prompt
     link: /method/learning-principles
   - title: 训练记录
     details: 走遍美国小节练习、其他听力练习和工作场景练习
