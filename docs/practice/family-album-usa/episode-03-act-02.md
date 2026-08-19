@@ -797,3 +797,293 @@ Their conversation stopped for a moment when the conductor came by.
 - [ ] 补回旧箱子、查票和 New York 家庭成员
 - [ ] 稳定使用 `were both from`、`lived near` 和 `was only`
 - [ ] 周年月份稳定说成 `next month`
+
+## 第三次复述（2026-08-19）
+
+### 原始语音转写
+
+> 说明：以下内容由离线语音模型识别。保留原始结果是为了观察表达和
+> 停顿；识别错误不算口语错误。针对性识别与完整转写在 `luggage
+> rack`、`knew`、`stopped working` 和 `next month` 等位置存在差异，
+> 这些词不单凭机器结果判错。
+
+```text
+In Episode 3 at 2, Grandpa met a woman. Miss Tobin on the train from
+Florida to New York. Grandpa helped Miss Tobin put her suitcase on the
+train.
+
+And then they talked about each other. Miss Tobin went to New York to
+met her friends back her husband. Could not take time out because her
+husband was a aerospace engineer. Her husband was working hard. So he
+didn't have time.
+
+And Miss Tobin and Grandpa both from Titusville, Florida, near Orlando.
+Miss Tobin and her husband lived near Space Bowl. Grandpa noted earlier
+because Grandpa's old house was only a few miles away.
+
+And then they talked about marriages. Grandpa's wife. By four years
+ago, Grandpa said they had a lot of memories. And he missed her very
+much. Miss Tobin and her husband were ready to celebrate their 40th
+anniversary last month.
+
+And then Miss Tobin asked Grandpa why he started working. Grandpa said
+he didn't want to be alone anymore. He wanted to be with the family.
+```
+
+### 音频数据
+
+- 总时长：约 3 分 19 秒
+- 机器识别词数：约 168 词
+- 包含停顿的整体语速：约 51 词/分钟
+- 有效发声约 73 秒，静音约 125 秒，静音约占复述过程的 63%
+- 发声状态下的语速约 139 词/分钟
+- 约有 10 处超过 3 秒的停顿，其中约 1 处超过 5 秒
+- 最长停顿约 5.2 秒
+
+> 本次背景噪声高于前两次，因此按实际分布将阈值调整为 350。阈值在
+> 325～400 之间时，超过 3 秒的停顿稳定为约 10 处，超过 5 秒的停顿
+> 稳定为约 1 处，最长停顿约 5.2 秒。
+
+### 与前两次相比
+
+这是同一材料的第三次复述，可以直接观察延迟复习后的提取稳定性。
+
+| 指标            | 第一次 | 第二次 | 第三次 |
+| --------------- | -----: | -----: | -----: |
+| 总时长          | 约 5 分 15 秒 | 约 3 分 07 秒 | 约 3 分 19 秒 |
+| 机器识别词数    | 约 213 词 | 约 170 词 | 约 168 词 |
+| 整体语速        | 约 41 词/分钟 | 约 55 词/分钟 | 约 51 词/分钟 |
+| 发声语速        | 约 139 词/分钟 | 约 150 词/分钟 | 约 139 词/分钟 |
+| 静音占比        | 约 71% | 约 64% | 约 63% |
+| 超过 3 秒的停顿 | 约 20 处 | 约 6 处 | 约 10 处 |
+| 超过 5 秒的停顿 | 约 7 处 | 约 2 处 | 约 1 处 |
+| 最长停顿        | 约 11.7 秒 | 约 5.9 秒 | 约 5.2 秒 |
+
+与第二次相比，本次词数基本不变，但总时长增加约 12 秒，整体语速从约
+55 降到约 51 词/分钟，超过 3 秒的停顿从约 6 处回升到约 10 处。说明
+五天后的提取出现了一些回生，句子之间比第二次更碎。
+
+不过，严重断线仍在改善：超过 5 秒的停顿从约 2 处降到约 1 处，最长
+停顿从约 5.9 秒缩短到约 5.2 秒。静音占比也没有回升。因此这次更准确
+的结论是“中等停顿变多，但没有重新出现长时间完全卡住”，不是整体退
+回第一次的水平。
+
+### 上一轮目标完成情况
+
+- 总时长不超过 3 分钟：**未达成**，本次约 3 分 19 秒。
+- 机器识别词数不少于 175 词：**未达成**，本次约 168 词，差约 7 词。
+- 超过 3 秒的停顿不多于 4 次：**未达成**，本次约 10 次。
+- 不出现超过 5 秒的停顿：**未达成**，本次约有 1 次。
+- 补回旧箱子、查票和 New York 家庭成员：**未达成**，三项仍然缺失。
+- 稳定使用 `were both from`、`lived near` 和 `was only`：**部分达成**。
+  `lived near` 和 `was only` 已出现，但 `were both from` 仍缺少 `were`。
+- 周年月份使用 `next month`：**存疑**。完整转写为 `last month`，针对性
+  识别为 `next month`，暂不直接判错。
+
+### 已经保持住的进步
+
+- 固定开头仍然稳定，能够立即交代 Act、人物、交通工具和行程，没有
+  回到早期在开头反复组织句子的状态。
+- `lived near Spaceport` 和 `old house was only a few miles away` 已经
+  基本形成固定表达，上一轮缺少介词和谓语的问题有所改善。
+- `could not take time off`、`aerospace engineer`、`four years ago` 和
+  `didn't want to be alone anymore` 等关键信息仍能提取。
+- 婚姻回忆的情感线比第一次清楚：能够说出 Grandpa 有很多回忆，并且
+  非常想念妻子。
+- 没有超过 6 秒的停顿，卡住以后都还能继续推进故事。
+
+### 当前主要问题
+
+- **延迟复习后的连续性不够稳定**：内容量与第二次几乎相同，却多出约
+  4 次三秒以上停顿。需要练的是情节接口，不是继续加快发声速度。
+- 上一轮要求补回的三个情节点仍未出现，说明它们还没有进入长期记忆；
+  继续只做整篇复述，很容易每次都沿用同一套删减版。
+- 本次还漏掉了 Grandpa 的建筑公司以及 47 年婚姻，内容覆盖反而比
+  第二次更少。40 周年虽然保留，但两组婚姻数字没有同时出现。
+- `Mrs. Tobin and Grandpa both from...` 仍缺少系动词 `were`。这已经连续
+  两次出现，应该把整个短语作为一个单位练习。
+- `an aerospace engineer` 的冠词仍不稳定，完整转写为
+  `a aerospace engineer`。
+- 结尾的核心意思正确，但 `with the family` 不如 `with his family`
+  明确；应保持 Grandpa 为整句主语。
+- 情节顺序仍与原故事有较大压缩，工作、旧箱子、查票和 New York 家庭
+  信息全部被跳过，使中后段只剩婚姻回忆和退休动机。
+
+### 语音识别需要谨慎判断的部分
+
+| 机器识别 | 推测的实际表达 |
+| -------- | -------------- |
+| `Episode 3 at 2` | `Episode 3, Act 2` |
+| `on the train` | 针对性识别出现 `on the luggage rack` |
+| `to met her friends` | 另一版识别为 `to meet her friends` |
+| `Space Bowl` | `Spaceport` |
+| `noted earlier` | 针对性识别为 `knew the area` |
+| `Grandpa's wife. By four years ago` | 另一版识别为 `wife died four years ago` |
+| `last month` | 针对性识别为 `next month` |
+| `started working` | 另一版识别为 `stopped working` |
+
+其中 `luggage rack`、`knew the area`、`wife died` 和 `stopped working`
+都有较强的上下文支持，不计为本次口语错误。
+
+## 第三次复述暴露的表达问题
+
+### 1. met a woman. Mrs. Tobin
+
+不要把人物姓名拆成残句：
+
+```text
+Grandpa met a woman named Mrs. Tobin on the train.
+```
+
+### 2. went to New York to met her friends
+
+如果原音确实使用了 `met`，应改为：
+
+```text
+Mrs. Tobin went to New York to meet her friends.
+```
+
+`to` 后使用动词原形 `meet`。
+
+### 3. a aerospace engineer
+
+原表达：
+
+```text
+Her husband was a aerospace engineer.
+```
+
+建议：
+
+```text
+Her husband was an aerospace engineer.
+```
+
+`aerospace` 以元音音素开头，因此使用 `an`。
+
+### 4. both from Titusville
+
+原表达：
+
+```text
+Mrs. Tobin and Grandpa both from Titusville, Florida.
+```
+
+固定为：
+
+```text
+Mrs. Tobin and Grandpa were both from Titusville, Florida.
+```
+
+也可以使用更短的版本：
+
+```text
+They were both from Titusville, Florida.
+```
+
+### 5. were ready to celebrate
+
+原表达：
+
+```text
+Mrs. Tobin and her husband were ready to celebrate their fortieth
+anniversary next month.
+```
+
+`were ready to celebrate` 更像已经准备好举行庆祝。这里建议说：
+
+```text
+Mrs. Tobin and her husband would celebrate their fortieth anniversary
+the next month.
+```
+
+### 6. wanted to be with the family
+
+原表达：
+
+```text
+He wanted to be with the family.
+```
+
+建议：
+
+```text
+He wanted to be with his family.
+```
+
+`his family` 能明确表示 Grandpa 自己的家人。
+
+## 第三次复述的修正版
+
+```text
+In Episode 3, Act 2, Grandpa met a woman named Mrs. Tobin on a train
+from Florida to New York. He helped her put her suitcase on the luggage
+rack. They talked and discovered that they were both from Titusville,
+Florida, near Orlando.
+
+Mrs. Tobin and her husband lived near Spaceport. Grandpa knew the area
+because his old house was only a few miles away. Mrs. Tobin was going
+to New York to visit some close friends. Her husband could not take
+time off because he was an aerospace engineer.
+
+Then they talked about their marriages. Grandpa's wife had died four
+years earlier. They had been married for forty-seven years, and he had
+many wonderful memories of her. Mrs. Tobin and her husband would
+celebrate their fortieth anniversary the next month.
+
+Mrs. Tobin asked Grandpa why he had stopped working. He said he wanted
+to be with his family because he did not want to be alone anymore.
+```
+
+## 第三次复述后的优化方法
+
+### 1. 暂停整篇复述，先做缺失信息插入练习
+
+连续两次都漏掉同样的内容，说明只重复整篇不会自动补齐。先把下面四句
+分别说 3 遍：
+
+```text
+Grandpa had owned a construction company before he retired.
+He had sold his house and sent an old trunk to his children.
+The conductor asked Mrs. Tobin for her ticket after she changed seats.
+Grandpa had a son, a daughter-in-law, and three grandchildren in
+New York.
+```
+
+然后只练下面这一段，不从故事开头说起：
+
+```text
+work → old trunk → marriage → ticket → New York family → retirement
+```
+
+### 2. 把两个反复出错的结构练成语块
+
+```text
+They were both from Titusville.
+He was an aerospace engineer.
+```
+
+每句正常速度说 5 遍，再各造一个新句。练习时不拆词，不临时替换结构。
+
+### 3. 下一次量化目标
+
+1. 先完成缺失信息插入练习，再录一次完整复述。
+2. 总时长控制在 3 分 15 秒以内。
+3. 机器识别词数不少于 185 词，确保补回重要内容。
+4. 超过 3 秒的停顿不多于 6 次。
+5. 不出现超过 5 秒的停顿。
+6. 必须说出建筑公司、旧箱子、查票、New York 家庭和 47 年婚姻。
+7. 稳定说出 `were both from`、`an aerospace engineer` 和 `his family`。
+
+## 第三次复述后的复习清单
+
+- [x] 固定开头和结尾保持稳定
+- [x] `lived near` 和 `was only` 能够正确使用
+- [x] 严重停顿没有回到第一次的水平
+- [ ] 完成缺失信息插入练习
+- [ ] 总时长控制在 3 分 15 秒以内
+- [ ] 机器识别词数不少于 185 词
+- [ ] 超过 3 秒的停顿不多于 6 次
+- [ ] 不出现超过 5 秒的停顿
+- [ ] 补回五个缺失情节点
+- [ ] 稳定使用两个目标语块和 `his family`
