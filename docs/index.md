@@ -11,7 +11,7 @@ hero:
       link: /introduce
     - theme: alt
       text: 最新练习
-      link: /practice/family-album-usa/episode-03-act-02
+      link: /practice/daily-retelling/2026-08-20
 
 features:
   - title: 简介
@@ -21,7 +21,7 @@ features:
     details: 学习原则、每日听说训练流程、心得总结、训练用 Prompt
     link: /method/learning-principles
   - title: 训练记录
-    details: 走遍美国小节练习、其他听力练习和工作场景练习
+    details: 走遍美国、每日回顾、其他听力练习和工作场景练习
     link: /practice/family-album-usa/
   - title: 错误记录
     details: 反复出现的问题、语法错误、容易混淆的词、发音问题

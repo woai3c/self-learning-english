@@ -42,6 +42,13 @@ export default defineConfig({
                 { text: "Ep3 Act2 Grandpa's Trunk", link: '/practice/family-album-usa/episode-03-act-02' },
               ],
             },
+            {
+              text: '每日回顾',
+              items: [
+                { text: '说明', link: '/practice/daily-retelling/' },
+                { text: '2026-08-20 What I Did Today', link: '/practice/daily-retelling/2026-08-20' },
+              ],
+            },
             { text: '听力练习', link: '/practice/listening/' },
             { text: '工作场景', link: '/practice/work-scenarios/' },
           ],
