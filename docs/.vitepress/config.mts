@@ -9,6 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '简介', link: '/introduce' },
       { text: '学习方法', link: '/method/learning-principles' },
+      { text: '语言块', link: '/expressions/' },
       { text: '训练记录', link: '/practice/family-album-usa/' },
       { text: '错误记录', link: '/mistakes/recurring-mistakes' },
       { text: '语法', link: '/grammar/intro' },
@@ -24,6 +25,18 @@ export default defineConfig({
             { text: '每日训练流程', link: '/method/daily-workflow' },
             { text: '学习心得', link: '/method/lessons-learned' },
             { text: '训练用 Prompt', link: '/method/prompts' },
+          ],
+        },
+      ],
+      '/expressions/': [
+        {
+          text: '语言块',
+          items: [
+            { text: '说明', link: '/expressions/' },
+            { text: '日常生活', link: '/expressions/daily-communication' },
+            { text: '工作交流', link: '/expressions/work-communication' },
+            { text: '通用对话', link: '/expressions/conversation' },
+            { text: '常用搭配', link: '/expressions/collocations' },
           ],
         },
       ],

@@ -20,6 +20,9 @@ features:
   - title: 学习方法
     details: 学习原则、每日听说训练流程、心得总结、训练用 Prompt
     link: /method/learning-principles
+  - title: 语言块
+    details: 日常生活和工作交流中可以直接使用的高频表达及例句
+    link: /expressions/
   - title: 训练记录
     details: 走遍美国、每日回顾、其他听力练习和工作场景练习
     link: /practice/family-album-usa/
