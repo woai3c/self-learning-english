@@ -6,12 +6,15 @@
 
 个人英语自学仓库,基于 VitePress 文档站(`pnpm dev` / `pnpm build`),核心理念是"以真实输出为核心":听 → 复述 → 发现问题 → 提炼表达 → 替换练习 → 再次输出 → 定期复盘。
 
-主要练习材料:Family Album, U.S.A.(走遍美国),按集数(episode)和小节(act)进行脱稿复述。
+当前听力约 B1、口语约 A2。主线是工作英语:B1 分级职场听力，以及会议、技术
+解释、Bug、需求、异步协作和面试输出。Family Album, U.S.A.(走遍美国)的历史
+练习记录继续保留，
+但不再作为当前精听主线。
 
 目录结构:
 
 - `docs/method/` 学习方法
-- `docs/practice/` 训练记录(当前主要是 `family-album-usa/`)
+- `docs/practice/` 训练材料与记录(含听力材料、工作场景和历史练习)
 - `docs/mistakes/` 错误记录
 - `docs/grammar/` 语法知识(曾被误删,已恢复)
 - `docs/pronunciation/` 发音知识:音标、音素、连读、重读、意群(曾被误删,已恢复)

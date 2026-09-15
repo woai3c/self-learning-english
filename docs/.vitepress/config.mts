@@ -3,14 +3,15 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/self-learning-english/',
   title: '自学英语',
-  description: '以真实输出为核心的个人英语训练仓库',
+  description: '以实际工作交流为目标的英语训练仓库',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
       { text: '简介', link: '/introduce' },
       { text: '学习方法', link: '/method/learning-principles' },
       { text: '语言块', link: '/expressions/' },
-      { text: '训练记录', link: '/practice/family-album-usa/' },
+      { text: '听力材料', link: '/practice/listening/' },
+      { text: '训练', link: '/practice/' },
       { text: '错误记录', link: '/mistakes/recurring-mistakes' },
       { text: '语法', link: '/grammar/intro' },
       { text: '发音', link: '/pronunciation/intro' },
@@ -33,10 +34,10 @@ export default defineConfig({
           text: '语言块',
           items: [
             { text: '说明', link: '/expressions/' },
-            { text: '日常生活', link: '/expressions/daily-communication' },
             { text: '工作交流', link: '/expressions/work-communication' },
             { text: '通用对话', link: '/expressions/conversation' },
             { text: '常用搭配', link: '/expressions/collocations' },
+            { text: '日常生活', link: '/expressions/daily-communication' },
           ],
         },
       ],
@@ -44,6 +45,9 @@ export default defineConfig({
         {
           text: '训练记录',
           items: [
+            { text: '说明', link: '/practice/' },
+            { text: '听力材料', link: '/practice/listening/' },
+            { text: '工作场景', link: '/practice/work-scenarios/' },
             {
               text: '走遍美国',
               items: [
@@ -62,8 +66,6 @@ export default defineConfig({
                 { text: '2026-08-20 What I Did Today', link: '/practice/daily-retelling/2026-08-20' },
               ],
             },
-            { text: '听力练习', link: '/practice/listening/' },
-            { text: '工作场景', link: '/practice/work-scenarios/' },
           ],
         },
       ],

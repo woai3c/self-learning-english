@@ -1,5 +1,21 @@
 # 工作交流语言块
 
+这一页以真实的技术工作交流为中心。目标不是使用复杂、正式的英语，而是用
+简单完整的句子参加会议、解释技术问题、确认任务并推动工作。
+
+## A2 阶段的学习顺序
+
+页面用于完整查阅，不需要从第 1 条背到最后一条。每次只选择 3～5 个语言块，
+用当前项目替换例句，再把它们放进一段 60～90 秒的工作场景输出中。
+
+1. 先学习“听不清、远程会议和争取时间”，保证听不懂时仍能继续交流。
+2. 再练“汇报进度”“描述 Bug”和“澄清需求”，覆盖最常见的团队对话。
+3. 接着练“解释代码、系统和数据流”，把已经会的技术知识说成简单英语。
+4. 最后加入方案讨论、代码评审、发布事故、异步协作和面试表达。
+
+每一轮不追求说得像母语者。先做到：听不清时会确认、回答问题时不长时间沉默、
+技术解释有清楚的顺序、会议结束时知道下一步由谁完成。
+
 ## 汇报进度
 
 ### 1. `I'm currently working on ...`
@@ -529,3 +545,588 @@
 - We have a temporary workaround for affected users.
 - We have a temporary workaround while we investigate the root cause.
 - We have a temporary workaround, but we still need a permanent fix.
+
+## 听不清、远程会议和争取时间
+
+### 65. `I didn't catch the last part.`
+
+表示没有听清最后一部分。比只说 `What?` 更具体，也更适合会议。
+
+- Sorry, I didn't catch the last part.
+- I heard the first point, but I didn't catch the last part.
+- I didn't catch the part about the deadline.
+- I didn't catch what you said after “API gateway”.
+
+### 66. `Could you say that again a little more slowly?`
+
+请对方放慢速度再说一次。A2 阶段可以直接说明自己需要更慢的语速。
+
+- Could you say that again a little more slowly?
+- Could you repeat the question a little more slowly?
+- Could you go over the last step again?
+- Could you explain that again in a simpler way?
+
+### 67. `Did you say ...?`
+
+重复自己听到的关键词，请对方确认。即使没有听懂整句，也可以用这种方式自救。
+
+- Did you say the release is on Friday?
+- Did you say we should keep the old API?
+- Did you say this only happens on mobile?
+- Did you say you need the change today?
+
+### 68. `So, if I understand correctly, ...`
+
+用自己的话复述理解。需求、方案和任务分工都适用。
+
+- So, if I understand correctly, we only need to change the frontend.
+- So, if I understand correctly, the backend work is already done.
+- So, if I understand correctly, this is not part of the current release.
+- So, if I understand correctly, I should send you an update tomorrow.
+
+### 69. `I need a moment to check ...`
+
+需要查看代码、文档或数据时，用来争取合理的思考时间。
+
+- I need a moment to check the code.
+- I need a moment to check the ticket.
+- I need a moment to look at the logs.
+- I need a moment to confirm the current behavior.
+
+### 70. `I'm not sure yet. Let me check and get back to you.`
+
+不知道答案时先承认，再承诺确认。不要为了立即回答而猜测。
+
+- I'm not sure yet. Let me check and get back to you.
+- I don't know the exact number. Let me check and get back to you.
+- I'm not sure why it failed. I'll check the logs and get back to you.
+- I need to confirm that with the backend team. I'll get back to you today.
+
+### 71. `You're breaking up.`
+
+表示对方的声音因网络问题断断续续。
+
+- Sorry, you're breaking up.
+- You're breaking up. Could you say that again?
+- Your audio is breaking up a little.
+- I can hear you, but you're breaking up.
+
+### 72. `There seems to be a delay.`
+
+说明通话存在声音或画面延迟。
+
+- There seems to be a delay.
+- There seems to be a delay in the audio.
+- I think there is a short delay on my side.
+- The screen seems to be a few seconds behind.
+
+### 73. `Let me share my screen.`
+
+准备通过共享屏幕演示代码、设计或问题。
+
+- Let me share my screen.
+- Let me share my screen and show you the issue.
+- I'll share my screen so you can see the current behavior.
+- Let me show you the error in the browser.
+
+### 74. `Can you see my screen?`
+
+共享屏幕后确认对方是否能看到。
+
+- Can you see my screen?
+- Can everyone see my screen?
+- Can you see the code on the left?
+- Is the text large enough to read?
+
+### 75. `I'll put the link in the chat.`
+
+表示将文档、工单或 Pull Request 链接发到会议聊天中。
+
+- I'll put the link in the chat.
+- I'll put the ticket in the chat.
+- I'll share the pull request in the chat.
+- I'll send the document after the meeting as well.
+
+## 解释代码、系统和数据流
+
+### 76. `At a high level, ...`
+
+先给出整体解释，不立即进入实现细节。
+
+- At a high level, the service receives a request and returns user data.
+- At a high level, we have a frontend, an API, and a database.
+- At a high level, this job imports data from the old system.
+- At a high level, the cache helps us reduce database requests.
+
+### 77. `This part is responsible for ...`
+
+说明某个组件、服务或函数的职责。
+
+- This part is responsible for user authentication.
+- This service is responsible for sending emails.
+- This function is responsible for checking the input.
+- The backend is responsible for saving the data.
+
+### 78. `We use ... to ...`
+
+用简单句说明工具或技术的用途。
+
+- We use Redis to cache the results.
+- We use this token to identify the user.
+- We use a queue to process the jobs in the background.
+- We use feature flags to control the release.
+
+### 79. `First ..., then ..., and finally ...`
+
+按顺序解释流程。复杂流程也应先拆成几个简单步骤。
+
+- First, the user logs in, then we create a token, and finally we return it.
+- First, we validate the input, then we save the data.
+- First, the request reaches the API, and then the API calls the database.
+- First, we run the tests, then we deploy, and finally we monitor the service.
+
+### 80. `The request goes through ...`
+
+说明请求经过的组件或服务。
+
+- The request goes through the API gateway.
+- The request goes through the authentication service first.
+- The data goes through two validation steps.
+- The request goes through the cache before it reaches the database.
+
+### 81. `This value comes from ...`
+
+说明数据、配置或页面值的来源。
+
+- This value comes from the API.
+- This value comes from the environment configuration.
+- The user ID comes from the access token.
+- The text on this page comes from the translation file.
+
+### 82. `This depends on ...`
+
+说明一项功能依赖的条件、服务或决定。
+
+- This depends on the backend change.
+- This depends on which account the user has.
+- The release date depends on the test results.
+- This feature depends on a service owned by another team.
+
+### 83. `The reason we chose ... is that ...`
+
+解释技术选择背后的主要原因。
+
+- The reason we chose this approach is that it is easier to maintain.
+- The reason we chose PostgreSQL is that the data is relational.
+- The reason we kept the old API is that some clients still use it.
+- The reason we cache the result is that the request is expensive.
+
+### 84. `For now, we're keeping it simple.`
+
+表示当前版本主动限制复杂度，以后可以再扩展。
+
+- For now, we're keeping it simple.
+- For now, we're only supporting one account per user.
+- For now, we're using the existing database.
+- We can add more options later, but for now, we're keeping it simple.
+
+### 85. `Let me show you where this happens.`
+
+从口头解释转到代码、日志或界面中的具体位置。
+
+- Let me show you where this happens.
+- Let me show you the relevant part of the code.
+- Let me show you the request in the network panel.
+- Let me show you where the value changes.
+
+## 异步协作、时区和工作交接
+
+### 86. `Here's a quick update on ...`
+
+在聊天或异步站会中简短汇报进度。
+
+- Here's a quick update on the login issue.
+- Here's a quick update on what I finished today.
+- Here's a quick update before I sign off.
+- Here's a quick update on the release: all tests are passing.
+
+### 87. `When you get a chance, could you ...?`
+
+请求对方处理非紧急事项，适合跨时区协作。
+
+- When you get a chance, could you review my pull request?
+- When you get a chance, could you check the latest design?
+- When you get a chance, could you confirm the expected behavior?
+- When you get a chance, could you add your comments to the ticket?
+
+### 88. `No need to reply right away.`
+
+明确说明消息不需要即时回复，减少异步协作中的压力。
+
+- No need to reply right away.
+- No need to reply right away. This can wait until tomorrow.
+- This isn't urgent, so no need to reply right away.
+- No need to look at this outside your working hours.
+
+### 89. `I'm in the UTC+8 time zone.`
+
+说明自己所在的时区。远程求职和跨国团队协作都会用到。
+
+- I'm in the UTC+8 time zone.
+- I'm based in China and work in the UTC+8 time zone.
+- I can overlap with your morning for four hours.
+- I'm available from 2 p.m. to 6 p.m. your time.
+
+### 90. `I'll be offline after ...`
+
+提前说明下线时间或不可用时间。
+
+- I'll be offline after 7 p.m. my time.
+- I'll be offline for the next two hours.
+- I'll be away tomorrow morning but available in the afternoon.
+- I'll finish this before I go offline.
+
+### 91. `I'll leave a note in ...`
+
+说明会把进展或上下文记录在团队工具中。
+
+- I'll leave a note in the ticket.
+- I'll leave a summary in Slack.
+- I'll add the test results to the pull request.
+- I'll document the decision before I sign off.
+
+### 92. `I'll hand this over to ...`
+
+把任务或故障处理交接给另一个人或团队。
+
+- I'll hand this over to the US team.
+- I'll hand this over to Mia before I sign off.
+- I'll write a short summary and hand this over to the on-call engineer.
+- The backend work is done, so I'll hand this over to the frontend team.
+
+### 93. `Could we continue this asynchronously?`
+
+建议把不需要实时讨论的内容转到文档、工单或聊天中。
+
+- Could we continue this asynchronously?
+- Could we continue this discussion in the ticket?
+- I need to check the code first. Could we continue this in Slack?
+- We don't need another meeting. We can finish this asynchronously.
+
+## 远程面试、项目介绍和 Demo
+
+### 94. `I work mainly with ...`
+
+简单介绍自己的主要技术栈或工作领域。
+
+- I work mainly with JavaScript and TypeScript.
+- I work mainly on frontend applications.
+- I work mainly with Vue and Node.js.
+- I work mainly on APIs and backend services.
+
+### 95. `My role is to ...`
+
+说明自己在团队或项目中的主要职责。
+
+- My role is to build and maintain the frontend.
+- My role is to turn product requirements into working features.
+- My role is to review code and help with technical decisions.
+- My role is to make sure the service is stable.
+
+### 96. `One project I'd like to talk about is ...`
+
+面试或自我介绍中自然地引出一个项目。
+
+- One project I'd like to talk about is an internal dashboard.
+- One project I'd like to talk about is a payment system I helped build.
+- One project I'd like to talk about is a migration from Vue 2 to Vue 3.
+- One project I'd like to talk about is a tool for monitoring API errors.
+
+### 97. `The goal of the project was to ...`
+
+先说明项目解决的问题，再讲技术细节。
+
+- The goal of the project was to reduce manual work.
+- The goal of the project was to make the checkout process faster.
+- The goal of the project was to replace an old internal system.
+- The goal of the project was to help the support team find errors quickly.
+
+### 98. `I was responsible for ...`
+
+准确说明自己承担的工作，不把团队成果全部说成个人成果。
+
+- I was responsible for the frontend implementation.
+- I was responsible for designing the API.
+- I was responsible for testing and deploying the service.
+- I was responsible for working with the designer and backend developer.
+
+### 99. `The biggest challenge was ...`
+
+引出项目中的困难，随后说明采取的行动。
+
+- The biggest challenge was the limited time.
+- The biggest challenge was understanding the old code.
+- The biggest challenge was keeping the old clients working.
+- The biggest challenge was finding the cause of an intermittent bug.
+
+### 100. `What I did was ...`
+
+说明自己为解决问题采取的具体行动。
+
+- What I did was add more logging.
+- What I did was split the work into smaller tasks.
+- What I did was create a small test before changing the main code.
+- What I did was talk to the users and confirm what they needed.
+
+### 101. `As a result, ...`
+
+说明行动带来的可观察结果。面试回答不要只停留在“我做了什么”。
+
+- As a result, the page loaded twice as fast.
+- As a result, we reduced the number of support tickets.
+- As a result, the team finished the migration on time.
+- As a result, we found the problem before the release.
+
+### 102. `Let me give you a quick demo.`
+
+开始一个简短的产品或功能演示。
+
+- Let me give you a quick demo.
+- Let me give you a quick demo of the new login flow.
+- I'll start with the main user journey.
+- Let me show you what changed in this version.
+
+### 103. `On this screen, you can ...`
+
+演示时说明当前页面提供的操作。
+
+- On this screen, you can create a new project.
+- On this screen, you can see all failed requests.
+- On this screen, you can change your notification settings.
+- On this screen, you can filter the results by date.
+
+### 104. `If I click ..., ...`
+
+一边操作一边说明界面行为。
+
+- If I click this button, the form opens.
+- If I click Save, the page shows a confirmation message.
+- If I select a user, I can see their recent activity.
+- If I turn this option off, we return to the old behavior.
+
+### 105. `This part is still in progress.`
+
+在 Demo 中诚实说明尚未完成或不稳定的部分。
+
+- This part is still in progress.
+- The mobile layout is still in progress.
+- This button doesn't work yet because the API isn't ready.
+- The main flow works, but the error handling is still in progress.
+
+## 需求边界和客户沟通
+
+### 106. `The user needs to be able to ...`
+
+用用户能够完成的动作描述需求，避免一开始就讨论实现方式。
+
+- The user needs to be able to reset their password.
+- The user needs to be able to download the report.
+- Admin users need to be able to see all accounts.
+- The user needs to be able to finish this without contacting support.
+
+### 107. `What should happen if ...?`
+
+询问异常条件或边界情况的预期行为。
+
+- What should happen if the request fails?
+- What should happen if the user is offline?
+- What should happen if there are no results?
+- What should happen if two people edit the same record?
+
+### 108. `Does this need to work for ...?`
+
+确认功能支持的平台、用户类型或数据范围。
+
+- Does this need to work for existing users?
+- Does this need to work on mobile?
+- Does this need to work in all regions?
+- Does this need to work with the old API?
+
+### 109. `How will we know this is done?`
+
+确认完成标准。也可以进一步询问具体的验收条件。
+
+- How will we know this is done?
+- What are the acceptance criteria for this task?
+- Does this need to include automated tests?
+- Who will give the final approval?
+
+### 110. `That's outside the current scope.`
+
+说明某项要求不在当前已经同意的工作范围内。
+
+- That's outside the current scope.
+- The mobile app is outside the scope of this task.
+- Supporting the old browser wasn't included in the original scope.
+- We can discuss it, but it is outside the current scope.
+
+### 111. `We can include that in ...`
+
+不直接拒绝额外需求，而是提出可以安排它的阶段。
+
+- We can include that in the next release.
+- We can include that in a separate task.
+- We can include that if we move the deadline.
+- We can include the basic version now and improve it later.
+
+### 112. `Would it be OK if we ...?`
+
+提出一个更简单或更现实的交付方式，请客户或产品经理确认。
+
+- Would it be OK if we released this next week?
+- Would it be OK if we supported desktop first?
+- Would it be OK if we used the existing design for now?
+- Would it be OK if we sent the report by email instead?
+
+### 113. `I'll send a summary after the meeting.`
+
+说明会在会后发送决定、问题和下一步行动。
+
+- I'll send a summary after the meeting.
+- I'll send the action items after the call.
+- I'll update the ticket with what we decided.
+- I'll include the open questions in the summary.
+
+### 114. `Please let me know if I missed anything.`
+
+邀请对方检查自己的总结是否完整。
+
+- Please let me know if I missed anything.
+- Please correct me if I misunderstood the requirement.
+- Let me know if anything in the summary is incorrect.
+- Please add a comment if you think we need another step.
+
+### 115. `Is there anything else you need from me?`
+
+在会议、交接或客户沟通结束前确认是否还有遗漏事项。
+
+- Is there anything else you need from me?
+- Is there anything else I should check?
+- Do you need any more information before you decide?
+- Is there anything else we should cover before we finish?
+
+## 完整场景串联练习
+
+下面的对话不是新的背诵清单。每次选一段，替换项目、任务、时间和技术名词，
+练习如何把多个语言块连起来。
+
+### 场景一：没有听清需求
+
+> **PM:** We need to change the behavior for existing users as well.
+>
+> **You:** Sorry, I didn't catch the last part. Did you say existing users?
+>
+> **PM:** Yes, both new and existing users.
+>
+> **You:** So, if I understand correctly, this change applies to everyone.
+>
+> **PM:** That's right.
+
+### 场景二：远程站会
+
+> **You:** Yesterday, I finished the login page and opened a pull request.
+>
+> **You:** Today, I'm working on the API integration.
+>
+> **You:** I'm blocked by a permissions issue. I need help from the backend team.
+>
+> **Lead:** When do you think you can finish it?
+>
+> **You:** If the permissions issue is fixed today, I should finish it tomorrow.
+
+### 场景三：描述和排查 Bug
+
+> **You:** The main issue is that users can't save their settings.
+>
+> **You:** What I expected was a confirmation message. What actually happened was
+> that the page went blank.
+>
+> **Colleague:** Can you reproduce it?
+>
+> **You:** Yes. I can reproduce it by clicking Save twice. It looks like the
+> second request is causing the problem.
+
+### 场景四：解释系统流程
+
+> **You:** At a high level, we have a frontend, an API, and a database.
+>
+> **You:** First, the user submits the form. Then the request goes through the API
+> gateway. Finally, the backend saves the data.
+>
+> **Colleague:** Where does the user ID come from?
+>
+> **You:** It comes from the access token. Let me show you the relevant code.
+
+### 场景五：讨论不同方案
+
+> **Colleague:** I think we should rewrite this service.
+>
+> **You:** I see your point, but a full rewrite could take several months.
+>
+> **You:** Another option would be to replace one part at a time.
+>
+> **Colleague:** What is the trade-off?
+>
+> **You:** It will take longer to remove the old code, but the release will be
+> less risky.
+
+### 场景六：异步交接
+
+> **You:** Here's a quick update before I sign off. The fix is deployed, and the
+> error rate is back to normal.
+>
+> **You:** I'll leave the logs and test results in the ticket.
+>
+> **You:** I'll hand this over to the US team for monitoring. No need to reply
+> right away unless the error rate increases again.
+
+### 场景七：面试中介绍项目
+
+> **Interviewer:** Could you tell me about a project you're proud of?
+>
+> **You:** One project I'd like to talk about is an internal monitoring tool.
+> The goal was to help our support team find errors more quickly.
+>
+> **You:** I was responsible for the frontend and API integration. The biggest
+> challenge was processing a large amount of data.
+>
+> **You:** What I did was add pagination and caching. As a result, the page loaded
+> much faster.
+
+### 场景八：功能 Demo
+
+> **You:** Let me give you a quick demo of the new settings page.
+>
+> **You:** On this screen, users can change their notification settings. If I
+> turn this option off and click Save, a confirmation message appears.
+>
+> **You:** The main flow works, but the mobile layout is still in progress.
+>
+> **You:** That's everything I wanted to show. Do you have any questions?
+
+### 场景九：客户提出额外需求
+
+> **Client:** Can you add mobile support to this release as well?
+>
+> **You:** Mobile support is outside the current scope. We can include it in a
+> separate task, but we need to discuss the timeline.
+>
+> **Client:** Could you support the main flow first?
+>
+> **You:** Yes. Would it be OK if we supported the main flow now and added the
+> other screens in the next release?
+>
+> **Client:** That works for us.
+>
+> **You:** Great. I'll send a summary after the meeting. Please let me know if I
+> missed anything.
