@@ -1,20 +1,17 @@
 # 工作交流语言块
 
-这一页以真实的技术工作交流为中心。目标不是使用复杂、正式的英语，而是用
-简单完整的句子参加会议、解释技术问题、确认任务并推动工作。
+这一页以真实的技术工作交流为中心。目标不是使用复杂、正式的英语，而是用简单完整的句子参加会议、解释技术问题、确认任务并推动工作。
 
 ## A2 阶段的学习顺序
 
-页面用于完整查阅，不需要从第 1 条背到最后一条。每次只选择 3～5 个语言块，
-用当前项目替换例句，再把它们放进一段 60～90 秒的工作场景输出中。
+页面用于完整查阅，不需要从第 1 条背到最后一条。每次只选择 3～5 个语言块，用当前项目替换例句，再把它们放进一段 60～90 秒的工作场景输出中。
 
 1. 先学习“听不清、远程会议和争取时间”，保证听不懂时仍能继续交流。
 2. 再练“汇报进度”“描述 Bug”和“澄清需求”，覆盖最常见的团队对话。
 3. 接着练“解释代码、系统和数据流”，把已经会的技术知识说成简单英语。
-4. 最后加入方案讨论、代码评审、发布事故、异步协作和面试表达。
+4. 最后加入方案讨论、代码评审、发布事故、异步协作、项目介绍和技术问答。
 
-每一轮不追求说得像母语者。先做到：听不清时会确认、回答问题时不长时间沉默、
-技术解释有清楚的顺序、会议结束时知道下一步由谁完成。
+每一轮不追求说得像母语者。先做到：听不清时会确认、回答问题时不长时间沉默、技术解释有清楚的顺序、会议结束时知道下一步由谁完成。
 
 ## 汇报进度
 
@@ -770,7 +767,7 @@
 
 ### 89. `I'm in the UTC+8 time zone.`
 
-说明自己所在的时区。远程求职和跨国团队协作都会用到。
+说明自己所在的时区。跨时区会议和团队协作都会用到。
 
 - I'm in the UTC+8 time zone.
 - I'm based in China and work in the UTC+8 time zone.
@@ -813,7 +810,7 @@
 - I need to check the code first. Could we continue this in Slack?
 - We don't need another meeting. We can finish this asynchronously.
 
-## 远程面试、项目介绍和 Demo
+## 个人介绍、项目介绍和 Demo
 
 ### 94. `I work mainly with ...`
 
@@ -835,7 +832,7 @@
 
 ### 96. `One project I'd like to talk about is ...`
 
-面试或自我介绍中自然地引出一个项目。
+自我介绍或工作交流中自然地引出一个项目。
 
 - One project I'd like to talk about is an internal dashboard.
 - One project I'd like to talk about is a payment system I helped build.
@@ -880,7 +877,7 @@
 
 ### 101. `As a result, ...`
 
-说明行动带来的可观察结果。面试回答不要只停留在“我做了什么”。
+说明行动带来的可观察结果。介绍项目时不要只停留在“我做了什么”。
 
 - As a result, the page loaded twice as fast.
 - As a result, we reduced the number of support tickets.
@@ -1017,8 +1014,7 @@
 
 ## 完整场景串联练习
 
-下面的对话不是新的背诵清单。每次选一段，替换项目、任务、时间和技术名词，
-练习如何把多个语言块连起来。
+下面的对话不是新的背诵清单。每次选一段，替换项目、任务、时间和技术名词，练习如何把多个语言块连起来。
 
 ### 场景一：没有听清需求
 
@@ -1090,9 +1086,9 @@
 > **You:** I'll hand this over to the US team for monitoring. No need to reply
 > right away unless the error rate increases again.
 
-### 场景七：面试中介绍项目
+### 场景七：问答中介绍项目
 
-> **Interviewer:** Could you tell me about a project you're proud of?
+> **Conversation partner:** Could you tell me about a project you're proud of?
 >
 > **You:** One project I'd like to talk about is an internal monitoring tool.
 > The goal was to help our support team find errors more quickly.

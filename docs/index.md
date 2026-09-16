@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 自学英语
   text: 面向实际工作交流的英语训练仓库
-  tagline: 围绕会议、技术问题和面试：听 → 复述 → 纠错 → 再次输出
+  tagline: 围绕日常沟通、会议和技术问题：听 → 复述 → 纠错 → 再次输出
   actions:
     - theme: brand
       text: 简介
@@ -24,7 +24,7 @@ features:
     details: 学习原则、每日听说训练流程、心得总结、训练用 Prompt
     link: /method/learning-principles
   - title: 语言块
-    details: 远程会议、技术解释、Bug、需求、协作、面试和 Demo 高频表达
+    details: 会议、技术解释、Bug、需求、协作、项目介绍和 Demo 高频表达
     link: /expressions/
   - title: 听力材料
     details: B1 职场主线、A2 口语材料、技术听力、真实播客和手机收听方式
