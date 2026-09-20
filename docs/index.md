@@ -27,7 +27,7 @@ features:
     details: 会议、技术解释、Bug、需求、协作、项目介绍和 Demo 高频表达
     link: /expressions/
   - title: 听力材料
-    details: B1 职场主线、A2 口语材料、技术听力、真实播客和手机收听方式
+    details: B1 美式工作主线、A2 口语输出、技术听力、多口音安排和手机收听方式
     link: /practice/listening/
   - title: 训练记录
     details: 历史材料、每日回顾、听力练习和工作场景

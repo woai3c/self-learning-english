@@ -4,7 +4,7 @@
 
 ## 当前入口
 
-- [听力材料](./listening/index.md)：B1 听力主线、A2 口语材料、真实程序员播客、手机收听方法和四周起步顺序
+- [听力材料](./listening/index.md)：B1 美式工作主线、A2 口语输出、真实程序员播客、多口音安排、手机收听方法和四周起步顺序
 - [工作场景](./work-scenarios/index.md)：会议、站会、Bug、需求、技术解释、异步协作、项目介绍和 Demo
 - [工作交流语言块](../expressions/work-communication.md)：可直接用于练习的表达、例句和完整场景对话
 - [每日回顾](./daily-retelling/index.md)：用英语复述当天做过的事情

@@ -37,12 +37,15 @@
 
 ### 当前阶段的材料
 
-当前听力约为 B1，口语约为 A2。材料统一围绕实际工作交流：
+当前听力约为 B1，口语约为 A2。精听、跟读和口语模仿优先使用美式发音，材料以工作交流为主：
 
-- B1 听力主线：[British Council B1 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/b1) 的工作场景和 BBC Office English
-- A2 口语转化：[925 English](https://www.businessenglishpod.com/category/925-english/) 和工作交流语言块
-- 技术听力：VOA Technology Report 和有英文字幕的技术讲解
-- 真实材料：Developer Tea、Stack Overflow Podcast 和 Soft Skills Engineering
+- B1 美式工作听力主线：[VOA Let's Learn English Level 2](https://learningenglish.voanews.com/p/6765.html) 的 Lesson 1～3，以及 `Better Conversations at Work`；无需注册，听力材料页提供官方 YouTube、课程文本和直接 MP3
+- A2 口语转化：使用 VOA Level 1 的 `Are You Busy?`、`Teamwork Works Best With a Team` 和 `How Can I Help?` 做美式跟读，再使用 [925 English](https://www.businessenglishpod.com/category/925-english/) 和工作交流语言块补充表达；925 English 不默认作为美式发音范本
+- 清晰工作讲解：[Speak Confident English](https://www.speakconfidentenglish.com/podcast/) 的会议、澄清、反馈和项目汇报内容
+- 技术听力：VOA Technology Report 和有英文字幕的美式技术讲解
+- 真实材料：优先选择美式说话人的 Developer Tea、Stack Overflow Podcast 等片段
+- 多口音接触：British Council 和 BBC 当前只作少量泛听，达到 B2 后再系统增加
+- 注册课程：USA Learns 必须创建免费账户并登录，只作可选补充，不影响当前主线
 - 输出场景：会议、站会、Bug、需求、技术解释、异步协作、项目介绍和功能演示
 - 生词处理：只处理听说训练中真实遇到的词，并立即放进原句或复述中使用
 
@@ -62,7 +65,7 @@
 先完成 20～30 分钟最低版，再从下面的模块中按需选择，直到当天总时长达到 60～90 分钟；不要求把所有模块全部完成。
 
 - 跟读 10～15 分钟：模仿当前材料的重音、停顿和连读
-- 职场短听力 10～15 分钟：结束后用 3～5 句英语复述
+- 分级美式短听力 10～15 分钟：结束后用 3～5 句英语复述
 - 技术短听力 10～15 分钟：截取带英文字幕或文本的 1～3 分钟片段
 - 工作场景（A2 口语输出）15～20 分钟：把材料换成自己的项目，脱稿表达，检查后再说一遍
 - 复听、再输出或词汇维护 5～10 分钟（可选）：重听最难的一段、重说最卡的部分，或复习当天遇到的词
@@ -79,11 +82,11 @@
 
 ### 材料安排
 
-- 当前听力 B1：50% 分级职场英语、30% 清晰技术讲解、20% 真实材料
-- B1 稳定后：40% 分级职场英语、30% 技术讲解、30% B2 或真实材料
-- A2 材料主要用于跟读、替换和口语自动化
+- 当前听力 B1：50% 分级美式英语、30% 清晰的美式技术讲解、15% 美式自然材料、5% 英式或其他口音
+- 达到 B2 后：70% 美式材料、30% 英式或其他口音；口语模仿仍保持美式发音
+- A2 难度的句式主要用于替换和口语自动化；只有美式说话人的音频才用于跟读
 
-精听材料必须带文本或字幕，内容要能迁移到实际工作，连续语言要占主要部分；跟读材料要发音清晰、语速适中。影视和技术新闻只作补充。切换阶段看实际表现，不机械地按日期更换材料。
+精听材料必须带文本或字幕，内容以实际工作为主；通用英语只有能直接迁移到会议、协作、技术说明或工作寒暄时才作为补充。连续语言要占主要部分；跟读和口语模仿统一使用美式发音。当前接触英式或其他口音时只训练理解，不模仿发音。影视和技术新闻只作补充。切换阶段看实际表现，不机械地按日期更换材料。
 
 ### 听力和口语的级别标准
 
@@ -91,18 +94,20 @@
 
 听懂率按主要信息估算，不按听出的单词数量计算：能否说出主题、人物目的、关键事实和最后结果。
 
-- [A2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/a2)：只用于跟读、替换和口语自动化，不作为听力主线
-- [B1 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/b1)：当前听力主线，包括电话、会议、采访以及清晰的日常或工作话题
-- [B2 Listening](https://learnenglish.britishcouncil.org/free-resources/listening/b2)：更长的广播、访谈、演讲和包含复杂观点的熟悉话题
+- [VOA Let's Learn English Level 2](https://learningenglish.voanews.com/p/6765.html)：当前 B1 美式听力主线，只学习 Lesson 1～3 的工作场景；官方 YouTube、直接 MP3 和文本入口见[听力材料](docs/practice/listening/index.md)
+- [VOA Let's Learn English Level 1](https://learningenglish.voanews.com/p/5644.html)：A2 美式口语转化，只使用 Lesson 8、41 和 47
+- [925 English](https://www.businessenglishpod.com/category/925-english/)：A2 工作表达库；公开音频无需注册，完整 PDF 和练习需要会员，只有当前说话人是美式发音时才用于跟读
+- [USA Learns 2nd English Course](https://www.usalearns.org/2nd-free-online-english-course) 和 [Access America](https://www.usalearns.org/Access-America)：需要免费注册并登录，只作可选补充
+- British Council 和 BBC：当前只作少量多口音理解训练，达到 B2 后再提高比例
 
-连续 5 段 B1 新材料达到以下标准，再把 B2 或真实材料提高到训练量的 30%：
+连续 5 段 B1 新材料达到以下标准后，保持 B1 工作材料为主，并每周加入一段美式 B2 试听：
 
 - 第一遍不看文本能理解约 70% 的主要信息
 - 第二遍不看文本能理解约 80%
 - 配套理解题正确率达到 80%
 - 不看文本能用 3～5 句英语复述主题、关键事件和结果
 
-第一次听懂 50%～70% 的 B1 材料适合精听；低于 40% 时缩短片段或换更清楚的 B1 材料。稳定达到 70% 以上时，每周加入一段 B2 试听。
+第一次听懂 50%～70% 的 B1 材料适合精听；低于 40% 时缩短片段或换更清楚的 B1 材料。连续 5 段美式 B2 新材料也达到上述标准后，再把英式或其他口音逐步提高到 30%。
 
 口语暂时以能连续表达 60～90 秒、主动使用 3～5 个语言块并回答两个追问为目标，不要求复述使用和听力材料一样复杂的句子。
 
@@ -156,7 +161,7 @@ docs/
 
 ## 当前训练
 
-正在使用 B1 职场材料训练听力，并用 A2 难度的简单句完成复述和工作场景输出。
+正在使用 B1 美式工作材料训练听力，并用 A2 难度的简单句完成复述和工作场景输出。
 
 当前入口：[听力材料](docs/practice/listening/index.md)
 
