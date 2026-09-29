@@ -2,3 +2,5 @@ node_modules
 docs/.vitepress/cache
 dist
 .x-code
+*.m4a
+*.wav

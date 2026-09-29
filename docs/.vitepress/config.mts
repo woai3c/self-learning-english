@@ -57,6 +57,7 @@ export default defineConfig({
                 { text: 'Ep2 Act3 The Blind Date', link: '/practice/family-album-usa/episode-02-act-03' },
                 { text: "Ep3 Act1 Grandpa's Trunk", link: '/practice/family-album-usa/episode-03-act-01' },
                 { text: "Ep3 Act2 Grandpa's Trunk", link: '/practice/family-album-usa/episode-03-act-02' },
+                { text: 'Ep5 Act3 The Right Magic', link: '/practice/family-album-usa/episode-05-act-03' },
               ],
             },
             {

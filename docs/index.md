@@ -11,7 +11,7 @@ hero:
       link: /introduce
     - theme: alt
       text: 最新练习
-      link: /practice/daily-retelling/2026-08-20
+      link: /practice/family-album-usa/episode-05-act-03
     - theme: alt
       text: 听力材料
       link: /practice/listening/
